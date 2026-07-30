@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+<title id="title">Projectile range versus launch angle</title>
+<desc id="desc">An idealised curve peaks at 45 degrees. Points at 30 and 60 degrees are at equal height.</desc>
+<rect width="800" height="450" fill="#ffffff"/>
+<line x1="95" y1="370" x2="735" y2="370" stroke="#222" stroke-width="4"/>
+<line x1="95" y1="370" x2="95" y2="70" stroke="#222" stroke-width="4"/>
+<path d="M95 370 C235 355, 300 120, 410 90 C520 120, 585 355, 735 370" fill="none" stroke="#1677b8" stroke-width="7"/>
+<circle cx="305" cy="155" r="11" fill="#d1495b"/><circle cx="410" cy="90" r="11" fill="#d1495b"/><circle cx="515" cy="155" r="11" fill="#d1495b"/>
+<line x1="305" y1="155" x2="305" y2="370" stroke="#888" stroke-width="3" stroke-dasharray="8 7"/>
+<line x1="410" y1="90" x2="410" y2="370" stroke="#888" stroke-width="3" stroke-dasharray="8 7"/>
+<line x1="515" y1="155" x2="515" y2="370" stroke="#888" stroke-width="3" stroke-dasharray="8 7"/>
+<text x="280" y="410" font-family="Arial, sans-serif" font-size="29" fill="#111">30°</text>
+<text x="385" y="410" font-family="Arial, sans-serif" font-size="29" fill="#111">45°</text>
+<text x="490" y="410" font-family="Arial, sans-serif" font-size="29" fill="#111">60°</text>
+<text x="320" y="445" font-family="Arial, sans-serif" font-size="27" font-weight="700" fill="#111">Launch angle</text>
+<text x="33" y="255" transform="rotate(-90 33 255)" font-family="Arial, sans-serif" font-size="27" font-weight="700" fill="#111">Relative range</text>
+</svg>

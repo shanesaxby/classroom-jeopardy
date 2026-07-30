@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 480" role="img" aria-labelledby="t d">
+<title id="t">Lightning and relativity of simultaneity</title><desc id="d">Lightning strikes both ends of a train simultaneously in the ground frame while the train moves right.</desc>
+<defs><marker id="a" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0 0L12 6L0 12z" fill="#17324d"/></marker></defs>
+<rect width="1000" height="480" fill="white"/><rect x="145" y="215" width="700" height="135" rx="35" fill="#d9e8f5" stroke="#315b7d" stroke-width="6"/>
+<circle cx="285" cy="365" r="42" fill="#555"/><circle cx="705" cy="365" r="42" fill="#555"/><circle cx="495" cy="280" r="22" fill="#f4c95d" stroke="#111" stroke-width="4"/><text x="465" y="325" font-family="Arial" font-size="25" font-weight="700">observer</text>
+<path d="M165 45 l-35 80 38-15-25 85 85-115-45 12 25-47z" fill="#f1c40f" stroke="#d68b00" stroke-width="4"/><path d="M825 45 l-35 80 38-15-25 85 85-115-45 12 25-47z" fill="#f1c40f" stroke="#d68b00" stroke-width="4"/>
+<line x1="620" y1="175" x2="805" y2="175" stroke="#17324d" stroke-width="7" marker-end="url(#a)"/><text x="700" y="145" font-family="Arial" font-size="29" font-weight="700">train velocity</text>
+<text x="80" y="430" font-family="Arial" font-size="25">rear strike</text><text x="800" y="430" font-family="Arial" font-size="25">front strike</text>
+</svg>

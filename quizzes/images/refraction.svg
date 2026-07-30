@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500" role="img" aria-labelledby="title desc">
+  <title id="title">Light refraction diagram</title>
+  <desc id="desc">A light ray travels from air into a glass block and bends towards the normal.</desc>
+  <rect width="900" height="500" fill="#f8fbff"/>
+  <rect x="0" y="250" width="900" height="250" fill="#bde8f4" opacity="0.72"/>
+  <line x1="450" y1="40" x2="450" y2="470" stroke="#1f2a44" stroke-width="5" stroke-dasharray="18 14"/>
+  <line x1="160" y1="70" x2="450" y2="250" stroke="#e63946" stroke-width="14" stroke-linecap="round"/>
+  <polygon points="450,250 420,238 433,216" fill="#e63946"/>
+  <line x1="450" y1="250" x2="560" y2="450" stroke="#e63946" stroke-width="14" stroke-linecap="round"/>
+  <polygon points="560,450 532,430 556,417" fill="#e63946"/>
+  <text x="70" y="70" font-family="Arial, sans-serif" font-size="42" fill="#0b2851">Air</text>
+  <text x="70" y="320" font-family="Arial, sans-serif" font-size="42" fill="#0b2851">Glass</text>
+  <text x="475" y="90" font-family="Arial, sans-serif" font-size="30" fill="#1f2a44">Normal</text>
+</svg>

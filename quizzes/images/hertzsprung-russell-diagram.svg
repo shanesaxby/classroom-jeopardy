@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="t d">
+<title id="t">Hertzsprung Russell diagram</title><desc id="d">The main sequence slopes from hot luminous stars to cool dim stars. Region A is upper right and region B lower left.</desc>
+<defs><marker id="a" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0 0L12 6L0 12z" fill="#17324d"/></marker></defs>
+<rect width="900" height="520" fill="white"/><line x1="100" y1="425" x2="825" y2="425" stroke="#222" stroke-width="4" marker-end="url(#a)"/><line x1="100" y1="425" x2="100" y2="55" stroke="#222" stroke-width="4" marker-end="url(#a)"/>
+<ellipse cx="500" cy="250" rx="285" ry="45" transform="rotate(38 500 250)" fill="#d9eaf7" stroke="#1677b8" stroke-width="4"/><text x="430" y="235" transform="rotate(38 430 235)" font-family="Arial" font-size="28" font-weight="700">main sequence</text>
+<ellipse cx="680" cy="120" rx="125" ry="65" fill="#f7d8cf" stroke="#d1495b" stroke-width="4"/><text x="660" y="130" font-family="Arial" font-size="40" font-weight="700">A</text>
+<ellipse cx="250" cy="365" rx="105" ry="45" fill="#e7e2f5" stroke="#7651a8" stroke-width="4"/><text x="235" y="375" font-family="Arial" font-size="40" font-weight="700">B</text>
+<text x="250" y="485" font-family="Arial" font-size="27">hotter</text><text x="700" y="485" font-family="Arial" font-size="27">cooler</text><text x="350" y="510" font-family="Arial" font-size="28" font-weight="700">surface temperature decreases →</text>
+<text x="30" y="330" transform="rotate(-90 30 330)" font-family="Arial" font-size="28" font-weight="700">luminosity increases</text>
+</svg>

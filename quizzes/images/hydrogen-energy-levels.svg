@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 500" role="img" aria-labelledby="t d">
+<title id="t">Hydrogen energy levels and transitions</title><desc id="d">Four energy levels show three downward transitions, with transition C having the greatest energy drop.</desc>
+<defs><marker id="a" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0 0L12 6L0 12z" fill="#17324d"/></marker></defs>
+<rect width="850" height="500" fill="white"/>
+<g stroke="#315b7d" stroke-width="6"><line x1="145" y1="410" x2="720" y2="410"/><line x1="145" y1="280" x2="720" y2="280"/><line x1="145" y1="190" x2="720" y2="190"/><line x1="145" y1="125" x2="720" y2="125"/></g>
+<g font-family="Arial" font-size="28" font-weight="700"><text x="70" y="420">n = 1</text><text x="70" y="290">n = 2</text><text x="70" y="200">n = 3</text><text x="70" y="135">n = 4</text></g>
+<line x1="300" y1="180" x2="300" y2="270" stroke="#d68b00" stroke-width="8" marker-end="url(#a)"/><text x="270" y="165" font-family="Arial" font-size="30" font-weight="700">A</text>
+<line x1="470" y1="115" x2="470" y2="270" stroke="#d1495b" stroke-width="8" marker-end="url(#a)"/><text x="440" y="100" font-family="Arial" font-size="30" font-weight="700">B</text>
+<line x1="630" y1="115" x2="630" y2="400" stroke="#7651a8" stroke-width="8" marker-end="url(#a)"/><text x="600" y="100" font-family="Arial" font-size="30" font-weight="700">C</text>
+<text x="210" y="470" font-family="Arial" font-size="27" font-weight="700">downward arrows represent photon emission</text>
+</svg>

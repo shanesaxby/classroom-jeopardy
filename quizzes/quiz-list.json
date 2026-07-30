@@ -1,0 +1,20 @@
+{
+  "quizzes": [
+	{
+	  "file": "nsw-hsc-physics-module-5-advanced-mechanics.json",
+	  "label": "NSW HSC Physics Module 5: Advanced Mechanics"
+	},
+	{
+	  "file": "nsw-hsc-physics-module-6-electromagnetism.json",
+	  "label": "NSW HSC Physics Module 6: Electromagnetism"
+	},
+	{
+	"file": "nsw-hsc-physics-module-7-nature-of-light.json",
+	"label": "NSW HSC Physics Module 7: The Nature of Light"
+	},
+	{
+	"file": "nsw-hsc-physics-module-8-from-the-universe-to-the-atom.json",
+	"label": "NSW HSC Physics Module 8: From the Universe to the Atom"
+	}
+  ]
+}

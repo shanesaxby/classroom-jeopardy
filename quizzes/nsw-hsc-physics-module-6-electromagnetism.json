@@ -1,0 +1,222 @@
+{
+  "id": "nsw-hsc-physics-module-6-electromagnetism",
+  "title": "NSW HSC Physics Module 6: Electromagnetism",
+  "description": "A classroom review organised around the four Module 6 inquiry questions: charges in fields, the motor effect, electromagnetic induction, and technological applications.",
+  "course": "NSW HSC Physics — Module 6: Electromagnetism",
+  "recommendedLevel": "Year 12 / HSC",
+  "author": "Generated with Classroom Jeopardy Quiz Maker",
+  "estimatedDuration": "50–60 minutes",
+  "settings": {
+    "questionTimerSeconds": 25,
+    "finalTimerSeconds": 60
+  },
+  "rules": {
+    "mode": "append",
+    "general": [],
+    "scoring": [],
+    "final": []
+  },
+  "categories": [
+    {
+      "name": "Charges in Fields",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "How does the direction of electric force on a negative charge compare with the direction of the electric field?",
+          "answer": "It is opposite to the electric-field direction."
+        },
+        {
+          "value": 200,
+          "prompt": "Parallel plates have a potential difference of 600 V and separation of 0.030 m. What is the uniform electric-field strength?",
+          "answer": "E = V/d = 2.0 × 10⁴ V m⁻¹.",
+          "timerSeconds": 35
+        },
+        {
+          "value": 300,
+          "prompt": "An electron is released in a uniform electric field of 2.0 × 10⁴ N C⁻¹. Using |q| = 1.60 × 10⁻¹⁹ C and m = 9.11 × 10⁻³¹ kg, find its acceleration magnitude.",
+          "answer": "a = qE/m = 3.51 × 10¹⁵ m s⁻².",
+          "timerSeconds": 45
+        },
+        {
+          "value": 400,
+          "prompt": "A proton starts from rest and is accelerated through 2.0 kV. Using q = 1.60 × 10⁻¹⁹ C and m = 1.67 × 10⁻²⁷ kg, find its speed.",
+          "answer": "qV = ½mv², so v = 6.19 × 10⁵ m s⁻¹.",
+          "timerSeconds": 50
+        },
+        {
+          "value": 500,
+          "prompt": "A positive charge moves right into a magnetic field directed into the page. Which way does it initially deflect, and what path follows if the field is uniform?",
+          "answer": "It deflects upward and follows a circular path while its velocity remains perpendicular to the magnetic field.",
+          "image": "images/positive-charge-magnetic-path.svg",
+          "imageAlt": "A positive charge moves right into a field directed into the page; the force is upward and the path curves upward."
+        },
+        {
+          "value": 600,
+          "prompt": "A proton enters a 0.200 T magnetic field perpendicular to the field at 3.0 × 10⁶ m s⁻¹. Find the radius of its path.",
+          "answer": "r = mv/(qB) = 0.157 m.",
+          "timerSeconds": 50
+        },
+        {
+          "value": 700,
+          "prompt": "A singly charged positive ion passes undeflected through crossed fields E = 6.0 × 10⁴ V m⁻¹ and B = 0.040 T. It then enters a 0.300 T analyser field and follows a circular path of radius 0.104 m. Find its mass.",
+          "answer": "The selector gives v = E/B = 1.50 × 10⁶ m s⁻¹. Then m = qBr/v = 3.33 × 10⁻²⁷ kg.",
+          "image": "images/velocity-selector-analyser.svg",
+          "imageAlt": "A positive ion passes straight through crossed fields, then curves in a second magnetic field through radius r.",
+          "timerSeconds": 60
+        }
+      ]
+    },
+    {
+      "name": "The Motor Effect",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "Under what orientation is the magnetic force on a straight current-carrying conductor greatest?",
+          "answer": "When the current is perpendicular to the magnetic field."
+        },
+        {
+          "value": 200,
+          "prompt": "A 0.250 m wire carries 4.0 A through a 0.600 T field at 30° to the field. Find the magnetic-force magnitude.",
+          "answer": "F = BIL sin θ = 0.300 N.",
+          "timerSeconds": 40
+        },
+        {
+          "value": 300,
+          "prompt": "The wire carries conventional current to the right in a magnetic field into the page. State the direction of the motor-effect force.",
+          "answer": "Upward.",
+          "image": "images/motor-effect-wire.svg",
+          "imageAlt": "A horizontal wire carries current right through a magnetic field into the page, producing an upward force."
+        },
+        {
+          "value": 400,
+          "prompt": "Two parallel 0.500 m wires are 0.040 m apart and carry 5.0 A and 8.0 A in the same direction. Find the force between them and state whether it attracts or repels.",
+          "answer": "F = μ₀I₁I₂L/(2πr) = 1.00 × 10⁻⁴ N. The force is attractive because the currents are in the same direction.",
+          "timerSeconds": 50
+        },
+        {
+          "value": 500,
+          "prompt": "A 50-turn coil of area 0.012 m² carries 2.0 A in a 0.400 T field. The angle between the coil’s area vector and the field is 60°. Find the torque.",
+          "answer": "τ = nIAB sin θ = 0.416 N m.",
+          "timerSeconds": 50
+        },
+        {
+          "value": 600,
+          "prompt": "The diagram shows a simple DC motor just before the coil passes its zero-torque position. What must the split-ring commutator do as the coil passes this position, and why?",
+          "answer": "It reverses the current every half-turn, reversing both side forces so the torque continues in the same rotational direction.",
+          "image": "images/dc-motor-coil.svg",
+          "imageAlt": "A rectangular motor coil between magnetic poles, connected to a split-ring commutator, with opposite forces on its sides.",
+          "timerSeconds": 35
+        },
+        {
+          "value": 700,
+          "prompt": "A 120-turn motor coil of area 0.015 m² carries 3.0 A in a radial 0.350 T field, so its torque is always maximum. At 20 revolutions per second, find the ideal torque and mechanical power.",
+          "answer": "τ = nIAB = 1.89 N m. With ω = 2πf = 126 rad s⁻¹, P = τω = 2.38 × 10² W.",
+          "timerSeconds": 60
+        }
+      ]
+    },
+    {
+      "name": "Electromagnetic Induction",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "State Faraday’s Law in words.",
+          "answer": "The induced emf equals the rate of change of magnetic flux linkage; its direction is given by Lenz’s Law."
+        },
+        {
+          "value": 200,
+          "prompt": "A 0.018 m² loop is in a 0.250 T field. The field is 30° to the loop’s area vector. Find the magnetic flux through the loop.",
+          "answer": "Φ = BA cos θ = 3.90 × 10⁻³ Wb.",
+          "timerSeconds": 40
+        },
+        {
+          "value": 300,
+          "prompt": "The flux through each turn of a 200-turn coil falls from 4.0 × 10⁻⁴ Wb to 1.0 × 10⁻⁴ Wb in 0.020 s. Find the average induced-emf magnitude.",
+          "answer": "|ε| = N|ΔΦ|/Δt = 3.0 V.",
+          "timerSeconds": 45
+        },
+        {
+          "value": 400,
+          "prompt": "A magnet’s north pole approaches the coil. Viewed from the magnet side, is the induced current clockwise or anticlockwise? Explain.",
+          "answer": "Anticlockwise. The near face of the coil becomes a north pole to oppose the approaching north pole, as required by Lenz’s Law.",
+          "image": "images/magnet-approaching-coil.svg",
+          "imageAlt": "The north pole of a bar magnet moves towards a circular conducting coil, viewed from the magnet side.",
+          "timerSeconds": 40
+        },
+        {
+          "value": 500,
+          "prompt": "An ideal transformer has 1200 primary turns and changes 240 V to 12 V. Find the secondary turns. If the secondary current is 5.0 A, find the primary current.",
+          "answer": "Nₛ = 60 turns and Iₚ = 0.250 A.",
+          "timerSeconds": 50
+        },
+        {
+          "value": 600,
+          "prompt": "A line with total resistance 4.0 Ω transmits 100 kW. Compare the power loss when transmission voltage is 10 kV with the loss at 1.0 kV.",
+          "answer": "At 10 kV: I = 10 A and P_loss = 400 W. At 1.0 kV: I = 100 A and P_loss = 40 kW, which is 100 times greater.",
+          "timerSeconds": 60
+        },
+        {
+          "value": 700,
+          "prompt": "A 0.500 m conducting rod moves at 8.0 m s⁻¹ perpendicular to a 0.300 T field. It completes a 4.0 Ω circuit. Find the induced emf, current, opposing magnetic force, and mechanical power needed to maintain constant speed.",
+          "answer": "ε = BLv = 1.20 V; I = 0.300 A; F = BIL = 0.0450 N; P = Fv = 0.360 W, equal to I²R.",
+          "image": "images/moving-rod-induction.svg",
+          "imageAlt": "A conducting rod slides right on parallel rails through a magnetic field into the page, forming a circuit with a resistor.",
+          "timerSeconds": 70
+        }
+      ]
+    },
+    {
+      "name": "Motor Applications",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "In a simple DC motor, name the stationary magnetic part and the rotating coil assembly.",
+          "answer": "The stator is stationary; the rotor or armature rotates."
+        },
+        {
+          "value": 200,
+          "prompt": "What is the function of the split-ring commutator in a simple DC motor?",
+          "answer": "It reverses the current in the rotating coil every half-turn so the torque continues in one direction."
+        },
+        {
+          "value": 300,
+          "prompt": "What energy transformation occurs in an AC generator, and which component connects its rotating coil to the external circuit?",
+          "answer": "Mechanical energy is transformed into electrical energy, and slip rings connect the rotating coil to the external circuit."
+        },
+        {
+          "value": 400,
+          "prompt": "Why does the current drawn by a DC motor usually decrease as the motor speeds up?",
+          "answer": "The rotating coil produces a larger back emf that opposes the supply, reducing the effective voltage and current."
+        },
+        {
+          "value": 500,
+          "prompt": "The aluminium plate moves right between the magnet poles. Explain why an opposing force is produced even though aluminium is not ferromagnetic.",
+          "answer": "Changing magnetic flux induces eddy currents in the conducting aluminium. Their magnetic field opposes the motion by Lenz’s Law, producing magnetic braking.",
+          "image": "images/eddy-current-braking.svg",
+          "imageAlt": "An aluminium plate moves right through a magnetic field gap; eddy currents are shown and the braking force points left.",
+          "timerSeconds": 40
+        },
+        {
+          "value": 600,
+          "prompt": "Explain how a three-phase AC induction motor makes its squirrel-cage rotor turn, and why the rotor must rotate more slowly than the magnetic field.",
+          "answer": "Three-phase currents create a rotating magnetic field that induces rotor currents. The motor effect produces torque. The rotor must lag behind the field so changing flux, induced current and torque continue; this difference is slip.",
+          "timerSeconds": 45
+        },
+        {
+          "value": 700,
+          "prompt": "A DC motor has a 24 V supply, coil resistance 2.0 Ω and back emf 18 V. Find the current, input power, power converted electromagnetically, and resistive heating.",
+          "answer": "I = (24 − 18)/2.0 = 3.0 A; input power = 72 W; converted power = ε_back I = 54 W; heating = I²R = 18 W.",
+          "timerSeconds": 60
+        }
+      ]
+    }
+  ],
+  "finalRound": {
+    "category": "Lenz’s Law in Motion",
+    "prompt": "A conducting loop moves right at constant speed through a finite region of uniform magnetic field directed into the page. State the induced-current direction while the loop enters, while it is fully inside, and while it leaves. Also state the direction of the magnetic force whenever current flows.",
+    "answer": "Entering: anticlockwise, producing field out of the page. Fully inside: no induced emf or current. Leaving: clockwise, producing field into the page. During entry and exit, the magnetic force is left, opposing the loop’s motion.",
+    "timerSeconds": 60,
+    "image": "images/loop-crossing-field-region.svg",
+    "imageAlt": "Three snapshots show a conducting loop moving right as it enters, is fully inside, and leaves a magnetic field into the page."
+  }
+}

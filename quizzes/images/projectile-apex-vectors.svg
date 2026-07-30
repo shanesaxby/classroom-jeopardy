@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+<title id="title">Projectile velocity and acceleration at the apex</title>
+<desc id="desc">A parabolic path reaches point B. Arrow P points horizontally right and arrow Q points vertically down.</desc>
+<defs><marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#17324d"/></marker></defs>
+<rect width="800" height="450" fill="#ffffff"/>
+<line x1="80" y1="390" x2="740" y2="390" stroke="#555" stroke-width="4"/>
+<path d="M110 360 Q390 55 700 360" fill="none" stroke="#1677b8" stroke-width="7" stroke-dasharray="12 9"/>
+<circle cx="398" cy="205" r="13" fill="#d1495b"/>
+<text x="383" y="175" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#111">B</text>
+<line x1="418" y1="205" x2="575" y2="205" stroke="#17324d" stroke-width="7" marker-end="url(#arrow)"/>
+<text x="493" y="180" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#111">P</text>
+<line x1="398" y1="225" x2="398" y2="350" stroke="#17324d" stroke-width="7" marker-end="url(#arrow)"/>
+<text x="420" y="305" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#111">Q</text>
+<text x="80" y="55" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#111">Projectile at its highest point</text>
+</svg>

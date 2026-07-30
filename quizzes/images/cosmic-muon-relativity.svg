@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 520" role="img" aria-labelledby="t d">
+<title id="t">Cosmic muons in Earth and muon frames</title><desc id="d">In the Earth frame the muon lifetime is dilated; in the muon frame the atmosphere is length contracted.</desc>
+<defs><marker id="a" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0 0L12 6L0 12z" fill="#17324d"/></marker></defs>
+<rect width="1000" height="520" fill="white"/><text x="125" y="45" font-family="Arial" font-size="30" font-weight="700">Earth frame</text><text x="655" y="45" font-family="Arial" font-size="30" font-weight="700">Muon frame</text>
+<rect x="65" y="90" width="380" height="320" fill="#eaf5ff" stroke="#1677b8" stroke-width="5"/><rect x="65" y="410" width="380" height="55" fill="#7bbf6a"/><text x="175" y="455" font-family="Arial" font-size="25" font-weight="700">Earth surface</text>
+<circle cx="250" cy="120" r="22" fill="#d1495b"/><text x="239" y="129" font-family="Arial" font-size="27" font-weight="700" fill="white">μ</text><line x1="250" y1="150" x2="250" y2="385" stroke="#17324d" stroke-width="7" marker-end="url(#a)"/><text x="275" y="265" font-family="Arial" font-size="25" font-weight="700">10.0 km</text>
+<rect x="555" y="175" width="380" height="135" fill="#eaf5ff" stroke="#1677b8" stroke-width="5"/><rect x="555" y="310" width="380" height="55" fill="#7bbf6a"/><circle cx="745" cy="120" r="22" fill="#d1495b"/><text x="734" y="129" font-family="Arial" font-size="27" font-weight="700" fill="white">μ</text>
+<line x1="745" y1="165" x2="745" y2="285" stroke="#17324d" stroke-width="7" marker-end="url(#a)"/><text x="770" y="235" font-family="Arial" font-size="25" font-weight="700">632 m</text><text x="620" y="410" font-family="Arial" font-size="25">contracted atmosphere</text>
+</svg>

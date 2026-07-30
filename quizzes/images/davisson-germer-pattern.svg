@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500" role="img" aria-labelledby="t d">
+<title id="t">Davisson Germer electron diffraction pattern</title><desc id="d">Scattered electron intensity has sharp peaks as a function of angle.</desc>
+<defs><marker id="a" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0 0L12 6L0 12z" fill="#17324d"/></marker></defs>
+<rect width="900" height="500" fill="white"/><line x1="105" y1="410" x2="830" y2="410" stroke="#222" stroke-width="4" marker-end="url(#a)"/><line x1="105" y1="410" x2="105" y2="55" stroke="#222" stroke-width="4" marker-end="url(#a)"/>
+<path d="M115 390 C170 385 190 370 225 280 C250 210 280 370 325 385 C370 390 390 350 420 170 C445 40 480 335 525 380 C575 395 595 355 625 245 C650 150 685 350 740 385" fill="none" stroke="#d1495b" stroke-width="7"/>
+<text x="365" y="475" font-family="Arial" font-size="29" font-weight="700">scattering angle</text><text x="30" y="330" transform="rotate(-90 30 330)" font-family="Arial" font-size="29" font-weight="700">electron intensity</text>
+<polygon points="650,70 790,105 735,190 600,150" fill="#c9cdd1" stroke="#555" stroke-width="4"/><line x1="525" y1="120" x2="630" y2="125" stroke="#17324d" stroke-width="6" marker-end="url(#a)"/><text x="505" y="95" font-family="Arial" font-size="24">electron beam</text><text x="680" y="135" font-family="Arial" font-size="24">crystal</text>
+</svg>

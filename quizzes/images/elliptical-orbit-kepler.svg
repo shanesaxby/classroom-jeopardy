@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+<title id="title">Elliptical orbit with perihelion and aphelion</title>
+<desc id="desc">The Sun is at the left focus. Point P is near the Sun and point A is at the far end of the ellipse.</desc>
+<rect width="800" height="450" fill="#ffffff"/>
+<ellipse cx="420" cy="230" rx="300" ry="145" fill="none" stroke="#1677b8" stroke-width="7"/>
+<circle cx="245" cy="230" r="42" fill="#f2b134" stroke="#a66a00" stroke-width="4"/>
+<text x="216" y="238" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#111">Sun</text>
+<circle cx="125" cy="230" r="13" fill="#d1495b"/>
+<circle cx="720" cy="230" r="13" fill="#d1495b"/>
+<text x="105" y="205" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#111">P</text>
+<text x="700" y="205" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#111">A</text>
+<text x="80" y="405" font-family="Arial, sans-serif" font-size="27" fill="#111">P = perihelion</text>
+<text x="565" y="405" font-family="Arial, sans-serif" font-size="27" fill="#111">A = aphelion</text>
+</svg>

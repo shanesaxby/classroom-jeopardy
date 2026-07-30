@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500" role="img" aria-labelledby="t d">
+<title id="t">Binding energy per nucleon curve</title><desc id="d">The curve rises steeply for light nuclei, peaks near iron and then declines gradually.</desc>
+<defs><marker id="a" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0 0L12 6L0 12z" fill="#17324d"/></marker></defs>
+<rect width="900" height="500" fill="white"/><line x1="95" y1="410" x2="835" y2="410" stroke="#222" stroke-width="4" marker-end="url(#a)"/><line x1="95" y1="410" x2="95" y2="55" stroke="#222" stroke-width="4" marker-end="url(#a)"/>
+<path d="M105 390 C145 210 190 120 310 95 C430 80 600 105 790 155" fill="none" stroke="#d1495b" stroke-width="8"/>
+<circle cx="310" cy="95" r="11" fill="#1677b8"/><text x="325" y="88" font-family="Arial" font-size="28" font-weight="700">iron region</text>
+<line x1="155" y1="340" x2="270" y2="150" stroke="#17324d" stroke-width="6" marker-end="url(#a)"/><text x="105" y="330" font-family="Arial" font-size="26" font-weight="700">fusion</text>
+<line x1="730" y1="170" x2="410" y2="110" stroke="#17324d" stroke-width="6" marker-end="url(#a)"/><text x="680" y="205" font-family="Arial" font-size="26" font-weight="700">fission</text>
+<text x="365" y="475" font-family="Arial" font-size="29" font-weight="700">mass number A</text><text x="28" y="335" transform="rotate(-90 28 335)" font-family="Arial" font-size="28" font-weight="700">binding energy per nucleon</text>
+</svg>

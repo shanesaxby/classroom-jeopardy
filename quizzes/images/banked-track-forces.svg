@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+<title id="title">Forces on a car on a banked track</title>
+<desc id="desc">A car sits on an inclined road. Weight acts vertically downward and normal force acts perpendicular to the road.</desc>
+<defs><marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#17324d"/></marker></defs>
+<rect width="800" height="450" fill="#ffffff"/>
+<line x1="90" y1="350" x2="710" y2="170" stroke="#555" stroke-width="14"/>
+<g transform="translate(390 245) rotate(-16)">
+<rect x="-70" y="-35" width="140" height="55" rx="12" fill="#d1495b" stroke="#111" stroke-width="4"/>
+<circle cx="-45" cy="28" r="18" fill="#222"/><circle cx="45" cy="28" r="18" fill="#222"/>
+</g>
+<line x1="390" y1="225" x2="390" y2="390" stroke="#17324d" stroke-width="7" marker-end="url(#arrow)"/>
+<text x="405" y="345" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#111">mg</text>
+<line x1="390" y1="225" x2="315" y2="5" stroke="#17324d" stroke-width="7" marker-end="url(#arrow)"/>
+<text x="282" y="80" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#111">N</text>
+<path d="M120 345 A70 70 0 0 1 187 325" fill="none" stroke="#111" stroke-width="4"/>
+<text x="155" y="315" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#111">θ</text>
+<line x1="90" y1="350" x2="240" y2="350" stroke="#999" stroke-width="3" stroke-dasharray="7 7"/>
+</svg>

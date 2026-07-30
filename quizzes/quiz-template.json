@@ -1,0 +1,60 @@
+{
+  "id": "replace-with-unique-id",
+  "title": "Quiz Title",
+  "description": "Brief description of the quiz.",
+  "course": "Subject or course",
+  "recommendedLevel": "Year level",
+  "author": "Author name",
+  "estimatedDuration": "35–45 minutes",
+  "settings": {
+    "questionTimerSeconds": 30,
+    "finalTimerSeconds": 60
+  },
+  "rules": {
+    "mode": "append",
+    "general": [],
+    "scoring": [],
+    "final": []
+  },
+  "categories": [
+    {
+      "name": "Category 1",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "Question text",
+          "answer": "Answer text"
+        },
+        {
+          "value": 200,
+          "prompt": "Question text",
+          "answer": "Answer text",
+          "timerSeconds": 20,
+          "image": "images/example.png",
+          "imageAlt": "Description of the image"
+        }
+      ]
+    },
+    {
+      "name": "Category 2",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "Question text",
+          "answer": "Answer text"
+        },
+        {
+          "value": 200,
+          "prompt": "Question text",
+          "answer": "Answer text"
+        }
+      ]
+    }
+  ],
+  "finalRound": {
+    "category": "Final Category",
+    "prompt": "Final Round question",
+    "answer": "Final Round answer",
+    "timerSeconds": 60
+  }
+}

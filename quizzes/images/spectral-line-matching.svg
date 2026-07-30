@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 500" role="img" aria-labelledby="t d">
+<title id="t">Matching absorption and emission spectra</title><desc id="d">Gas B emission lines align with dark absorption lines in a star spectrum.</desc>
+<rect width="1000" height="500" fill="white"/>
+<defs><linearGradient id="rain" x1="0" x2="1"><stop offset="0" stop-color="#673ab7"/><stop offset=".18" stop-color="#2952cc"/><stop offset=".35" stop-color="#19a974"/><stop offset=".55" stop-color="#f1c40f"/><stop offset=".72" stop-color="#ef7d00"/><stop offset="1" stop-color="#c62828"/></linearGradient></defs>
+<text x="40" y="95" font-family="Arial" font-size="28" font-weight="700">Star absorption</text><rect x="270" y="55" width="680" height="70" fill="url(#rain)" stroke="#222" stroke-width="3"/>
+<g stroke="#111" stroke-width="10"><line x1="385" y1="55" x2="385" y2="125"/><line x1="535" y1="55" x2="535" y2="125"/><line x1="730" y1="55" x2="730" y2="125"/><line x1="865" y1="55" x2="865" y2="125"/></g>
+<text x="40" y="245" font-family="Arial" font-size="28" font-weight="700">Gas A emission</text><rect x="270" y="205" width="680" height="70" fill="#111" stroke="#222" stroke-width="3"/>
+<g stroke="#f4d03f" stroke-width="8"><line x1="340" y1="205" x2="340" y2="275"/><line x1="600" y1="205" x2="600" y2="275"/><line x1="800" y1="205" x2="800" y2="275"/></g>
+<text x="40" y="395" font-family="Arial" font-size="28" font-weight="700">Gas B emission</text><rect x="270" y="355" width="680" height="70" fill="#111" stroke="#222" stroke-width="3"/>
+<g stroke="#f4d03f" stroke-width="8"><line x1="385" y1="355" x2="385" y2="425"/><line x1="535" y1="355" x2="535" y2="425"/><line x1="730" y1="355" x2="730" y2="425"/><line x1="865" y1="355" x2="865" y2="425"/></g>
+<text x="290" y="470" font-family="Arial" font-size="24">shorter wavelength</text><text x="760" y="470" font-family="Arial" font-size="24">longer wavelength</text>
+</svg>

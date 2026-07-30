@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 520" role="img" aria-labelledby="t d">
+<title id="t">Nuclear fission chain reaction</title><desc id="d">A neutron causes uranium fission, releasing fragments and three neutrons that strike other uranium nuclei.</desc>
+<defs><marker id="a" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0 0L12 6L0 12z" fill="#17324d"/></marker></defs>
+<rect width="1000" height="520" fill="white"/><circle cx="230" cy="260" r="58" fill="#f2b134" stroke="#8a6200" stroke-width="5"/><text x="197" y="270" font-family="Arial" font-size="28" font-weight="700">U-235</text>
+<circle cx="75" cy="260" r="17" fill="#315b7d"/><line x1="100" y1="260" x2="165" y2="260" stroke="#17324d" stroke-width="7" marker-end="url(#a)"/><text x="45" y="230" font-family="Arial" font-size="24">n</text>
+<ellipse cx="415" cy="210" rx="60" ry="42" fill="#d1495b"/><ellipse cx="415" cy="315" rx="72" ry="48" fill="#7651a8"/><text x="370" y="175" font-family="Arial" font-size="24">fission fragments</text>
+<line x1="470" y1="205" x2="650" y2="105" stroke="#17324d" stroke-width="6" marker-end="url(#a)"/><line x1="485" y1="260" x2="670" y2="260" stroke="#17324d" stroke-width="6" marker-end="url(#a)"/><line x1="470" y1="320" x2="650" y2="415" stroke="#17324d" stroke-width="6" marker-end="url(#a)"/>
+<g fill="#315b7d"><circle cx="520" cy="175" r="14"/><circle cx="540" cy="260" r="14"/><circle cx="520" cy="345" r="14"/></g>
+<g fill="#f2b134" stroke="#8a6200" stroke-width="4"><circle cx="760" cy="85" r="47"/><circle cx="790" cy="260" r="47"/><circle cx="760" cy="435" r="47"/></g><g font-family="Arial" font-size="22" font-weight="700"><text x="738" y="92">U</text><text x="768" y="267">U</text><text x="738" y="442">U</text></g>
+</svg>
