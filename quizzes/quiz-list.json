@@ -1,0 +1,162 @@
+[
+  {
+    "file": "year-11-biology-module-1-cells-as-the-basis-of-life.json",
+    "label": "Year 11 Biology Module 1 – Cells as the Basis of Life"
+  },
+  {
+    "file": "year-11-biology-module-2-organisation-of-living-things.json",
+    "label": "Year 11 Biology Module 2 – Organisation of Living Things"
+  },
+  {
+    "file": "year-11-biology-module-3-biological-diversity.json",
+    "label": "Year 11 Biology Module 3 – Biological Diversity"
+  },
+  {
+    "file": "year-11-biology-module-4-ecosystem-dynamics.json",
+    "label": "Year 11 Biology Module 4 – Ecosystem Dynamics"
+  },
+  {
+    "file": "year-11-chemistry-module-1-properties-and-structure-of-matter.json",
+    "label": "Year 11 Chemistry Module 1 – Properties and Structure of Matter"
+  },
+  {
+    "file": "year-11-chemistry-module-2-introduction-to-quantitative-chemistry.json",
+    "label": "Year 11 Chemistry Module 2 – Introduction to Quantitative Chemistry"
+  },
+  {
+    "file": "year-11-chemistry-module-3-reactive-chemistry.json",
+    "label": "Year 11 Chemistry Module 3 – Reactive Chemistry"
+  },
+  {
+    "file": "year-11-chemistry-module-4-drivers-of-reactions.json",
+    "label": "Year 11 Chemistry Module 4 – Drivers of Reactions"
+  },
+  {
+    "file": "year-11-earth-and-environmental-science-module-1-earths-resources.json",
+    "label": "Year 11 Earth and Environmental Science Module 1 – Earth’s Resources"
+  },
+  {
+    "file": "year-11-earth-and-environmental-science-module-2-plate-tectonics.json",
+    "label": "Year 11 Earth and Environmental Science Module 2 – Plate Tectonics"
+  },
+  {
+    "file": "year-11-earth-and-environmental-science-module-3-energy-transformations.json",
+    "label": "Year 11 Earth and Environmental Science Module 3 – Energy Transformations"
+  },
+  {
+    "file": "year-11-earth-and-environmental-science-module-4-human-impacts.json",
+    "label": "Year 11 Earth and Environmental Science Module 4 – Human Impacts"
+  },
+  {
+    "file": "year-11-investigating-science-module-1-cause-and-effect-observing.json",
+    "label": "Year 11 Investigating Science Module 1 – Cause and Effect – Observing"
+  },
+  {
+    "file": "year-11-investigating-science-module-2-inferences-and-generalisations.json",
+    "label": "Year 11 Investigating Science Module 2 – Cause and Effect – Inferences and Generalisations"
+  },
+  {
+    "file": "year-11-investigating-science-module-3-scientific-models.json",
+    "label": "Year 11 Investigating Science Module 3 – Scientific Models"
+  },
+  {
+    "file": "year-11-investigating-science-module-4-theories-and-laws.json",
+    "label": "Year 11 Investigating Science Module 4 – Theories and Laws"
+  },
+  {
+    "file": "year-11-physics-module-1-kinematics.json",
+    "label": "Year 11 Physics Module 1 – Kinematics"
+  },
+  {
+    "file": "year-11-physics-module-2-dynamics.json",
+    "label": "Year 11 Physics Module 2 – Dynamics"
+  },
+  {
+    "file": "year-11-physics-module-3-waves-and-thermodynamics.json",
+    "label": "Year 11 Physics Module 3 – Waves and Thermodynamics"
+  },
+  {
+    "file": "year-11-physics-module-4-electricity-and-magnetism.json",
+    "label": "Year 11 Physics Module 4 – Electricity and Magnetism"
+  },
+  {
+    "file": "year-12-biology-module-5-heredity.json",
+    "label": "Year 12 Biology Module 5 – Heredity"
+  },
+  {
+    "file": "year-12-biology-module-6-genetic-change.json",
+    "label": "Year 12 Biology Module 6 – Genetic Change"
+  },
+  {
+    "file": "year-12-biology-module-7-infectious-disease.json",
+    "label": "Year 12 Biology Module 7 – Infectious Disease"
+  },
+  {
+    "file": "year-12-biology-module-8-non-infectious-disease-and-disorders.json",
+    "label": "Year 12 Biology Module 8 – Non-infectious Disease and Disorders"
+  },
+  {
+    "file": "year-12-chemistry-module-5-equilibrium-and-acid-reactions.json",
+    "label": "Year 12 Chemistry Module 5 – Equilibrium and Acid Reactions"
+  },
+  {
+    "file": "year-12-chemistry-module-6-acid-base-reactions.json",
+    "label": "Year 12 Chemistry Module 6 – Acid/base Reactions"
+  },
+  {
+    "file": "year-12-chemistry-module-7-organic-chemistry.json",
+    "label": "Year 12 Chemistry Module 7 – Organic Chemistry"
+  },
+  {
+    "file": "year-12-chemistry-module-8-applying-chemical-ideas.json",
+    "label": "Year 12 Chemistry Module 8 – Applying Chemical Ideas"
+  },
+  {
+    "file": "year-12-earth-and-environmental-science-module-5-earths-processes.json",
+    "label": "Year 12 Earth and Environmental Science Module 5 – Earth’s Processes"
+  },
+  {
+    "file": "year-12-earth-and-environmental-science-module-6-hazards.json",
+    "label": "Year 12 Earth and Environmental Science Module 6 – Hazards"
+  },
+  {
+    "file": "year-12-earth-and-environmental-science-module-7-climate-science.json",
+    "label": "Year 12 Earth and Environmental Science Module 7 – Climate Science"
+  },
+  {
+    "file": "year-12-earth-and-environmental-science-module-8-resource-management.json",
+    "label": "Year 12 Earth and Environmental Science Module 8 – Resource Management"
+  },
+  {
+    "file": "year-12-investigating-science-module-5-scientific-investigations.json",
+    "label": "Year 12 Investigating Science Module 5 – Scientific Investigations"
+  },
+  {
+    "file": "year-12-investigating-science-module-6-technologies.json",
+    "label": "Year 12 Investigating Science Module 6 – Technologies"
+  },
+  {
+    "file": "year-12-investigating-science-module-7-fact-or-fallacy.json",
+    "label": "Year 12 Investigating Science Module 7 – Fact or Fallacy?"
+  },
+  {
+    "file": "year-12-investigating-science-module-8-science-and-society.json",
+    "label": "Year 12 Investigating Science Module 8 – Science and Society"
+  },
+  {
+    "file": "year-12-physics-module-5-advanced-mechanics.json",
+    "label": "Year 12 Physics Module 5 – Advanced Mechanics"
+  },
+  {
+    "file": "year-12-physics-module-6-electromagnetism.json",
+    "label": "Year 12 Physics Module 6 – Electromagnetism"
+  },
+  {
+    "file": "year-12-physics-module-7-the-nature-of-light.json",
+    "label": "Year 12 Physics Module 7 – The Nature of Light"
+  },
+  {
+    "file": "year-12-physics-module-8-from-the-universe-to-the-atom.json",
+    "label": "Year 12 Physics Module 8 – From the Universe to the Atom"
+  }
+]
