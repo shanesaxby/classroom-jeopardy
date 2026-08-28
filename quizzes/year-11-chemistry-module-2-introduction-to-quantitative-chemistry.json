@@ -1,0 +1,177 @@
+{
+  "id": "year-11-chemistry-module-2-introduction-to-quantitative-chemistry",
+  "title": "Year 11 Chemistry Module 2 – Introduction to Quantitative Chemistry",
+  "description": "A fast-recall review of NSW Year 11 Chemistry Module 2. Questions use short answers and avoid multi-step calculations or extended writing.",
+  "course": "NSW Chemistry Stage 6",
+  "recommendedLevel": "Year 11",
+  "author": "Generated with Classroom Jeopardy Quiz Maker",
+  "estimatedDuration": "35–45 minutes",
+  "settings": {
+    "questionTimerSeconds": 25,
+    "finalTimerSeconds": 60
+  },
+  "rules": {
+    "mode": "append",
+    "general": [],
+    "scoring": [],
+    "final": []
+  },
+  "categories": [
+    {
+      "name": "Reaction Quantities",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What law states that total mass remains constant during a chemical reaction in a closed system?",
+          "answer": "The law of conservation of mass."
+        },
+        {
+          "value": 200,
+          "prompt": "What must be equal on both sides of a balanced chemical equation for each element?",
+          "answer": "The number of atoms."
+        },
+        {
+          "value": 300,
+          "prompt": "What numbers placed before formulas balance a chemical equation?",
+          "answer": "Coefficients. Accept: stoichiometric coefficients."
+        },
+        {
+          "value": 400,
+          "prompt": "What term describes the quantitative relationships between reactants and products in a reaction?",
+          "answer": "Stoichiometry."
+        },
+        {
+          "value": 500,
+          "prompt": "In a balanced equation, coefficients represent simple whole-number ratios of what?",
+          "answer": "Moles."
+        }
+      ]
+    },
+    {
+      "name": "The Mole",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What SI unit is used for amount of substance?",
+          "answer": "The mole. Accept: mol."
+        },
+        {
+          "value": 200,
+          "prompt": "What constant gives the number of particles in one mole?",
+          "answer": "Avogadro’s constant."
+        },
+        {
+          "value": 300,
+          "prompt": "Approximately how many particles are in one mole?",
+          "answer": "6.02 × 10²³ particles."
+        },
+        {
+          "value": 400,
+          "prompt": "What quantity has units of grams per mole?",
+          "answer": "Molar mass."
+        },
+        {
+          "value": 500,
+          "prompt": "What symbol is commonly used for chemical amount in moles?",
+          "answer": "n."
+        }
+      ]
+    },
+    {
+      "name": "Chemical Formulae",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What formula shows the simplest whole-number ratio of atoms in a compound?",
+          "answer": "The empirical formula."
+        },
+        {
+          "value": 200,
+          "prompt": "What formula shows the actual number of each type of atom in a molecule?",
+          "answer": "The molecular formula."
+        },
+        {
+          "value": 300,
+          "prompt": "What term describes the percentage by mass of each element in a compound?",
+          "answer": "Percentage composition."
+        },
+        {
+          "value": 400,
+          "prompt": "What type of reactant is completely used up first and limits the amount of product formed?",
+          "answer": "The limiting reagent. Accept: limiting reactant."
+        },
+        {
+          "value": 500,
+          "prompt": "What reactant remains after the limiting reagent has been completely consumed?",
+          "answer": "The excess reagent. Accept: excess reactant."
+        }
+      ]
+    },
+    {
+      "name": "Solutions",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What substance is dissolved in a solution?",
+          "answer": "The solute."
+        },
+        {
+          "value": 200,
+          "prompt": "What substance does the dissolving in a solution?",
+          "answer": "The solvent."
+        },
+        {
+          "value": 300,
+          "prompt": "What term describes the amount of solute in a given volume of solution?",
+          "answer": "Concentration."
+        },
+        {
+          "value": 400,
+          "prompt": "What unit is commonly used for molar concentration?",
+          "answer": "mol/L. Accept: mol L⁻¹."
+        },
+        {
+          "value": 500,
+          "prompt": "What process lowers a solution’s concentration by adding more solvent?",
+          "answer": "Dilution."
+        }
+      ]
+    },
+    {
+      "name": "Gas Laws",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "Which gas law links pressure and volume at constant temperature?",
+          "answer": "Boyle’s Law."
+        },
+        {
+          "value": 200,
+          "prompt": "Which gas law links volume and absolute temperature at constant pressure?",
+          "answer": "Charles’s Law."
+        },
+        {
+          "value": 300,
+          "prompt": "Which gas law links pressure and absolute temperature at constant volume?",
+          "answer": "Gay-Lussac’s Law."
+        },
+        {
+          "value": 400,
+          "prompt": "Which gas law links gas volume and amount in moles at constant temperature and pressure?",
+          "answer": "Avogadro’s Law."
+        },
+        {
+          "value": 500,
+          "prompt": "What equation combines pressure, volume, amount, temperature and the gas constant?",
+          "answer": "The Ideal Gas Law. Accept: PV = nRT."
+        }
+      ]
+    }
+  ],
+  "finalRound": {
+    "category": "Chemical Counting",
+    "prompt": "What counting unit lets chemists connect microscopic numbers of particles with measurable amounts of substance?",
+    "answer": "The mole.",
+    "timerSeconds": 60
+  }
+}

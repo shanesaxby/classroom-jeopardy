@@ -1,0 +1,162 @@
+{
+  "id": "year-12-biology-module-6-genetic-change",
+  "title": "Year 12 Biology Module 6 – Genetic Change",
+  "description": "A fast-recall review of NSW Year 12 Biology Module 6, organised by its three Inquiry Questions. Questions use short answers and avoid multi-step calculations or extended writing.",
+  "course": "NSW Biology Stage 6",
+  "recommendedLevel": "Year 12",
+  "author": "Generated with Classroom Jeopardy Quiz Maker",
+  "estimatedDuration": "35–45 minutes",
+  "settings": {
+    "questionTimerSeconds": 25,
+    "finalTimerSeconds": 60
+  },
+  "rules": {
+    "mode": "append",
+    "general": [],
+    "scoring": [],
+    "final": []
+  },
+  "categories": [
+    {
+      "name": "How does mutation introduce new alleles?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What is a change in the DNA sequence called?",
+          "answer": "A mutation."
+        },
+        {
+          "value": 200,
+          "prompt": "What agent increases the rate of mutation?",
+          "answer": "A mutagen."
+        },
+        {
+          "value": 300,
+          "prompt": "What type of mutation changes a single nucleotide or base pair?",
+          "answer": "A point mutation."
+        },
+        {
+          "value": 400,
+          "prompt": "What type of mutation changes the structure or number of chromosomes?",
+          "answer": "A chromosomal mutation."
+        },
+        {
+          "value": 500,
+          "prompt": "What mutation occurs in a body cell and is generally not inherited by offspring?",
+          "answer": "A somatic mutation."
+        },
+        {
+          "value": 600,
+          "prompt": "What mutation occurs in cells that produce gametes and can be inherited?",
+          "answer": "A germ-line mutation. Accept: germline mutation."
+        },
+        {
+          "value": 700,
+          "prompt": "What process changes allele frequencies by random chance, especially in small populations?",
+          "answer": "Genetic drift."
+        },
+        {
+          "value": 800,
+          "prompt": "What movement of alleles between populations occurs when individuals migrate and reproduce?",
+          "answer": "Gene flow."
+        }
+      ]
+    },
+    {
+      "name": "How do genetic techniques affect biodiversity?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What term describes the variety of living organisms, genes and ecosystems?",
+          "answer": "Biodiversity."
+        },
+        {
+          "value": 200,
+          "prompt": "What term describes the use of biological systems or organisms to develop useful products or processes?",
+          "answer": "Biotechnology."
+        },
+        {
+          "value": 300,
+          "prompt": "What type of biodiversity refers to variation in genes and alleles within a species?",
+          "answer": "Genetic diversity."
+        },
+        {
+          "value": 400,
+          "prompt": "What term describes an organism whose genetic material has been deliberately altered using biotechnology?",
+          "answer": "A genetically modified organism. Accept: GMO."
+        },
+        {
+          "value": 500,
+          "prompt": "What modern gene-editing system uses a guide RNA and a Cas enzyme?",
+          "answer": "CRISPR-Cas9. Accept: CRISPR."
+        },
+        {
+          "value": 600,
+          "prompt": "What agricultural system growing one genetically similar crop over a large area can reduce genetic diversity?",
+          "answer": "Monoculture."
+        },
+        {
+          "value": 700,
+          "prompt": "What facility stores seeds to preserve plant genetic diversity for future use?",
+          "answer": "A seed bank."
+        },
+        {
+          "value": 800,
+          "prompt": "What field considers the ethical issues raised by biological and genetic technologies?",
+          "answer": "Bioethics."
+        }
+      ]
+    },
+    {
+      "name": "Can DNA manipulation change populations forever?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What reproductive technology places sperm into the female reproductive tract without natural mating?",
+          "answer": "Artificial insemination."
+        },
+        {
+          "value": 200,
+          "prompt": "What plant reproductive technology deliberately transfers pollen between selected plants?",
+          "answer": "Artificial pollination."
+        },
+        {
+          "value": 300,
+          "prompt": "What process produces a genetically identical copy of a whole organism?",
+          "answer": "Whole-organism cloning. Accept: cloning."
+        },
+        {
+          "value": 400,
+          "prompt": "What process makes many copies of a particular gene or DNA sequence?",
+          "answer": "Gene cloning."
+        },
+        {
+          "value": 500,
+          "prompt": "What small circular DNA molecule is commonly used as a vector in bacteria?",
+          "answer": "A plasmid."
+        },
+        {
+          "value": 600,
+          "prompt": "What enzymes cut DNA at specific recognition sequences?",
+          "answer": "Restriction enzymes. Accept: restriction endonucleases."
+        },
+        {
+          "value": 700,
+          "prompt": "What technology combines DNA from different sources into one DNA molecule?",
+          "answer": "Recombinant DNA technology."
+        },
+        {
+          "value": 800,
+          "prompt": "What term describes an organism containing a gene introduced from another organism?",
+          "answer": "A transgenic organism."
+        }
+      ]
+    }
+  ],
+  "finalRound": {
+    "category": "Genetic Change",
+    "prompt": "What process is the ultimate source of new alleles in a population?",
+    "answer": "Mutation.",
+    "timerSeconds": 60
+  }
+}

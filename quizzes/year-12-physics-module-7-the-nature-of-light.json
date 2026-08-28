@@ -1,0 +1,167 @@
+{
+  "id": "year-12-physics-module-7-the-nature-of-light",
+  "title": "Year 12 Physics Module 7 – The Nature of Light",
+  "description": "A fast-recall review of NSW Year 12 Physics Module 7, organised by its four Inquiry Questions. Questions use short answers and avoid multi-step calculations or extended writing.",
+  "course": "NSW Physics Stage 6",
+  "recommendedLevel": "Year 12",
+  "author": "Generated with Classroom Jeopardy Quiz Maker",
+  "estimatedDuration": "35–45 minutes",
+  "settings": {
+    "questionTimerSeconds": 25,
+    "finalTimerSeconds": 60
+  },
+  "rules": {
+    "mode": "append",
+    "general": [],
+    "scoring": [],
+    "final": []
+  },
+  "categories": [
+    {
+      "name": "What is light?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What type of wave is light?",
+          "answer": "An electromagnetic wave."
+        },
+        {
+          "value": 200,
+          "prompt": "Which scientist unified electricity and magnetism and predicted electromagnetic waves?",
+          "answer": "James Clerk Maxwell. Accept: Maxwell."
+        },
+        {
+          "value": 300,
+          "prompt": "What is the speed of light in a vacuum to two significant figures?",
+          "answer": "3.0 × 10⁸ m/s."
+        },
+        {
+          "value": 400,
+          "prompt": "Which part of the electromagnetic spectrum has the longest wavelength?",
+          "answer": "Radio waves."
+        },
+        {
+          "value": 500,
+          "prompt": "Which part of the electromagnetic spectrum has the highest frequency?",
+          "answer": "Gamma rays."
+        },
+        {
+          "value": 600,
+          "prompt": "What technique uses spectra to identify elements in stars and other sources?",
+          "answer": "Spectroscopy."
+        }
+      ]
+    },
+    {
+      "name": "What evidence supports the wave model of light?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What spreading of light around edges or through small gaps supports the wave model?",
+          "answer": "Diffraction."
+        },
+        {
+          "value": 200,
+          "prompt": "What pattern forms when two coherent light waves overlap?",
+          "answer": "An interference pattern."
+        },
+        {
+          "value": 300,
+          "prompt": "Which famous experiment produces alternating bright and dark fringes using two slits?",
+          "answer": "Young’s double-slit experiment."
+        },
+        {
+          "value": 400,
+          "prompt": "What optical device uses many closely spaced lines to produce interference patterns?",
+          "answer": "A diffraction grating."
+        },
+        {
+          "value": 500,
+          "prompt": "What property of light shows that light is a transverse wave?",
+          "answer": "Polarisation."
+        },
+        {
+          "value": 600,
+          "prompt": "Which scientist proposed a wave model of light that competed with Newton’s particle model?",
+          "answer": "Christiaan Huygens. Accept: Huygens."
+        }
+      ]
+    },
+    {
+      "name": "What evidence supports the particle/quantum model of light?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What name is given to a quantum, or packet, of light energy?",
+          "answer": "A photon."
+        },
+        {
+          "value": 200,
+          "prompt": "Which scientist proposed that electromagnetic energy is quantised?",
+          "answer": "Max Planck. Accept: Planck."
+        },
+        {
+          "value": 300,
+          "prompt": "What effect ejects electrons from a metal when light above a threshold frequency shines on it?",
+          "answer": "The photoelectric effect."
+        },
+        {
+          "value": 400,
+          "prompt": "What minimum energy is required to remove an electron from a metal surface?",
+          "answer": "The work function."
+        },
+        {
+          "value": 500,
+          "prompt": "According to the photon model, what happens to photon energy as frequency increases?",
+          "answer": "It increases."
+        },
+        {
+          "value": 600,
+          "prompt": "What type of radiation spectrum led Planck to introduce energy quanta?",
+          "answer": "Black-body radiation. Accept: blackbody radiation."
+        }
+      ]
+    },
+    {
+      "name": "How does light affect time, space and matter?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "According to special relativity, is the speed of light in a vacuum the same for all inertial observers?",
+          "answer": "Yes."
+        },
+        {
+          "value": 200,
+          "prompt": "What effect makes a moving clock appear to run more slowly to a stationary observer?",
+          "answer": "Time dilation."
+        },
+        {
+          "value": 300,
+          "prompt": "What effect makes an object moving relative to an observer appear shorter along its direction of motion?",
+          "answer": "Length contraction."
+        },
+        {
+          "value": 400,
+          "prompt": "What high-speed particles reaching Earth’s surface provide evidence for relativistic time dilation?",
+          "answer": "Muons."
+        },
+        {
+          "value": 500,
+          "prompt": "What equation expresses mass–energy equivalence?",
+          "answer": "E = mc²."
+        },
+        {
+          "value": 600,
+          "prompt": "Can an object with non-zero rest mass be accelerated to the speed of light in a vacuum?",
+          "answer": "No."
+        }
+      ]
+    }
+  ],
+  "finalRound": {
+    "category": "Nature of Light",
+    "prompt": "What two complementary models are required to explain the full range of observed behaviour of light?",
+    "answer": "Wave and particle models. Accept: wave and quantum/photon models.",
+    "timerSeconds": 60
+  }
+}

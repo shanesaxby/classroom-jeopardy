@@ -1,0 +1,177 @@
+{
+  "id": "year-11-chemistry-module-4-drivers-of-reactions",
+  "title": "Year 11 Chemistry Module 4 – Drivers of Reactions",
+  "description": "A fast-recall review of NSW Year 11 Chemistry Module 4. Questions use short answers and avoid multi-step calculations or extended writing.",
+  "course": "NSW Chemistry Stage 6",
+  "recommendedLevel": "Year 11",
+  "author": "Generated with Classroom Jeopardy Quiz Maker",
+  "estimatedDuration": "35–45 minutes",
+  "settings": {
+    "questionTimerSeconds": 25,
+    "finalTimerSeconds": 60
+  },
+  "rules": {
+    "mode": "append",
+    "general": [],
+    "scoring": [],
+    "final": []
+  },
+  "categories": [
+    {
+      "name": "Energy Changes",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What type of reaction releases heat to the surroundings?",
+          "answer": "An exothermic reaction."
+        },
+        {
+          "value": 200,
+          "prompt": "What type of reaction absorbs heat from the surroundings?",
+          "answer": "An endothermic reaction."
+        },
+        {
+          "value": 300,
+          "prompt": "What symbol represents the enthalpy change of a reaction?",
+          "answer": "ΔH."
+        },
+        {
+          "value": 400,
+          "prompt": "Is ΔH positive or negative for an exothermic reaction?",
+          "answer": "Negative."
+        },
+        {
+          "value": 500,
+          "prompt": "Is ΔH positive or negative for an endothermic reaction?",
+          "answer": "Positive."
+        }
+      ]
+    },
+    {
+      "name": "Reaction Profiles",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What minimum energy must reacting particles have for a successful reaction?",
+          "answer": "Activation energy."
+        },
+        {
+          "value": 200,
+          "prompt": "What does the peak on a reaction energy profile represent?",
+          "answer": "The activated complex. Accept: transition state."
+        },
+        {
+          "value": 300,
+          "prompt": "What substance lowers activation energy without being consumed overall?",
+          "answer": "A catalyst."
+        },
+        {
+          "value": 400,
+          "prompt": "Does a catalyst change the overall enthalpy change, ΔH, of a reaction?",
+          "answer": "No."
+        },
+        {
+          "value": 500,
+          "prompt": "On an energy profile, what does the vertical energy gap from reactants to the peak represent?",
+          "answer": "Activation energy."
+        }
+      ]
+    },
+    {
+      "name": "Bonds & Enthalpy",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "Does breaking a chemical bond absorb or release energy?",
+          "answer": "Absorb energy."
+        },
+        {
+          "value": 200,
+          "prompt": "Does forming a chemical bond absorb or release energy?",
+          "answer": "Release energy."
+        },
+        {
+          "value": 300,
+          "prompt": "What term describes the energy needed to break a particular chemical bond?",
+          "answer": "Bond energy. Accept: bond enthalpy."
+        },
+        {
+          "value": 400,
+          "prompt": "What law says the total enthalpy change is independent of the pathway taken?",
+          "answer": "Hess’s Law."
+        },
+        {
+          "value": 500,
+          "prompt": "What instrument is used to measure heat changes during chemical or physical processes?",
+          "answer": "A calorimeter."
+        }
+      ]
+    },
+    {
+      "name": "Entropy",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What thermodynamic quantity is represented by the symbol S?",
+          "answer": "Entropy."
+        },
+        {
+          "value": 200,
+          "prompt": "Which generally has greater entropy: a solid or a gas?",
+          "answer": "A gas."
+        },
+        {
+          "value": 300,
+          "prompt": "Does melting a solid generally increase or decrease entropy?",
+          "answer": "Increase."
+        },
+        {
+          "value": 400,
+          "prompt": "Does condensation of a gas generally increase or decrease entropy?",
+          "answer": "Decrease."
+        },
+        {
+          "value": 500,
+          "prompt": "What symbol represents the entropy change of a reaction?",
+          "answer": "ΔS."
+        }
+      ]
+    },
+    {
+      "name": "Gibbs & Spontaneity",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What thermodynamic quantity combines enthalpy, entropy and temperature to predict spontaneity?",
+          "answer": "Gibbs free energy."
+        },
+        {
+          "value": 200,
+          "prompt": "What symbol represents the Gibbs free energy change of a reaction?",
+          "answer": "ΔG."
+        },
+        {
+          "value": 300,
+          "prompt": "A reaction is thermodynamically spontaneous when ΔG is positive or negative?",
+          "answer": "Negative."
+        },
+        {
+          "value": 400,
+          "prompt": "At equilibrium, what is the value of ΔG?",
+          "answer": "Zero."
+        },
+        {
+          "value": 500,
+          "prompt": "In ΔG = ΔH − TΔS, which absolute temperature scale must be used?",
+          "answer": "Kelvin."
+        }
+      ]
+    }
+  ],
+  "finalRound": {
+    "category": "Driving Reactions",
+    "prompt": "What thermodynamic quantity must be negative for a reaction to be spontaneous under the stated conditions?",
+    "answer": "Gibbs free energy change, ΔG.",
+    "timerSeconds": 60
+  }
+}

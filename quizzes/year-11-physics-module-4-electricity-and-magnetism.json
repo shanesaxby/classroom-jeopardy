@@ -1,0 +1,177 @@
+{
+  "id": "year-11-physics-module-4-electricity-and-magnetism",
+  "title": "Year 11 Physics Module 4 – Electricity and Magnetism",
+  "description": "A fast-recall review of NSW Year 11 Physics Module 4. Questions use short answers and avoid multi-step calculations or extended writing.",
+  "course": "NSW Physics Stage 6",
+  "recommendedLevel": "Year 11",
+  "author": "Generated with Classroom Jeopardy Quiz Maker",
+  "estimatedDuration": "35–45 minutes",
+  "settings": {
+    "questionTimerSeconds": 25,
+    "finalTimerSeconds": 60
+  },
+  "rules": {
+    "mode": "append",
+    "general": [],
+    "scoring": [],
+    "final": []
+  },
+  "categories": [
+    {
+      "name": "Electric Charge",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What are the two types of electric charge?",
+          "answer": "Positive and negative."
+        },
+        {
+          "value": 200,
+          "prompt": "Do like electric charges attract or repel?",
+          "answer": "Repel."
+        },
+        {
+          "value": 300,
+          "prompt": "Do opposite electric charges attract or repel?",
+          "answer": "Attract."
+        },
+        {
+          "value": 400,
+          "prompt": "What negatively charged particle can move between atoms in many materials?",
+          "answer": "The electron."
+        },
+        {
+          "value": 500,
+          "prompt": "What principle states that total electric charge is conserved in an isolated system?",
+          "answer": "Conservation of charge."
+        }
+      ]
+    },
+    {
+      "name": "Electric Fields",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What region around a charged object can exert an electric force on another charge?",
+          "answer": "An electric field."
+        },
+        {
+          "value": 200,
+          "prompt": "Electric field lines point away from which type of charge?",
+          "answer": "Positive charge."
+        },
+        {
+          "value": 300,
+          "prompt": "Electric field lines point towards which type of charge?",
+          "answer": "Negative charge."
+        },
+        {
+          "value": 400,
+          "prompt": "What do closely spaced electric field lines indicate about field strength?",
+          "answer": "A stronger electric field. Accept: stronger field."
+        },
+        {
+          "value": 500,
+          "prompt": "What force acts between electrically charged objects without direct contact?",
+          "answer": "Electrostatic force. Accept: electric force."
+        }
+      ]
+    },
+    {
+      "name": "Circuit Basics",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What quantity describes the rate of flow of electric charge?",
+          "answer": "Electric current. Accept: current."
+        },
+        {
+          "value": 200,
+          "prompt": "What SI unit is used for electric current?",
+          "answer": "The ampere. Accept: amp or A."
+        },
+        {
+          "value": 300,
+          "prompt": "What quantity measures electric potential difference between two points?",
+          "answer": "Voltage. Accept: potential difference."
+        },
+        {
+          "value": 400,
+          "prompt": "What SI unit is used for electrical resistance?",
+          "answer": "The ohm. Accept: Ω."
+        },
+        {
+          "value": 500,
+          "prompt": "What law links voltage, current and resistance in an ohmic conductor?",
+          "answer": "Ohm’s Law."
+        }
+      ]
+    },
+    {
+      "name": "Series or Parallel?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "In which type of circuit is there only one path for current?",
+          "answer": "A series circuit."
+        },
+        {
+          "value": 200,
+          "prompt": "In which type of circuit are there multiple branches for current?",
+          "answer": "A parallel circuit."
+        },
+        {
+          "value": 300,
+          "prompt": "In a series circuit, is the current the same or different through each component?",
+          "answer": "The same."
+        },
+        {
+          "value": 400,
+          "prompt": "In a parallel circuit, is the voltage across each branch the same or different?",
+          "answer": "The same."
+        },
+        {
+          "value": 500,
+          "prompt": "Adding another resistor in series causes the total resistance to increase or decrease?",
+          "answer": "Increase."
+        }
+      ]
+    },
+    {
+      "name": "Magnetism",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What are the two poles of a magnet called?",
+          "answer": "North and south."
+        },
+        {
+          "value": 200,
+          "prompt": "Do like magnetic poles attract or repel?",
+          "answer": "Repel."
+        },
+        {
+          "value": 300,
+          "prompt": "What region around a magnet can exert a magnetic force?",
+          "answer": "A magnetic field."
+        },
+        {
+          "value": 400,
+          "prompt": "What produces a magnetic field around a straight wire?",
+          "answer": "Electric current. Accept: moving charge."
+        },
+        {
+          "value": 500,
+          "prompt": "What device becomes a magnet when electric current flows through a coil of wire?",
+          "answer": "An electromagnet."
+        }
+      ]
+    }
+  ],
+  "finalRound": {
+    "category": "Electricity Meets Magnetism",
+    "prompt": "What moving quantity produces a magnetic field?",
+    "answer": "Electric charge. Accept: moving electric charge or electric current.",
+    "timerSeconds": 60
+  }
+}

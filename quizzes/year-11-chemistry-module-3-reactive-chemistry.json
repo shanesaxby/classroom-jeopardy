@@ -1,0 +1,177 @@
+{
+  "id": "year-11-chemistry-module-3-reactive-chemistry",
+  "title": "Year 11 Chemistry Module 3 – Reactive Chemistry",
+  "description": "A fast-recall review of NSW Year 11 Chemistry Module 3. Questions use short answers and avoid multi-step calculations or extended writing.",
+  "course": "NSW Chemistry Stage 6",
+  "recommendedLevel": "Year 11",
+  "author": "Generated with Classroom Jeopardy Quiz Maker",
+  "estimatedDuration": "35–45 minutes",
+  "settings": {
+    "questionTimerSeconds": 25,
+    "finalTimerSeconds": 60
+  },
+  "rules": {
+    "mode": "append",
+    "general": [],
+    "scoring": [],
+    "final": []
+  },
+  "categories": [
+    {
+      "name": "Reaction Types",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What type of reaction joins two or more substances to form one product?",
+          "answer": "A synthesis reaction."
+        },
+        {
+          "value": 200,
+          "prompt": "What type of reaction breaks one compound into simpler substances?",
+          "answer": "A decomposition reaction."
+        },
+        {
+          "value": 300,
+          "prompt": "What gas is required for a combustion reaction?",
+          "answer": "Oxygen."
+        },
+        {
+          "value": 400,
+          "prompt": "What insoluble solid forms when some aqueous ionic solutions react?",
+          "answer": "A precipitate."
+        },
+        {
+          "value": 500,
+          "prompt": "What three products usually form when an acid reacts with a carbonate?",
+          "answer": "A salt, carbon dioxide and water."
+        }
+      ]
+    },
+    {
+      "name": "Acids & Ions",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What ion is produced by acids in aqueous solution?",
+          "answer": "Hydrogen ions. Accept: H⁺."
+        },
+        {
+          "value": 200,
+          "prompt": "What ion is associated with alkaline aqueous solutions?",
+          "answer": "Hydroxide ions. Accept: OH⁻."
+        },
+        {
+          "value": 300,
+          "prompt": "What reaction occurs when an acid reacts with a base?",
+          "answer": "Neutralisation."
+        },
+        {
+          "value": 400,
+          "prompt": "What two products usually form in an acid–base neutralisation reaction?",
+          "answer": "Salt and water."
+        },
+        {
+          "value": 500,
+          "prompt": "What equation shows only the reacting ions and omits spectator ions?",
+          "answer": "A net ionic equation. Accept: ionic equation."
+        }
+      ]
+    },
+    {
+      "name": "Metal Reactivity",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What list ranks metals from most reactive to least reactive?",
+          "answer": "The activity series. Accept: reactivity series."
+        },
+        {
+          "value": 200,
+          "prompt": "What gas commonly forms when a reactive metal reacts with dilute acid?",
+          "answer": "Hydrogen."
+        },
+        {
+          "value": 300,
+          "prompt": "What type of reaction occurs when a more reactive metal replaces a less reactive metal ion in solution?",
+          "answer": "A displacement reaction."
+        },
+        {
+          "value": 400,
+          "prompt": "Which is generally easier to oxidise: a more reactive metal or a less reactive metal?",
+          "answer": "A more reactive metal."
+        },
+        {
+          "value": 500,
+          "prompt": "What term describes the gradual reaction of a metal with its environment, such as rusting?",
+          "answer": "Corrosion."
+        }
+      ]
+    },
+    {
+      "name": "Redox & Cells",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What process involves loss of electrons?",
+          "answer": "Oxidation."
+        },
+        {
+          "value": 200,
+          "prompt": "What process involves gain of electrons?",
+          "answer": "Reduction."
+        },
+        {
+          "value": 300,
+          "prompt": "What reaction involves both oxidation and reduction?",
+          "answer": "A redox reaction."
+        },
+        {
+          "value": 400,
+          "prompt": "What device converts chemical energy into electrical energy using a spontaneous redox reaction?",
+          "answer": "A galvanic cell. Accept: voltaic cell."
+        },
+        {
+          "value": 500,
+          "prompt": "At which electrode does oxidation occur in a galvanic cell?",
+          "answer": "The anode."
+        }
+      ]
+    },
+    {
+      "name": "Reaction Rates",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What theory explains reaction rates using collisions between particles?",
+          "answer": "Collision theory."
+        },
+        {
+          "value": 200,
+          "prompt": "What minimum energy must colliding particles have for a reaction to occur?",
+          "answer": "Activation energy."
+        },
+        {
+          "value": 300,
+          "prompt": "Increasing temperature generally makes a chemical reaction faster or slower?",
+          "answer": "Faster."
+        },
+        {
+          "value": 400,
+          "prompt": "Increasing the surface area of a solid reactant generally makes a reaction faster or slower?",
+          "answer": "Faster."
+        },
+        {
+          "value": 500,
+          "prompt": "What substance speeds up a reaction without being consumed overall?",
+          "answer": "A catalyst."
+        }
+      ]
+    }
+  ],
+  "finalRound": {
+    "category": "Electron Transfer",
+    "prompt": "In a redox reaction, which process is defined as the loss of electrons?",
+    "answer": "Oxidation.",
+    "timerSeconds": 60
+  }
+}

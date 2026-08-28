@@ -1,0 +1,157 @@
+{
+  "id": "year-12-investigating-science-module-6-technologies",
+  "title": "Year 12 Investigating Science Module 6 – Technologies",
+  "description": "A fast-recall review of NSW Year 12 Investigating Science Module 6, organised by its two Inquiry Questions. Questions use short answers and avoid multi-step calculations or extended writing.",
+  "course": "NSW Investigating Science Stage 6",
+  "recommendedLevel": "Year 12",
+  "author": "Generated with Classroom Jeopardy Quiz Maker",
+  "estimatedDuration": "35–45 minutes",
+  "settings": {
+    "questionTimerSeconds": 25,
+    "finalTimerSeconds": 60
+  },
+  "rules": {
+    "mode": "append",
+    "general": [],
+    "scoring": [],
+    "final": []
+  },
+  "categories": [
+    {
+      "name": "How does technology enhance or limit investigations?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What type of technology displays a continuously varying measurement, often with a pointer or scale?",
+          "answer": "Analogue technology."
+        },
+        {
+          "value": 200,
+          "prompt": "What type of technology displays measurements as discrete numerical values?",
+          "answer": "Digital technology."
+        },
+        {
+          "value": 300,
+          "prompt": "What term describes how close a measured value is to the accepted value?",
+          "answer": "Accuracy."
+        },
+        {
+          "value": 400,
+          "prompt": "What error causes measurements to scatter unpredictably around a value?",
+          "answer": "Random error."
+        },
+        {
+          "value": 500,
+          "prompt": "What error shifts measurements consistently in the same direction?",
+          "answer": "Systematic error."
+        },
+        {
+          "value": 600,
+          "prompt": "What process checks and adjusts a measuring instrument against a known standard?",
+          "answer": "Calibration."
+        },
+        {
+          "value": 700,
+          "prompt": "What document gives hazard, handling and safety information for a chemical?",
+          "answer": "A Safety Data Sheet. Accept: SDS."
+        },
+        {
+          "value": 800,
+          "prompt": "What Australian workplace framework guides safe use of equipment and procedures?",
+          "answer": "Work Health and Safety. Accept: WHS."
+        },
+        {
+          "value": 900,
+          "prompt": "What variable is deliberately changed in an investigation?",
+          "answer": "The independent variable."
+        },
+        {
+          "value": 1000,
+          "prompt": "What variable is measured using the selected technology?",
+          "answer": "The dependent variable."
+        },
+        {
+          "value": 1100,
+          "prompt": "What limitation occurs when an instrument cannot detect changes smaller than its smallest scale division?",
+          "answer": "Limited resolution. Accept: resolution limit."
+        },
+        {
+          "value": 1200,
+          "prompt": "What term describes the smallest change that a measuring device can reliably distinguish?",
+          "answer": "Resolution."
+        }
+      ]
+    },
+    {
+      "name": "How do science & technology drive each other?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What imaging technique was crucial in revealing the structure of DNA?",
+          "answer": "X-ray diffraction."
+        },
+        {
+          "value": 200,
+          "prompt": "What particle accelerator helped provide evidence for the Higgs boson?",
+          "answer": "The Large Hadron Collider. Accept: LHC."
+        },
+        {
+          "value": 300,
+          "prompt": "What technology allows scientists to imitate complex systems such as Earth’s geological history?",
+          "answer": "Computer simulations. Accept: computer models."
+        },
+        {
+          "value": 400,
+          "prompt": "Detection of what phenomenon helped advance atomic theory?",
+          "answer": "Radioactivity."
+        },
+        {
+          "value": 500,
+          "prompt": "What optical instrument was advanced by scientific understanding of refraction and reflection to view tiny objects?",
+          "answer": "The microscope."
+        },
+        {
+          "value": 600,
+          "prompt": "What optical instrument uses reflection or refraction to observe distant astronomical objects?",
+          "answer": "The telescope."
+        },
+        {
+          "value": 700,
+          "prompt": "Understanding radioactive decay contributed to what cancer treatment using ionising radiation?",
+          "answer": "Radiotherapy."
+        },
+        {
+          "value": 800,
+          "prompt": "Discovery of DNA structure drove development of what broad field for modifying organisms?",
+          "answer": "Biotechnology."
+        },
+        {
+          "value": 900,
+          "prompt": "Newton’s laws inform engineering designed to make buildings resist what natural hazard?",
+          "answer": "Earthquakes."
+        },
+        {
+          "value": 1000,
+          "prompt": "What term describes harvesting biological resources to develop useful products?",
+          "answer": "Bioharvesting."
+        },
+        {
+          "value": 1100,
+          "prompt": "Whose traditional knowledge of medicinal plants is specifically recognised as valuable to ethical bioharvesting in Australia?",
+          "answer": "Aboriginal and Torres Strait Islander Peoples."
+        },
+        {
+          "value": 1200,
+          "prompt": "What word best describes the relationship in which advances in science drive technology and advances in technology drive science?",
+          "answer": "Interdependence."
+        }
+      ]
+    }
+  ],
+  "finalRound": {
+    "category": "Science and Technology",
+    "prompt": "What term describes the two-way relationship in which scientific knowledge drives new technologies and new technologies enable further science?",
+    "answer": "Interdependence.",
+    "timerSeconds": 60
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "id": "year-12-chemistry-module-5-equilibrium-and-acid-reactions",
+  "title": "Year 12 Chemistry Module 5 – Equilibrium and Acid Reactions",
+  "description": "A fast-recall review of NSW Year 12 Chemistry Module 5, organised by its four Inquiry Questions. Questions use short answers and avoid multi-step calculations or extended writing.",
+  "course": "NSW Chemistry Stage 6",
+  "recommendedLevel": "Year 12",
+  "author": "Generated with Classroom Jeopardy Quiz Maker",
+  "estimatedDuration": "35–45 minutes",
+  "settings": {
+    "questionTimerSeconds": 25,
+    "finalTimerSeconds": 60
+  },
+  "rules": {
+    "mode": "append",
+    "general": [],
+    "scoring": [],
+    "final": []
+  },
+  "categories": [
+    {
+      "name": "Why don’t some reactions go to completion?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What type of reaction can proceed in both the forward and reverse directions?",
+          "answer": "A reversible reaction."
+        },
+        {
+          "value": 200,
+          "prompt": "What type of equilibrium has forward and reverse reactions continuing at equal rates?",
+          "answer": "Dynamic equilibrium."
+        },
+        {
+          "value": 300,
+          "prompt": "What must be true of the forward and reverse reaction rates at dynamic equilibrium?",
+          "answer": "They are equal."
+        },
+        {
+          "value": 400,
+          "prompt": "What type of system is required for a chemical equilibrium to be established?",
+          "answer": "A closed system."
+        },
+        {
+          "value": 500,
+          "prompt": "At equilibrium, do reactant and product concentrations have to be equal?",
+          "answer": "No."
+        },
+        {
+          "value": 600,
+          "prompt": "What theory explains reaction rate using successful collisions between particles?",
+          "answer": "Collision theory."
+        }
+      ]
+    },
+    {
+      "name": "What factors affect equilibrium?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What principle predicts how an equilibrium system responds to a disturbance?",
+          "answer": "Le Chatelier’s principle."
+        },
+        {
+          "value": 200,
+          "prompt": "Increasing reactant concentration generally shifts equilibrium towards reactants or products?",
+          "answer": "Products."
+        },
+        {
+          "value": 300,
+          "prompt": "For a gaseous equilibrium, increasing pressure favours the side with more or fewer gas particles?",
+          "answer": "Fewer gas particles."
+        },
+        {
+          "value": 400,
+          "prompt": "Increasing temperature favours the endothermic or exothermic direction?",
+          "answer": "The endothermic direction."
+        },
+        {
+          "value": 500,
+          "prompt": "Does a catalyst change the position of equilibrium?",
+          "answer": "No."
+        },
+        {
+          "value": 600,
+          "prompt": "Does changing temperature alter the value of the equilibrium constant?",
+          "answer": "Yes."
+        }
+      ]
+    },
+    {
+      "name": "What does the equilibrium constant tell us?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What symbol is commonly used for the equilibrium constant in this course?",
+          "answer": "Kₑq. Accept: Keq."
+        },
+        {
+          "value": 200,
+          "prompt": "A very large equilibrium constant generally favours reactants or products?",
+          "answer": "Products."
+        },
+        {
+          "value": 300,
+          "prompt": "A very small equilibrium constant generally favours reactants or products?",
+          "answer": "Reactants."
+        },
+        {
+          "value": 400,
+          "prompt": "What symbol compares the current reaction mixture with the equilibrium condition?",
+          "answer": "Q. Accept: reaction quotient."
+        },
+        {
+          "value": 500,
+          "prompt": "If Q is less than Kₑq, which direction is favoured to reach equilibrium?",
+          "answer": "The forward direction. Accept: towards products."
+        },
+        {
+          "value": 600,
+          "prompt": "Which factor changes the value of Kₑq: concentration, pressure or temperature?",
+          "answer": "Temperature."
+        }
+      ]
+    },
+    {
+      "name": "How does solubility relate to equilibrium?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What term describes a solution containing the maximum dissolved solute at a given temperature?",
+          "answer": "A saturated solution."
+        },
+        {
+          "value": 200,
+          "prompt": "What solid formed from ions in solution is called?",
+          "answer": "A precipitate."
+        },
+        {
+          "value": 300,
+          "prompt": "What constant describes the equilibrium for a sparingly soluble ionic compound?",
+          "answer": "Ksp. Accept: solubility product constant."
+        },
+        {
+          "value": 400,
+          "prompt": "If the ionic product exceeds Ksp, what is expected to form?",
+          "answer": "A precipitate."
+        },
+        {
+          "value": 500,
+          "prompt": "What effect can reduce the solubility of a salt when an ion already present is added?",
+          "answer": "The common-ion effect."
+        },
+        {
+          "value": 600,
+          "prompt": "What traditional food-processing application in the syllabus uses solubility equilibria to remove toxins from foods such as cycad material?",
+          "answer": "Detoxification by Aboriginal and Torres Strait Islander Peoples. Accept: leaching toxins from food."
+        }
+      ]
+    }
+  ],
+  "finalRound": {
+    "category": "Chemical Equilibrium",
+    "prompt": "At dynamic equilibrium, what two reaction rates are equal?",
+    "answer": "The forward and reverse reaction rates.",
+    "timerSeconds": 60
+  }
+}

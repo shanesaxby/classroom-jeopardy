@@ -1,0 +1,177 @@
+{
+  "id": "year-11-chemistry-module-1-properties-and-structure-of-matter",
+  "title": "Year 11 Chemistry Module 1 – Properties and Structure of Matter",
+  "description": "A fast-recall review of NSW Year 11 Chemistry Module 1. Questions use short answers and avoid multi-step calculations or extended writing.",
+  "course": "NSW Chemistry Stage 6",
+  "recommendedLevel": "Year 11",
+  "author": "Generated with Classroom Jeopardy Quiz Maker",
+  "estimatedDuration": "35–45 minutes",
+  "settings": {
+    "questionTimerSeconds": 25,
+    "finalTimerSeconds": 60
+  },
+  "rules": {
+    "mode": "append",
+    "general": [],
+    "scoring": [],
+    "final": []
+  },
+  "categories": [
+    {
+      "name": "Matter & Mixtures",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What term describes matter made from only one type of substance?",
+          "answer": "A pure substance."
+        },
+        {
+          "value": 200,
+          "prompt": "What term describes two or more substances physically combined?",
+          "answer": "A mixture."
+        },
+        {
+          "value": 300,
+          "prompt": "What separation method uses a barrier to separate an insoluble solid from a liquid?",
+          "answer": "Filtration."
+        },
+        {
+          "value": 400,
+          "prompt": "What separation method uses differences in boiling point to separate liquids?",
+          "answer": "Distillation."
+        },
+        {
+          "value": 500,
+          "prompt": "What type of mixture has a uniform composition throughout?",
+          "answer": "A homogeneous mixture."
+        }
+      ]
+    },
+    {
+      "name": "Inside the Atom",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "Which subatomic particle has a positive charge?",
+          "answer": "The proton."
+        },
+        {
+          "value": 200,
+          "prompt": "Which subatomic particle has no electric charge?",
+          "answer": "The neutron."
+        },
+        {
+          "value": 300,
+          "prompt": "Which subatomic particle has a negative charge?",
+          "answer": "The electron."
+        },
+        {
+          "value": 400,
+          "prompt": "What number identifies an element by its number of protons?",
+          "answer": "Atomic number."
+        },
+        {
+          "value": 500,
+          "prompt": "What number equals the total number of protons and neutrons in an atom?",
+          "answer": "Mass number."
+        }
+      ]
+    },
+    {
+      "name": "Models & Isotopes",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "Which atomic model places electrons in fixed energy levels around the nucleus?",
+          "answer": "The Bohr model."
+        },
+        {
+          "value": 200,
+          "prompt": "Which scientist’s scattering experiment provided evidence for a small, dense nucleus?",
+          "answer": "Ernest Rutherford. Accept: Rutherford."
+        },
+        {
+          "value": 300,
+          "prompt": "What are atoms of the same element with different numbers of neutrons called?",
+          "answer": "Isotopes."
+        },
+        {
+          "value": 400,
+          "prompt": "What term describes an unstable isotope that emits radiation?",
+          "answer": "A radioisotope. Accept: radioactive isotope."
+        },
+        {
+          "value": 500,
+          "prompt": "Which atomic model describes electrons using orbitals rather than fixed circular paths?",
+          "answer": "The Schrödinger model. Accept: quantum mechanical model."
+        }
+      ]
+    },
+    {
+      "name": "Periodic Patterns",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What are the vertical columns of the periodic table called?",
+          "answer": "Groups."
+        },
+        {
+          "value": 200,
+          "prompt": "What are the horizontal rows of the periodic table called?",
+          "answer": "Periods."
+        },
+        {
+          "value": 300,
+          "prompt": "What generally happens to atomic radius from left to right across a period?",
+          "answer": "It decreases."
+        },
+        {
+          "value": 400,
+          "prompt": "What generally happens to first ionisation energy from left to right across a period?",
+          "answer": "It increases."
+        },
+        {
+          "value": 500,
+          "prompt": "What property measures an atom’s attraction for bonding electrons?",
+          "answer": "Electronegativity."
+        }
+      ]
+    },
+    {
+      "name": "Bonding",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What type of bond forms when electrons are transferred between atoms?",
+          "answer": "An ionic bond."
+        },
+        {
+          "value": 200,
+          "prompt": "What type of bond forms when atoms share electrons?",
+          "answer": "A covalent bond."
+        },
+        {
+          "value": 300,
+          "prompt": "What type of bonding involves positive metal ions surrounded by delocalised electrons?",
+          "answer": "Metallic bonding."
+        },
+        {
+          "value": 400,
+          "prompt": "What type of covalent structure is found in diamond?",
+          "answer": "A covalent network. Accept: network covalent structure."
+        },
+        {
+          "value": 500,
+          "prompt": "What term describes an unequal sharing of electrons in a covalent bond?",
+          "answer": "Bond polarity. Accept: a polar covalent bond."
+        }
+      ]
+    }
+  ],
+  "finalRound": {
+    "category": "Structure and Properties",
+    "prompt": "What outer-shell electrons are most directly involved in chemical bonding and help determine an element’s chemical behaviour?",
+    "answer": "Valence electrons.",
+    "timerSeconds": 60
+  }
+}

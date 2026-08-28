@@ -1,0 +1,162 @@
+{
+  "id": "year-12-investigating-science-module-8-science-and-society",
+  "title": "Year 12 Investigating Science Module 8 – Science and Society",
+  "description": "A fast-recall review of NSW Year 12 Investigating Science Module 8, organised by its three Inquiry Questions. Questions use short answers and avoid multi-step calculations or extended writing.",
+  "course": "NSW Investigating Science Stage 6",
+  "recommendedLevel": "Year 12",
+  "author": "Generated with Classroom Jeopardy Quiz Maker",
+  "estimatedDuration": "35–45 minutes",
+  "settings": {
+    "questionTimerSeconds": 25,
+    "finalTimerSeconds": 60
+  },
+  "rules": {
+    "mode": "append",
+    "general": [],
+    "scoring": [],
+    "final": []
+  },
+  "categories": [
+    {
+      "name": "How do science-related events affect society’s view of science?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What medical development led to the eradication of smallpox?",
+          "answer": "Vaccination. Accept: the smallpox vaccine."
+        },
+        {
+          "value": 200,
+          "prompt": "What transport achievement developed from scientific and engineering advances in aerodynamics?",
+          "answer": "Flight. Accept: powered flight."
+        },
+        {
+          "value": 300,
+          "prompt": "What type of accident can damage public confidence in nuclear power?",
+          "answer": "A nuclear reactor meltdown."
+        },
+        {
+          "value": 400,
+          "prompt": "What large structure can provide hydroelectricity but also disrupt river ecosystems?",
+          "answer": "A dam."
+        },
+        {
+          "value": 500,
+          "prompt": "What term describes the overall image or reputation of science held by the public?",
+          "answer": "Public perception of science."
+        },
+        {
+          "value": 600,
+          "prompt": "Scientific events can affect public trust positively or negatively depending partly on how their risks and benefits are what?",
+          "answer": "Communicated."
+        },
+        {
+          "value": 700,
+          "prompt": "What energy source relies on controlled nuclear reactions and can be affected by public responses to reactor accidents?",
+          "answer": "Nuclear power."
+        },
+        {
+          "value": 800,
+          "prompt": "What word describes possible harm associated with a scientific technology or event?",
+          "answer": "Risk."
+        }
+      ]
+    },
+    {
+      "name": "Why is scientific research regulated?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What branch of philosophy deals with what is right and wrong in scientific research?",
+          "answer": "Ethics."
+        },
+        {
+          "value": 200,
+          "prompt": "What process requires participants to agree knowingly and voluntarily to take part in research?",
+          "answer": "Informed consent."
+        },
+        {
+          "value": 300,
+          "prompt": "What principle protects participants’ private information in research?",
+          "answer": "Confidentiality."
+        },
+        {
+          "value": 400,
+          "prompt": "What form of research involving human embryos is specifically subject to ethical regulation?",
+          "answer": "Embryo research. Accept: genetic modification of embryos."
+        },
+        {
+          "value": 500,
+          "prompt": "What type of medical research must be regulated to protect participants when new medicines are tested?",
+          "answer": "Pharmaceutical research. Accept: clinical trials."
+        },
+        {
+          "value": 600,
+          "prompt": "What type of biological weapon research raises major international ethical and security concerns?",
+          "answer": "Biotechnological weaponry. Accept: biological weapons."
+        },
+        {
+          "value": 700,
+          "prompt": "What Indigenous rights area protects traditional knowledge, cultural expressions and associated knowledge?",
+          "answer": "Indigenous cultural and intellectual property. Accept: ICIP."
+        },
+        {
+          "value": 800,
+          "prompt": "What broad purpose of regulation aims to prevent harmful or unacceptable outcomes from scientific research?",
+          "answer": "Protection. Accept: protecting people, society and the environment."
+        }
+      ]
+    },
+    {
+      "name": "How do economic, social & political forces affect research?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What resource determines how much money is available for a research project?",
+          "answer": "Funding. Accept: budget."
+        },
+        {
+          "value": 200,
+          "prompt": "What sector may fund research because of potential market opportunities and profit?",
+          "answer": "Industry. Accept: corporations."
+        },
+        {
+          "value": 300,
+          "prompt": "What institutions often compete for limited research grants and project budgets?",
+          "answer": "Universities."
+        },
+        {
+          "value": 400,
+          "prompt": "What political body can influence research priorities through public funding decisions?",
+          "answer": "Government."
+        },
+        {
+          "value": 500,
+          "prompt": "What technology uses remotely operated or autonomous aircraft for tasks such as monitoring and research?",
+          "answer": "Drones."
+        },
+        {
+          "value": 600,
+          "prompt": "What medical strategy has contributed to the eradication or control of infectious diseases worldwide?",
+          "answer": "Vaccination programs."
+        },
+        {
+          "value": 700,
+          "prompt": "What process makes contaminated water safer for human use and improves public health?",
+          "answer": "Water purification. Accept: water treatment."
+        },
+        {
+          "value": 800,
+          "prompt": "What term describes sharing benefits when research or products use Indigenous knowledge or biological resources?",
+          "answer": "Benefit-sharing."
+        }
+      ]
+    }
+  ],
+  "finalRound": {
+    "category": "Science in Society",
+    "prompt": "What four broad influences does the syllabus emphasise when evaluating how society affects science and scientific research?",
+    "answer": "Ethical, social, economic and political influences.",
+    "timerSeconds": 60
+  }
+}

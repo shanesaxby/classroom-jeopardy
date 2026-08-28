@@ -1,0 +1,177 @@
+{
+  "id": "year-12-biology-module-5-heredity",
+  "title": "Year 12 Biology Module 5 – Heredity",
+  "description": "A fast-recall review of NSW Year 12 Biology Module 5, organised by its five Inquiry Questions. Questions use short answers and avoid multi-step calculations or extended writing.",
+  "course": "NSW Biology Stage 6",
+  "recommendedLevel": "Year 12",
+  "author": "Generated with Classroom Jeopardy Quiz Maker",
+  "estimatedDuration": "35–45 minutes",
+  "settings": {
+    "questionTimerSeconds": 25,
+    "finalTimerSeconds": 60
+  },
+  "rules": {
+    "mode": "append",
+    "general": [],
+    "scoring": [],
+    "final": []
+  },
+  "categories": [
+    {
+      "name": "How does reproduction ensure species continuity?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What type of reproduction involves only one parent?",
+          "answer": "Asexual reproduction."
+        },
+        {
+          "value": 200,
+          "prompt": "What type of reproduction involves the fusion of gametes?",
+          "answer": "Sexual reproduction."
+        },
+        {
+          "value": 300,
+          "prompt": "What asexual process is commonly used by bacteria to reproduce?",
+          "answer": "Binary fission."
+        },
+        {
+          "value": 400,
+          "prompt": "What type of fertilisation occurs when gametes fuse outside the female body?",
+          "answer": "External fertilisation."
+        },
+        {
+          "value": 500,
+          "prompt": "What process attaches an early mammalian embryo to the lining of the uterus?",
+          "answer": "Implantation."
+        }
+      ]
+    },
+    {
+      "name": "How important is exact genetic replication?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What type of cell division produces two genetically identical daughter cells?",
+          "answer": "Mitosis."
+        },
+        {
+          "value": 200,
+          "prompt": "What type of cell division produces haploid gametes?",
+          "answer": "Meiosis."
+        },
+        {
+          "value": 300,
+          "prompt": "What molecule must be copied before cell division?",
+          "answer": "DNA."
+        },
+        {
+          "value": 400,
+          "prompt": "What base pairs with adenine in DNA?",
+          "answer": "Thymine."
+        },
+        {
+          "value": 500,
+          "prompt": "What term describes DNA replication in which each new molecule contains one original strand?",
+          "answer": "Semi-conservative replication."
+        }
+      ]
+    },
+    {
+      "name": "Why is polypeptide synthesis important?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What process copies genetic information from DNA into mRNA?",
+          "answer": "Transcription."
+        },
+        {
+          "value": 200,
+          "prompt": "What process uses an mRNA sequence to assemble a polypeptide?",
+          "answer": "Translation."
+        },
+        {
+          "value": 300,
+          "prompt": "What RNA carries the genetic code from DNA to a ribosome?",
+          "answer": "mRNA. Accept: messenger RNA."
+        },
+        {
+          "value": 400,
+          "prompt": "What RNA carries amino acids to the ribosome?",
+          "answer": "tRNA. Accept: transfer RNA."
+        },
+        {
+          "value": 500,
+          "prompt": "What cellular structure is the site of translation?",
+          "answer": "The ribosome."
+        }
+      ]
+    },
+    {
+      "name": "How can genetic similarities & differences be compared?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What exchange of DNA between homologous chromosomes occurs during meiosis?",
+          "answer": "Crossing over."
+        },
+        {
+          "value": 200,
+          "prompt": "What random arrangement of homologous chromosome pairs during meiosis increases variation?",
+          "answer": "Independent assortment."
+        },
+        {
+          "value": 300,
+          "prompt": "What inheritance pattern occurs when both alleles are fully expressed in a heterozygote?",
+          "answer": "Co-dominance."
+        },
+        {
+          "value": 400,
+          "prompt": "What inheritance pattern gives a heterozygote an intermediate phenotype?",
+          "answer": "Incomplete dominance."
+        },
+        {
+          "value": 500,
+          "prompt": "What term describes inheritance of a gene located on a sex chromosome?",
+          "answer": "Sex-linked inheritance."
+        }
+      ]
+    },
+    {
+      "name": "Can population genetic patterns be predicted accurately?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What technique determines the order of bases in DNA?",
+          "answer": "DNA sequencing."
+        },
+        {
+          "value": 200,
+          "prompt": "What technique produces a characteristic DNA pattern used to compare individuals?",
+          "answer": "DNA profiling."
+        },
+        {
+          "value": 300,
+          "prompt": "What abbreviation is used for a single nucleotide polymorphism?",
+          "answer": "SNP."
+        },
+        {
+          "value": 400,
+          "prompt": "What term describes the proportion of a particular allele in a population?",
+          "answer": "Allele frequency."
+        },
+        {
+          "value": 500,
+          "prompt": "What field uses computing to store and analyse biological data such as DNA sequences?",
+          "answer": "Bioinformatics."
+        }
+      ]
+    }
+  ],
+  "finalRound": {
+    "category": "Heredity",
+    "prompt": "What term describes an organism’s observable characteristics produced by its genotype and environment?",
+    "answer": "Phenotype.",
+    "timerSeconds": 60
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "id": "year-12-chemistry-module-7-organic-chemistry",
+  "title": "Year 12 Chemistry Module 7 – Organic Chemistry",
+  "description": "A fast-recall review of NSW Year 12 Chemistry Module 7, organised by its six Inquiry Questions. Questions use short answers and avoid multi-step calculations or extended writing.",
+  "course": "NSW Chemistry Stage 6",
+  "recommendedLevel": "Year 12",
+  "author": "Generated with Classroom Jeopardy Quiz Maker",
+  "estimatedDuration": "35–45 minutes",
+  "settings": {
+    "questionTimerSeconds": 25,
+    "finalTimerSeconds": 60
+  },
+  "rules": {
+    "mode": "append",
+    "general": [],
+    "scoring": [],
+    "final": []
+  },
+  "categories": [
+    {
+      "name": "How are organic compounds systematically named?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What international naming system is used for organic compounds?",
+          "answer": "IUPAC nomenclature."
+        },
+        {
+          "value": 200,
+          "prompt": "What suffix identifies an alkane?",
+          "answer": "-ane."
+        },
+        {
+          "value": 300,
+          "prompt": "What suffix identifies an alkene?",
+          "answer": "-ene."
+        },
+        {
+          "value": 400,
+          "prompt": "What term describes compounds with the same molecular formula but different structural formulae?",
+          "answer": "Structural isomers."
+        }
+      ]
+    },
+    {
+      "name": "How are hydrocarbons classified?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What hydrocarbon contains only single carbon–carbon bonds?",
+          "answer": "An alkane."
+        },
+        {
+          "value": 200,
+          "prompt": "What hydrocarbon contains a carbon–carbon double bond?",
+          "answer": "An alkene."
+        },
+        {
+          "value": 300,
+          "prompt": "What hydrocarbon contains a carbon–carbon triple bond?",
+          "answer": "An alkyne."
+        },
+        {
+          "value": 400,
+          "prompt": "Are alkenes saturated or unsaturated hydrocarbons?",
+          "answer": "Unsaturated."
+        }
+      ]
+    },
+    {
+      "name": "How do hydrocarbons react?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What reaction type is typical when a molecule adds across an alkene double bond?",
+          "answer": "An addition reaction."
+        },
+        {
+          "value": 200,
+          "prompt": "What addition reaction adds hydrogen to an unsaturated hydrocarbon?",
+          "answer": "Hydrogenation."
+        },
+        {
+          "value": 300,
+          "prompt": "What addition reaction adds water across a carbon–carbon multiple bond?",
+          "answer": "Hydration."
+        },
+        {
+          "value": 400,
+          "prompt": "What reaction type occurs when a halogen replaces hydrogen in an alkane under suitable conditions?",
+          "answer": "A substitution reaction."
+        }
+      ]
+    },
+    {
+      "name": "How are alcohols produced & what are their properties?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What functional group identifies an alcohol?",
+          "answer": "The hydroxyl group. Accept: –OH."
+        },
+        {
+          "value": 200,
+          "prompt": "What biological process can produce ethanol from sugars?",
+          "answer": "Fermentation."
+        },
+        {
+          "value": 300,
+          "prompt": "Oxidation of a primary alcohol can first produce what functional group?",
+          "answer": "An aldehyde."
+        },
+        {
+          "value": 400,
+          "prompt": "What reaction removes water from an alcohol to form an alkene?",
+          "answer": "Dehydration."
+        }
+      ]
+    },
+    {
+      "name": "What are the properties of organic acids & bases?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What functional group identifies a carboxylic acid?",
+          "answer": "The carboxyl group. Accept: –COOH."
+        },
+        {
+          "value": 200,
+          "prompt": "What organic functional group generally behaves as a base because nitrogen can accept a proton?",
+          "answer": "An amine."
+        },
+        {
+          "value": 300,
+          "prompt": "What product forms when a carboxylic acid reacts with an alcohol?",
+          "answer": "An ester."
+        },
+        {
+          "value": 400,
+          "prompt": "What reaction produces an ester from a carboxylic acid and an alcohol?",
+          "answer": "Esterification."
+        }
+      ]
+    },
+    {
+      "name": "What are the properties & uses of polymers?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What small repeating starting molecule is used to make a polymer?",
+          "answer": "A monomer."
+        },
+        {
+          "value": 200,
+          "prompt": "What type of polymerisation commonly uses alkene monomers?",
+          "answer": "Addition polymerisation."
+        },
+        {
+          "value": 300,
+          "prompt": "Is nylon an addition polymer or a condensation polymer?",
+          "answer": "A condensation polymer."
+        },
+        {
+          "value": 400,
+          "prompt": "What polymer made from tetrafluoroethylene is commonly abbreviated PTFE?",
+          "answer": "Polytetrafluoroethylene. Accept: PTFE."
+        }
+      ]
+    }
+  ],
+  "finalRound": {
+    "category": "Organic Chemistry",
+    "prompt": "What feature of an organic molecule is primarily responsible for its characteristic chemical reactions?",
+    "answer": "Its functional group.",
+    "timerSeconds": 60
+  }
+}

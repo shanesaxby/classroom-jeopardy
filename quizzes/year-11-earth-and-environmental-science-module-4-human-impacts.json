@@ -1,0 +1,177 @@
+{
+  "id": "year-11-earth-and-environmental-science-module-4-human-impacts",
+  "title": "Year 11 Earth and Environmental Science Module 4 – Human Impacts",
+  "description": "A fast-recall review of NSW Year 11 Earth and Environmental Science Module 4. Questions use short answers and avoid multi-step calculations or extended writing.",
+  "course": "NSW Earth and Environmental Science Stage 6",
+  "recommendedLevel": "Year 11",
+  "author": "Generated with Classroom Jeopardy Quiz Maker",
+  "estimatedDuration": "35–45 minutes",
+  "settings": {
+    "questionTimerSeconds": 25,
+    "finalTimerSeconds": 60
+  },
+  "rules": {
+    "mode": "append",
+    "general": [],
+    "scoring": [],
+    "final": []
+  },
+  "categories": [
+    {
+      "name": "Water Management",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What term describes water that is safe enough for humans to drink?",
+          "answer": "Potable water."
+        },
+        {
+          "value": 200,
+          "prompt": "What is wastewater from homes and toilets called?",
+          "answer": "Sewage."
+        },
+        {
+          "value": 300,
+          "prompt": "What is rainwater that flows over roads and other surfaces into drains called?",
+          "answer": "Stormwater."
+        },
+        {
+          "value": 400,
+          "prompt": "What process removes contaminants from wastewater so it can be safely discharged or reused?",
+          "answer": "Water treatment. Accept: wastewater treatment."
+        },
+        {
+          "value": 500,
+          "prompt": "What term means using treated water again instead of discarding it?",
+          "answer": "Water reuse. Accept: water recycling."
+        }
+      ]
+    },
+    {
+      "name": "Water Impacts",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What human activity removes water from rivers or groundwater faster than it is naturally replaced?",
+          "answer": "Over-extraction."
+        },
+        {
+          "value": 200,
+          "prompt": "What term describes an excessive growth of algae in a water body?",
+          "answer": "An algal bloom."
+        },
+        {
+          "value": 300,
+          "prompt": "What nutrient enrichment process can lead to algal blooms in waterways?",
+          "answer": "Eutrophication."
+        },
+        {
+          "value": 400,
+          "prompt": "What dissolved gas may fall to harmful levels when large algal blooms decompose?",
+          "answer": "Oxygen. Accept: dissolved oxygen."
+        },
+        {
+          "value": 500,
+          "prompt": "What term describes water stored below Earth’s surface in pores and cracks?",
+          "answer": "Groundwater."
+        }
+      ]
+    },
+    {
+      "name": "Salinity & Erosion",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What term describes the build-up of salts in soil?",
+          "answer": "Salinity. Accept: soil salinity."
+        },
+        {
+          "value": 200,
+          "prompt": "What process removes soil by agents such as water or wind?",
+          "answer": "Erosion. Accept: soil erosion."
+        },
+        {
+          "value": 300,
+          "prompt": "What land-clearing practice can increase erosion by removing protective plant cover?",
+          "answer": "Deforestation. Accept: vegetation clearing or land clearing."
+        },
+        {
+          "value": 400,
+          "prompt": "What agricultural practice reduces erosion by following the natural contours of a slope?",
+          "answer": "Contour farming. Accept: contour ploughing."
+        },
+        {
+          "value": 500,
+          "prompt": "What process aims to restore damaged land so it can function more effectively again?",
+          "answer": "Rehabilitation. Accept: land rehabilitation."
+        }
+      ]
+    },
+    {
+      "name": "Soil Contamination",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What term describes the presence of harmful substances in soil?",
+          "answer": "Soil contamination."
+        },
+        {
+          "value": 200,
+          "prompt": "What group of metallic pollutants includes lead, mercury and cadmium?",
+          "answer": "Heavy metals."
+        },
+        {
+          "value": 300,
+          "prompt": "What agricultural chemicals used to kill pests can contaminate soil if misused?",
+          "answer": "Pesticides."
+        },
+        {
+          "value": 400,
+          "prompt": "What term describes removing or neutralising contaminants from polluted soil?",
+          "answer": "Remediation. Accept: soil remediation."
+        },
+        {
+          "value": 500,
+          "prompt": "What process uses living organisms, often microbes or plants, to reduce environmental contamination?",
+          "answer": "Bioremediation."
+        }
+      ]
+    },
+    {
+      "name": "Introduced Species",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What term describes a species moved by humans to an area where it did not naturally occur?",
+          "answer": "An introduced species."
+        },
+        {
+          "value": 200,
+          "prompt": "What term describes an introduced species that spreads and causes environmental, economic or social harm?",
+          "answer": "An invasive species."
+        },
+        {
+          "value": 300,
+          "prompt": "What introduced Australian predator has contributed to the decline of many native animals?",
+          "answer": "The red fox. Accept: fox."
+        },
+        {
+          "value": 400,
+          "prompt": "What ecological interaction occurs when an introduced species and a native species need the same limited resource?",
+          "answer": "Competition."
+        },
+        {
+          "value": 500,
+          "prompt": "What broad term describes actions used to reduce the population or impact of an introduced species?",
+          "answer": "Control. Accept: mitigation or species control."
+        }
+      ]
+    }
+  ],
+  "finalRound": {
+    "category": "Sustainable Resource Use",
+    "prompt": "What term means using natural resources in a way that meets present needs without preventing future generations from meeting theirs?",
+    "answer": "Sustainability. Accept: sustainable use.",
+    "timerSeconds": 60
+  }
+}

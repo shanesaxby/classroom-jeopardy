@@ -1,0 +1,177 @@
+{
+  "id": "year-11-biology-module-1-cells-as-the-basis-of-life",
+  "title": "Year 11 Biology Module 1 – Cells as the Basis of Life",
+  "description": "A fast-recall review of NSW Year 11 Biology Module 1. Questions are designed for short answers with no multi-step calculations or extended writing.",
+  "course": "NSW Biology Stage 6",
+  "recommendedLevel": "Year 11",
+  "author": "Generated with Classroom Jeopardy Quiz Maker",
+  "estimatedDuration": "35–45 minutes",
+  "settings": {
+    "questionTimerSeconds": 25,
+    "finalTimerSeconds": 60
+  },
+  "rules": {
+    "mode": "append",
+    "general": [],
+    "scoring": [],
+    "final": []
+  },
+  "categories": [
+    {
+      "name": "Cell Identity",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What is the basic structural and functional unit of life?",
+          "answer": "The cell."
+        },
+        {
+          "value": 200,
+          "prompt": "Which type of cell lacks a membrane-bound nucleus?",
+          "answer": "A prokaryotic cell."
+        },
+        {
+          "value": 300,
+          "prompt": "Which type of cell contains membrane-bound organelles?",
+          "answer": "A eukaryotic cell."
+        },
+        {
+          "value": 400,
+          "prompt": "What rigid outer structure is found in plant cells and most bacterial cells?",
+          "answer": "A cell wall."
+        },
+        {
+          "value": 500,
+          "prompt": "What region of a bacterial cell contains its main circular DNA?",
+          "answer": "The nucleoid region."
+        }
+      ]
+    },
+    {
+      "name": "Organelle Jobs",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "Which organelle contains most of a eukaryotic cell's DNA?",
+          "answer": "The nucleus."
+        },
+        {
+          "value": 200,
+          "prompt": "Which organelle is the main site of aerobic cellular respiration?",
+          "answer": "The mitochondrion. Accept: mitochondria."
+        },
+        {
+          "value": 300,
+          "prompt": "Which tiny structures are the site of protein synthesis?",
+          "answer": "Ribosomes."
+        },
+        {
+          "value": 400,
+          "prompt": "Which organelle modifies, sorts and packages proteins?",
+          "answer": "The Golgi apparatus."
+        },
+        {
+          "value": 500,
+          "prompt": "Which organelle carries out photosynthesis in plant cells?",
+          "answer": "The chloroplast."
+        }
+      ]
+    },
+    {
+      "name": "Seeing Cells",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What term means how many times larger an image is than the object?",
+          "answer": "Magnification."
+        },
+        {
+          "value": 200,
+          "prompt": "Which microscope can be used to observe living cells?",
+          "answer": "A light microscope."
+        },
+        {
+          "value": 300,
+          "prompt": "Which electron microscope shows internal ultrastructure in thin sections?",
+          "answer": "A transmission electron microscope. Accept: TEM."
+        },
+        {
+          "value": 400,
+          "prompt": "Which electron microscope gives detailed images of a cell's surface?",
+          "answer": "A scanning electron microscope. Accept: SEM."
+        },
+        {
+          "value": 500,
+          "prompt": "What term describes how well a microscope can distinguish two close points?",
+          "answer": "Resolution."
+        }
+      ]
+    },
+    {
+      "name": "Membrane Moves",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What model describes the cell membrane as a moving phospholipid bilayer with embedded proteins?",
+          "answer": "The fluid mosaic model."
+        },
+        {
+          "value": 200,
+          "prompt": "What is movement of particles from high to low concentration called?",
+          "answer": "Diffusion."
+        },
+        {
+          "value": 300,
+          "prompt": "What is movement of water across a selectively permeable membrane called?",
+          "answer": "Osmosis."
+        },
+        {
+          "value": 400,
+          "prompt": "What transport process uses energy to move substances against a concentration gradient?",
+          "answer": "Active transport."
+        },
+        {
+          "value": 500,
+          "prompt": "Name the two vesicle-based processes that move large materials into and out of cells.",
+          "answer": "Endocytosis and exocytosis."
+        }
+      ]
+    },
+    {
+      "name": "Energy & Enzymes",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What gas is taken in for photosynthesis?",
+          "answer": "Carbon dioxide."
+        },
+        {
+          "value": 200,
+          "prompt": "What gas is released during photosynthesis?",
+          "answer": "Oxygen."
+        },
+        {
+          "value": 300,
+          "prompt": "What process releases usable energy from glucose in cells?",
+          "answer": "Cellular respiration."
+        },
+        {
+          "value": 400,
+          "prompt": "What name is given to biological catalysts that speed up cellular reactions?",
+          "answer": "Enzymes."
+        },
+        {
+          "value": 500,
+          "prompt": "What is the name of the region on an enzyme where the substrate binds?",
+          "answer": "The active site."
+        }
+      ]
+    }
+  ],
+  "finalRound": {
+    "category": "Cell Exchange",
+    "prompt": "As a cell gets larger, which ratio decreases and can limit efficient exchange across the membrane?",
+    "answer": "The surface-area-to-volume ratio. Accept: SA:V ratio.",
+    "timerSeconds": 60
+  }
+}

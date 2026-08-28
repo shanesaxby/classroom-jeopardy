@@ -1,0 +1,162 @@
+{
+  "id": "year-12-chemistry-module-8-applying-chemical-ideas",
+  "title": "Year 12 Chemistry Module 8 – Applying Chemical Ideas",
+  "description": "A fast-recall review of NSW Year 12 Chemistry Module 8, organised by its three Inquiry Questions. Questions use short answers and avoid multi-step calculations or extended writing.",
+  "course": "NSW Chemistry Stage 6",
+  "recommendedLevel": "Year 12",
+  "author": "Generated with Classroom Jeopardy Quiz Maker",
+  "estimatedDuration": "35–45 minutes",
+  "settings": {
+    "questionTimerSeconds": 25,
+    "finalTimerSeconds": 60
+  },
+  "rules": {
+    "mode": "append",
+    "general": [],
+    "scoring": [],
+    "final": []
+  },
+  "categories": [
+    {
+      "name": "How are environmental ions identified & measured?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What test identifies some metal ions from the colour they produce in a flame?",
+          "answer": "A flame test."
+        },
+        {
+          "value": 200,
+          "prompt": "What type of reaction forms an insoluble solid that can help identify an ion?",
+          "answer": "A precipitation reaction."
+        },
+        {
+          "value": 300,
+          "prompt": "What term describes identifying which substances are present without measuring their amount?",
+          "answer": "Qualitative analysis."
+        },
+        {
+          "value": 400,
+          "prompt": "What term describes measuring how much of a substance is present?",
+          "answer": "Quantitative analysis."
+        },
+        {
+          "value": 500,
+          "prompt": "What analytical method determines an amount by measuring the mass of a precipitate?",
+          "answer": "Gravimetric analysis."
+        },
+        {
+          "value": 600,
+          "prompt": "What titration method determines an ion concentration by forming a precipitate?",
+          "answer": "Precipitation titration."
+        },
+        {
+          "value": 700,
+          "prompt": "What technique measures light absorbance to determine the concentration of a coloured species?",
+          "answer": "UV–visible spectrophotometry. Accept: UV–Vis."
+        },
+        {
+          "value": 800,
+          "prompt": "What technique measures absorption by free atoms to determine concentrations of metal ions?",
+          "answer": "Atomic absorption spectroscopy. Accept: AAS."
+        }
+      ]
+    },
+    {
+      "name": "How is organic structure & reactivity determined?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What test reagent is rapidly decolourised by many compounds containing a carbon–carbon double bond?",
+          "answer": "Bromine water. Accept: bromine solution."
+        },
+        {
+          "value": 200,
+          "prompt": "What spectroscopy identifies functional groups using characteristic bond vibrations?",
+          "answer": "Infrared spectroscopy. Accept: IR spectroscopy."
+        },
+        {
+          "value": 300,
+          "prompt": "What technique separates ions by mass-to-charge ratio and gives a molecular fragmentation pattern?",
+          "answer": "Mass spectrometry."
+        },
+        {
+          "value": 400,
+          "prompt": "What spectroscopy gives information about chemical environments of carbon or hydrogen nuclei?",
+          "answer": "NMR spectroscopy."
+        },
+        {
+          "value": 500,
+          "prompt": "Which NMR technique focuses on carbon-13 nuclei?",
+          "answer": "Carbon-13 NMR. Accept: ¹³C NMR."
+        },
+        {
+          "value": 600,
+          "prompt": "Which NMR technique focuses on hydrogen-1 nuclei?",
+          "answer": "Proton NMR. Accept: ¹H NMR."
+        },
+        {
+          "value": 700,
+          "prompt": "In a mass spectrum, what peak usually corresponds to the intact molecular ion?",
+          "answer": "The molecular ion peak. Accept: M⁺ peak."
+        },
+        {
+          "value": 800,
+          "prompt": "What region of an IR spectrum contains a complex pattern often useful for confirming compound identity?",
+          "answer": "The fingerprint region."
+        }
+      ]
+    },
+    {
+      "name": "What are the implications of synthesis & design?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What term describes the percentage of theoretical product actually obtained?",
+          "answer": "Percentage yield. Accept: yield."
+        },
+        {
+          "value": 200,
+          "prompt": "What term describes how free a chemical product is from unwanted substances?",
+          "answer": "Purity."
+        },
+        {
+          "value": 300,
+          "prompt": "What concept measures how efficiently reactant atoms are incorporated into the desired product?",
+          "answer": "Atom economy."
+        },
+        {
+          "value": 400,
+          "prompt": "What broad approach aims to design chemical processes that reduce hazardous substances and waste?",
+          "answer": "Green chemistry."
+        },
+        {
+          "value": 500,
+          "prompt": "What industrial process synthesises ammonia from nitrogen and hydrogen?",
+          "answer": "The Haber process."
+        },
+        {
+          "value": 600,
+          "prompt": "What industrial process is used to manufacture sulfuric acid?",
+          "answer": "The Contact process."
+        },
+        {
+          "value": 700,
+          "prompt": "What factor asks whether the required starting materials can be obtained for a synthesis?",
+          "answer": "Availability of reagents."
+        },
+        {
+          "value": 800,
+          "prompt": "Environmental, social and economic effects are collectively examples of what when evaluating a synthesis?",
+          "answer": "Implications. Accept: considerations."
+        }
+      ]
+    }
+  ],
+  "finalRound": {
+    "category": "Chemical Analysis",
+    "prompt": "What analytical technique uses proton and carbon-13 signals to reveal different chemical environments within an organic molecule?",
+    "answer": "NMR spectroscopy. Accept: nuclear magnetic resonance spectroscopy.",
+    "timerSeconds": 60
+  }
+}

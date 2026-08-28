@@ -1,0 +1,177 @@
+{
+  "id": "year-11-earth-and-environmental-science-module-3-energy-transformations",
+  "title": "Year 11 Earth and Environmental Science Module 3 – Energy Transformations",
+  "description": "A fast-recall review of NSW Year 11 Earth and Environmental Science Module 3. Questions use short answers and avoid multi-step calculations or extended writing.",
+  "course": "NSW Earth and Environmental Science Stage 6",
+  "recommendedLevel": "Year 11",
+  "author": "Generated with Classroom Jeopardy Quiz Maker",
+  "estimatedDuration": "35–45 minutes",
+  "settings": {
+    "questionTimerSeconds": 25,
+    "finalTimerSeconds": 60
+  },
+  "rules": {
+    "mode": "append",
+    "general": [],
+    "scoring": [],
+    "final": []
+  },
+  "categories": [
+    {
+      "name": "Energy Drivers",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What is the main external source of energy driving processes at Earth’s surface?",
+          "answer": "The Sun. Accept: solar energy."
+        },
+        {
+          "value": 200,
+          "prompt": "What type of energy transfer moves energy through electromagnetic waves from the Sun to Earth?",
+          "answer": "Radiation."
+        },
+        {
+          "value": 300,
+          "prompt": "What process transfers heat through the movement of fluids such as air or mantle material?",
+          "answer": "Convection."
+        },
+        {
+          "value": 400,
+          "prompt": "What force helps drive slab pull at subduction zones?",
+          "answer": "Gravity."
+        },
+        {
+          "value": 500,
+          "prompt": "What internal process releases heat as unstable isotopes break down inside Earth?",
+          "answer": "Radioactive decay."
+        }
+      ]
+    },
+    {
+      "name": "Lithosphere Energy",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What slow circulation of heated material can occur within Earth’s mantle?",
+          "answer": "Convection currents."
+        },
+        {
+          "value": 200,
+          "prompt": "What force occurs when a dense oceanic plate sinks and pulls the rest of the plate behind it?",
+          "answer": "Slab pull."
+        },
+        {
+          "value": 300,
+          "prompt": "What sudden release of stored elastic energy in rocks produces seismic waves?",
+          "answer": "An earthquake."
+        },
+        {
+          "value": 400,
+          "prompt": "What molten rock beneath Earth’s surface can transfer thermal energy upward?",
+          "answer": "Magma."
+        },
+        {
+          "value": 500,
+          "prompt": "What form of energy is stored in rocks as they deform before an earthquake?",
+          "answer": "Elastic potential energy."
+        }
+      ]
+    },
+    {
+      "name": "Atmosphere",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What form of solar energy primarily warms Earth’s surface and atmosphere?",
+          "answer": "Radiant energy. Accept: solar radiation."
+        },
+        {
+          "value": 200,
+          "prompt": "What process occurs when warm air rises and cool air sinks?",
+          "answer": "Convection."
+        },
+        {
+          "value": 300,
+          "prompt": "What atmospheric process traps some outgoing heat and helps warm Earth’s surface?",
+          "answer": "The greenhouse effect."
+        },
+        {
+          "value": 400,
+          "prompt": "What term describes the movement of air from high pressure to low pressure?",
+          "answer": "Wind."
+        },
+        {
+          "value": 500,
+          "prompt": "What type of heat is released when water vapour condenses into liquid water?",
+          "answer": "Latent heat."
+        }
+      ]
+    },
+    {
+      "name": "Oceans & ENSO",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What large Earth system stores and redistributes huge amounts of solar heat?",
+          "answer": "The oceans."
+        },
+        {
+          "value": 200,
+          "prompt": "What movement of seawater redistributes heat around the planet?",
+          "answer": "Ocean currents."
+        },
+        {
+          "value": 300,
+          "prompt": "What climate phase involves unusually warm surface waters in the central and eastern tropical Pacific?",
+          "answer": "El Niño."
+        },
+        {
+          "value": 400,
+          "prompt": "What climate phase involves unusually cool surface waters in the central and eastern tropical Pacific?",
+          "answer": "La Niña."
+        },
+        {
+          "value": 500,
+          "prompt": "What abbreviation is used for the El Niño–Southern Oscillation?",
+          "answer": "ENSO."
+        }
+      ]
+    },
+    {
+      "name": "Life, Water & Ice",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What process converts solar energy into chemical energy in plants?",
+          "answer": "Photosynthesis."
+        },
+        {
+          "value": 200,
+          "prompt": "What water-cycle process changes liquid water into water vapour using energy?",
+          "answer": "Evaporation."
+        },
+        {
+          "value": 300,
+          "prompt": "What water-cycle process changes water vapour into liquid droplets?",
+          "answer": "Condensation."
+        },
+        {
+          "value": 400,
+          "prompt": "What name is given to Earth’s frozen water, including glaciers and ice sheets?",
+          "answer": "The cryosphere."
+        },
+        {
+          "value": 500,
+          "prompt": "What surface property describes how much incoming solar radiation is reflected?",
+          "answer": "Albedo."
+        }
+      ]
+    }
+  ],
+  "finalRound": {
+    "category": "Earth’s Energy Systems",
+    "prompt": "What two major energy sources drive most processes in Earth’s systems?",
+    "answer": "Solar energy and Earth’s internal heat. Accept: energy from the Sun and internal geothermal heat.",
+    "timerSeconds": 60
+  }
+}

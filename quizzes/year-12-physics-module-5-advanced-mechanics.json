@@ -1,0 +1,162 @@
+{
+  "id": "year-12-physics-module-5-advanced-mechanics",
+  "title": "Year 12 Physics Module 5 – Advanced Mechanics",
+  "description": "A fast-recall review of NSW Year 12 Physics Module 5, organised by its three Inquiry Questions. Questions use short answers and avoid multi-step calculations or extended writing.",
+  "course": "NSW Physics Stage 6",
+  "recommendedLevel": "Year 12",
+  "author": "Generated with Classroom Jeopardy Quiz Maker",
+  "estimatedDuration": "35–45 minutes",
+  "settings": {
+    "questionTimerSeconds": 25,
+    "finalTimerSeconds": 60
+  },
+  "rules": {
+    "mode": "append",
+    "general": [],
+    "scoring": [],
+    "final": []
+  },
+  "categories": [
+    {
+      "name": "How can projectile models make predictions?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "In the standard projectile model, what force acts on the projectile after launch?",
+          "answer": "Gravity. Accept: gravitational force."
+        },
+        {
+          "value": 200,
+          "prompt": "What is the shape of an ideal projectile’s path near Earth’s surface?",
+          "answer": "A parabola. Accept: parabolic."
+        },
+        {
+          "value": 300,
+          "prompt": "Ignoring air resistance, what happens to a projectile’s horizontal velocity?",
+          "answer": "It remains constant."
+        },
+        {
+          "value": 400,
+          "prompt": "Ignoring air resistance, what is the projectile’s vertical acceleration near Earth?",
+          "answer": "9.8 m/s² downward. Accept: g downward."
+        },
+        {
+          "value": 500,
+          "prompt": "At maximum height, what is the projectile’s vertical velocity?",
+          "answer": "Zero."
+        },
+        {
+          "value": 600,
+          "prompt": "Which two perpendicular components are used to analyse projectile motion?",
+          "answer": "Horizontal and vertical components."
+        },
+        {
+          "value": 700,
+          "prompt": "What assumption about air resistance is usually made in the ideal projectile model?",
+          "answer": "It is zero or negligible."
+        },
+        {
+          "value": 800,
+          "prompt": "For equal launch and landing heights with no air resistance, what launch angle gives maximum range?",
+          "answer": "45°."
+        }
+      ]
+    },
+    {
+      "name": "Why do objects move in circles?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What inward force is required for circular motion?",
+          "answer": "Centripetal force."
+        },
+        {
+          "value": 200,
+          "prompt": "In what direction does centripetal acceleration point?",
+          "answer": "Towards the centre."
+        },
+        {
+          "value": 300,
+          "prompt": "In uniform circular motion, is speed constant or changing?",
+          "answer": "Constant."
+        },
+        {
+          "value": 400,
+          "prompt": "In uniform circular motion, what changes continuously even when speed is constant?",
+          "answer": "Velocity. Accept: direction of velocity."
+        },
+        {
+          "value": 500,
+          "prompt": "If speed increases while mass and radius stay constant, does centripetal force increase or decrease?",
+          "answer": "Increase."
+        },
+        {
+          "value": 600,
+          "prompt": "If radius increases while mass and speed stay constant, does centripetal force increase or decrease?",
+          "answer": "Decrease."
+        },
+        {
+          "value": 700,
+          "prompt": "What rotational effect is produced when a force acts at a distance from an axis?",
+          "answer": "Torque."
+        },
+        {
+          "value": 800,
+          "prompt": "In uniform circular motion, how much work does the centripetal force do on the object?",
+          "answer": "Zero."
+        }
+      ]
+    },
+    {
+      "name": "How does gravity determine planetary and satellite motion?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What law describes the gravitational attraction between any two masses?",
+          "answer": "Newton’s Law of Universal Gravitation."
+        },
+        {
+          "value": 200,
+          "prompt": "What constant is represented by G in Newton’s law of gravitation?",
+          "answer": "The universal gravitational constant."
+        },
+        {
+          "value": 300,
+          "prompt": "As distance from a planet increases, does gravitational field strength increase or decrease?",
+          "answer": "Decrease."
+        },
+        {
+          "value": 400,
+          "prompt": "What type of path does a satellite follow while continually falling around Earth?",
+          "answer": "An orbit."
+        },
+        {
+          "value": 500,
+          "prompt": "What is the minimum speed needed to leave a gravitational field without further propulsion called?",
+          "answer": "Escape velocity."
+        },
+        {
+          "value": 600,
+          "prompt": "Is gravitational potential energy for a bound object conventionally positive or negative?",
+          "answer": "Negative."
+        },
+        {
+          "value": 700,
+          "prompt": "According to Kepler’s First Law, what shape is a planet’s orbit?",
+          "answer": "An ellipse."
+        },
+        {
+          "value": 800,
+          "prompt": "According to Kepler’s Second Law, a line from a planet to the Sun sweeps out equal areas in equal what?",
+          "answer": "Time intervals. Accept: times."
+        }
+      ]
+    }
+  ],
+  "finalRound": {
+    "category": "Advanced Mechanics",
+    "prompt": "What inward acceleration changes the direction of velocity in uniform circular motion?",
+    "answer": "Centripetal acceleration.",
+    "timerSeconds": 60
+  }
+}

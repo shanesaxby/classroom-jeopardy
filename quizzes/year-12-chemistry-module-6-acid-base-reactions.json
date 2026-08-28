@@ -1,0 +1,162 @@
+{
+  "id": "year-12-chemistry-module-6-acid-base-reactions",
+  "title": "Year 12 Chemistry Module 6 – Acid/base Reactions",
+  "description": "A fast-recall review of NSW Year 12 Chemistry Module 6, organised by its three Inquiry Questions. Questions use short answers and avoid multi-step calculations or extended writing.",
+  "course": "NSW Chemistry Stage 6",
+  "recommendedLevel": "Year 12",
+  "author": "Generated with Classroom Jeopardy Quiz Maker",
+  "estimatedDuration": "35–45 minutes",
+  "settings": {
+    "questionTimerSeconds": 25,
+    "finalTimerSeconds": 60
+  },
+  "rules": {
+    "mode": "append",
+    "general": [],
+    "scoring": [],
+    "final": []
+  },
+  "categories": [
+    {
+      "name": "What is an acid and what is a base?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "According to Arrhenius, what ion does an acid increase in aqueous solution?",
+          "answer": "Hydrogen ions. Accept: H⁺."
+        },
+        {
+          "value": 200,
+          "prompt": "According to Arrhenius, what ion does a base increase in aqueous solution?",
+          "answer": "Hydroxide ions. Accept: OH⁻."
+        },
+        {
+          "value": 300,
+          "prompt": "In Brønsted–Lowry theory, what does an acid donate?",
+          "answer": "A proton. Accept: H⁺."
+        },
+        {
+          "value": 400,
+          "prompt": "In Brønsted–Lowry theory, what does a base accept?",
+          "answer": "A proton. Accept: H⁺."
+        },
+        {
+          "value": 500,
+          "prompt": "What reaction between an acid and a base produces a salt and water?",
+          "answer": "Neutralisation."
+        },
+        {
+          "value": 600,
+          "prompt": "What gas is produced when an acid reacts with a carbonate?",
+          "answer": "Carbon dioxide. Accept: CO₂."
+        },
+        {
+          "value": 700,
+          "prompt": "What gas is commonly produced when a reactive metal reacts with an acid?",
+          "answer": "Hydrogen. Accept: H₂."
+        },
+        {
+          "value": 800,
+          "prompt": "What substance changes colour over a pH range and can show whether a solution is acidic or basic?",
+          "answer": "An indicator."
+        }
+      ]
+    },
+    {
+      "name": "What role does water play in acids & bases?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What ion forms when a proton bonds to a water molecule?",
+          "answer": "Hydronium ion. Accept: H₃O⁺."
+        },
+        {
+          "value": 200,
+          "prompt": "What scale commonly measures acidity and basicity of aqueous solutions?",
+          "answer": "The pH scale."
+        },
+        {
+          "value": 300,
+          "prompt": "At 25°C, what pH is neutral water?",
+          "answer": "7."
+        },
+        {
+          "value": 400,
+          "prompt": "What term describes an acid that ionises essentially completely in water?",
+          "answer": "A strong acid."
+        },
+        {
+          "value": 500,
+          "prompt": "What term describes an acid that only partially ionises in water?",
+          "answer": "A weak acid."
+        },
+        {
+          "value": 600,
+          "prompt": "What pair differs by exactly one proton?",
+          "answer": "A conjugate acid–base pair."
+        },
+        {
+          "value": 700,
+          "prompt": "What term describes a species that can act as either a Brønsted–Lowry acid or base?",
+          "answer": "Amphiprotic."
+        },
+        {
+          "value": 800,
+          "prompt": "At 25°C, what is pH + pOH equal to?",
+          "answer": "14."
+        }
+      ]
+    },
+    {
+      "name": "How are acid/base solutions analysed?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What technique uses a solution of known concentration to determine an unknown concentration?",
+          "answer": "Titration."
+        },
+        {
+          "value": 200,
+          "prompt": "What apparatus accurately delivers variable volumes during a titration?",
+          "answer": "A burette."
+        },
+        {
+          "value": 300,
+          "prompt": "What point occurs when stoichiometrically equivalent amounts of acid and base have reacted?",
+          "answer": "The equivalence point."
+        },
+        {
+          "value": 400,
+          "prompt": "What point is indicated by the colour change of an indicator?",
+          "answer": "The endpoint."
+        },
+        {
+          "value": 500,
+          "prompt": "What constant measures the extent of ionisation of an acid?",
+          "answer": "Ka. Accept: acid dissociation constant."
+        },
+        {
+          "value": 600,
+          "prompt": "A stronger acid generally has a larger or smaller Ka?",
+          "answer": "A larger Ka."
+        },
+        {
+          "value": 700,
+          "prompt": "What solution resists large changes in pH when small amounts of acid or base are added?",
+          "answer": "A buffer."
+        },
+        {
+          "value": 800,
+          "prompt": "What graph plots pH against volume of titrant added?",
+          "answer": "A titration curve."
+        }
+      ]
+    }
+  ],
+  "finalRound": {
+    "category": "Acid/base Reactions",
+    "prompt": "In Brønsted–Lowry theory, what particle is transferred from an acid to a base?",
+    "answer": "A proton. Accept: H⁺.",
+    "timerSeconds": 60
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "id": "year-11-biology-module-2-organisation-of-living-things",
+  "title": "Year 11 Biology Module 2 – Organisation of Living Things",
+  "description": "A fast-recall review of NSW Year 11 Biology Module 2. Questions use short answers and avoid multi-step calculations or extended writing.",
+  "course": "NSW Biology Stage 6",
+  "recommendedLevel": "Year 11",
+  "author": "Generated with Classroom Jeopardy Quiz Maker",
+  "estimatedDuration": "35–45 minutes",
+  "settings": {
+    "questionTimerSeconds": 25,
+    "finalTimerSeconds": 60
+  },
+  "rules": {
+    "mode": "append",
+    "general": [],
+    "scoring": [],
+    "final": []
+  },
+  "categories": [
+    {
+      "name": "Organisation",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What term describes an organism made of just one cell?",
+          "answer": "Unicellular."
+        },
+        {
+          "value": 200,
+          "prompt": "What term describes organisms whose cells live together in a group but can remain relatively independent?",
+          "answer": "Colonial."
+        },
+        {
+          "value": 300,
+          "prompt": "What term describes an organism made of many interdependent cells?",
+          "answer": "Multicellular."
+        },
+        {
+          "value": 400,
+          "prompt": "What process produces specialised cells with different structures and functions?",
+          "answer": "Cell differentiation. Accept: differentiation."
+        },
+        {
+          "value": 500,
+          "prompt": "What level of organisation is formed when different tissues work together for a specific function?",
+          "answer": "An organ."
+        }
+      ]
+    },
+    {
+      "name": "Plant Structures",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "Which plant organ absorbs most water and mineral ions from the soil?",
+          "answer": "The roots."
+        },
+        {
+          "value": 200,
+          "prompt": "What are the pores in leaves that allow gas exchange called?",
+          "answer": "Stomata. Accept: stoma."
+        },
+        {
+          "value": 300,
+          "prompt": "Which specialised cells control the opening and closing of stomata?",
+          "answer": "Guard cells."
+        },
+        {
+          "value": 400,
+          "prompt": "Which leaf tissue contains many chloroplasts and is a major site of photosynthesis?",
+          "answer": "Palisade mesophyll."
+        },
+        {
+          "value": 500,
+          "prompt": "What waxy outer layer of a leaf helps reduce water loss?",
+          "answer": "The cuticle. Accept: waxy cuticle."
+        }
+      ]
+    },
+    {
+      "name": "Digestion",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What type of digestion physically breaks food into smaller pieces?",
+          "answer": "Physical digestion. Accept: mechanical digestion."
+        },
+        {
+          "value": 200,
+          "prompt": "What type of digestion uses enzymes to break large molecules into smaller molecules?",
+          "answer": "Chemical digestion."
+        },
+        {
+          "value": 300,
+          "prompt": "What wave-like muscular movement pushes food along the digestive tract?",
+          "answer": "Peristalsis."
+        },
+        {
+          "value": 400,
+          "prompt": "In which organ does most nutrient absorption occur?",
+          "answer": "The small intestine."
+        },
+        {
+          "value": 500,
+          "prompt": "What finger-like projections increase the absorptive surface of the small intestine?",
+          "answer": "Villi. Accept: intestinal villi."
+        }
+      ]
+    },
+    {
+      "name": "Gas Exchange",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What tiny air sacs are the main gas exchange surfaces in mammalian lungs?",
+          "answer": "Alveoli."
+        },
+        {
+          "value": 200,
+          "prompt": "What respiratory structures carry out gas exchange in most fish?",
+          "answer": "Gills."
+        },
+        {
+          "value": 300,
+          "prompt": "Which gas enters a plant leaf for photosynthesis?",
+          "answer": "Carbon dioxide."
+        },
+        {
+          "value": 400,
+          "prompt": "Which gas is required by cells for aerobic respiration?",
+          "answer": "Oxygen."
+        },
+        {
+          "value": 500,
+          "prompt": "What system of air-filled tubes carries gases directly to tissues in insects?",
+          "answer": "The tracheal system. Accept: tracheae."
+        }
+      ]
+    },
+    {
+      "name": "Transport",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What liquid tissue acts as the main transport medium in mammals?",
+          "answer": "Blood."
+        },
+        {
+          "value": 200,
+          "prompt": "What is the liquid component of blood called?",
+          "answer": "Plasma."
+        },
+        {
+          "value": 300,
+          "prompt": "Which tiny blood vessels are the main sites of exchange with body tissues?",
+          "answer": "Capillaries."
+        },
+        {
+          "value": 400,
+          "prompt": "Which plant vascular tissue transports water and mineral ions from the roots?",
+          "answer": "Xylem."
+        },
+        {
+          "value": 500,
+          "prompt": "Which plant vascular tissue transports sugars from sources to sinks?",
+          "answer": "Phloem."
+        }
+      ]
+    }
+  ],
+  "finalRound": {
+    "category": "Levels of Organisation",
+    "prompt": "Arrange these from simplest to most complex: organ, organelle, organism, tissue, cell, system.",
+    "answer": "Organelle → cell → tissue → organ → system → organism.",
+    "timerSeconds": 60
+  }
+}

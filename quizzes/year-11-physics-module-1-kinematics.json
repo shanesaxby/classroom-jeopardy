@@ -1,0 +1,177 @@
+{
+  "id": "year-11-physics-module-1-kinematics",
+  "title": "Year 11 Physics Module 1 – Kinematics",
+  "description": "A fast-recall review of NSW Year 11 Physics Module 1. Questions use short answers and avoid multi-step calculations or extended writing.",
+  "course": "NSW Physics Stage 6",
+  "recommendedLevel": "Year 11",
+  "author": "Generated with Classroom Jeopardy Quiz Maker",
+  "estimatedDuration": "35–45 minutes",
+  "settings": {
+    "questionTimerSeconds": 25,
+    "finalTimerSeconds": 60
+  },
+  "rules": {
+    "mode": "append",
+    "general": [],
+    "scoring": [],
+    "final": []
+  },
+  "categories": [
+    {
+      "name": "Scalar or Vector?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "Is distance a scalar or a vector quantity?",
+          "answer": "Scalar."
+        },
+        {
+          "value": 200,
+          "prompt": "Is displacement a scalar or a vector quantity?",
+          "answer": "Vector."
+        },
+        {
+          "value": 300,
+          "prompt": "Is speed a scalar or a vector quantity?",
+          "answer": "Scalar."
+        },
+        {
+          "value": 400,
+          "prompt": "Is velocity a scalar or a vector quantity?",
+          "answer": "Vector."
+        },
+        {
+          "value": 500,
+          "prompt": "What extra information does a vector have that a scalar does not?",
+          "answer": "Direction."
+        }
+      ]
+    },
+    {
+      "name": "Motion Quantities",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What quantity measures the total path length travelled?",
+          "answer": "Distance."
+        },
+        {
+          "value": 200,
+          "prompt": "What quantity measures change in position from start to finish, including direction?",
+          "answer": "Displacement."
+        },
+        {
+          "value": 300,
+          "prompt": "What quantity describes how quickly distance changes with time?",
+          "answer": "Speed."
+        },
+        {
+          "value": 400,
+          "prompt": "What quantity describes how quickly displacement changes with time?",
+          "answer": "Velocity."
+        },
+        {
+          "value": 500,
+          "prompt": "What quantity describes the rate of change of velocity?",
+          "answer": "Acceleration."
+        }
+      ]
+    },
+    {
+      "name": "Motion Graphs",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "On a displacement–time graph, what does the gradient represent?",
+          "answer": "Velocity."
+        },
+        {
+          "value": 200,
+          "prompt": "On a velocity–time graph, what does the gradient represent?",
+          "answer": "Acceleration."
+        },
+        {
+          "value": 300,
+          "prompt": "On a velocity–time graph, what does the area under the graph represent?",
+          "answer": "Displacement."
+        },
+        {
+          "value": 400,
+          "prompt": "What does a horizontal line on a displacement–time graph indicate?",
+          "answer": "The object is stationary. Accept: zero velocity."
+        },
+        {
+          "value": 500,
+          "prompt": "What does a horizontal line above zero on a velocity–time graph indicate?",
+          "answer": "Constant positive velocity."
+        }
+      ]
+    },
+    {
+      "name": "Acceleration",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What SI unit is used for acceleration?",
+          "answer": "Metres per second squared. Accept: m/s²."
+        },
+        {
+          "value": 200,
+          "prompt": "What term describes motion with constant acceleration?",
+          "answer": "Uniformly accelerated motion. Accept: constant acceleration."
+        },
+        {
+          "value": 300,
+          "prompt": "Near Earth’s surface, what force causes freely falling objects to accelerate?",
+          "answer": "Gravity."
+        },
+        {
+          "value": 400,
+          "prompt": "What is the approximate magnitude of acceleration due to gravity near Earth’s surface?",
+          "answer": "9.8 m/s². Accept: about 10 m/s²."
+        },
+        {
+          "value": 500,
+          "prompt": "Ignoring air resistance, do objects of different masses have the same free-fall acceleration near Earth?",
+          "answer": "Yes."
+        }
+      ]
+    },
+    {
+      "name": "Describing Motion",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What point or object is used to describe another object’s position or motion?",
+          "answer": "A reference point."
+        },
+        {
+          "value": 200,
+          "prompt": "What term describes a coordinate system used to measure position and motion?",
+          "answer": "A frame of reference."
+        },
+        {
+          "value": 300,
+          "prompt": "What SI unit is used for displacement?",
+          "answer": "Metre. Accept: m."
+        },
+        {
+          "value": 400,
+          "prompt": "What SI unit is used for velocity?",
+          "answer": "Metres per second. Accept: m/s."
+        },
+        {
+          "value": 500,
+          "prompt": "If an object returns to its starting point, what is its total displacement?",
+          "answer": "Zero."
+        }
+      ]
+    }
+  ],
+  "finalRound": {
+    "category": "Distance vs Displacement",
+    "prompt": "A runner completes one full lap and finishes exactly where they started. Which motion quantity is zero: distance or displacement?",
+    "answer": "Displacement.",
+    "timerSeconds": 60
+  }
+}

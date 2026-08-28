@@ -1,0 +1,177 @@
+{
+  "id": "year-11-biology-module-3-biological-diversity",
+  "title": "Year 11 Biology Module 3 – Biological Diversity",
+  "description": "A fast-recall review of NSW Year 11 Biology Module 3. Questions use short answers and avoid multi-step calculations or extended writing.",
+  "course": "NSW Biology Stage 6",
+  "recommendedLevel": "Year 11",
+  "author": "Generated with Classroom Jeopardy Quiz Maker",
+  "estimatedDuration": "35–45 minutes",
+  "settings": {
+    "questionTimerSeconds": 25,
+    "finalTimerSeconds": 60
+  },
+  "rules": {
+    "mode": "append",
+    "general": [],
+    "scoring": [],
+    "final": []
+  },
+  "categories": [
+    {
+      "name": "Selection Pressures",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What term describes a living environmental factor that affects an organism?",
+          "answer": "A biotic factor."
+        },
+        {
+          "value": 200,
+          "prompt": "What term describes a non-living environmental factor such as temperature or rainfall?",
+          "answer": "An abiotic factor."
+        },
+        {
+          "value": 300,
+          "prompt": "What term describes an environmental factor that affects which organisms survive and reproduce?",
+          "answer": "A selection pressure."
+        },
+        {
+          "value": 400,
+          "prompt": "Predation is an example of which type of selection pressure: biotic or abiotic?",
+          "answer": "Biotic."
+        },
+        {
+          "value": 500,
+          "prompt": "Drought is an example of which type of selection pressure: biotic or abiotic?",
+          "answer": "Abiotic."
+        }
+      ]
+    },
+    {
+      "name": "Adaptations",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What is a heritable feature that increases survival or reproductive success called?",
+          "answer": "An adaptation."
+        },
+        {
+          "value": 200,
+          "prompt": "What type of adaptation involves a physical feature such as thick fur?",
+          "answer": "A structural adaptation."
+        },
+        {
+          "value": 300,
+          "prompt": "What type of adaptation involves an internal body process such as producing concentrated urine?",
+          "answer": "A physiological adaptation."
+        },
+        {
+          "value": 400,
+          "prompt": "What type of adaptation involves an action such as migration?",
+          "answer": "A behavioural adaptation."
+        },
+        {
+          "value": 500,
+          "prompt": "What word describes how well an organism survives and reproduces in its environment?",
+          "answer": "Fitness."
+        }
+      ]
+    },
+    {
+      "name": "Natural Selection",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "Which scientist is famous for proposing evolution by natural selection after studying organisms such as Galápagos finches?",
+          "answer": "Charles Darwin."
+        },
+        {
+          "value": 200,
+          "prompt": "Which scientist independently developed a theory of natural selection similar to Darwin's?",
+          "answer": "Alfred Russel Wallace. Accept: Alfred Wallace."
+        },
+        {
+          "value": 300,
+          "prompt": "What must exist within a population for natural selection to act?",
+          "answer": "Variation."
+        },
+        {
+          "value": 400,
+          "prompt": "What must a variation be for natural selection to pass it between generations?",
+          "answer": "Heritable. Accept: inherited."
+        },
+        {
+          "value": 500,
+          "prompt": "What process causes advantageous inherited traits to become more common over generations?",
+          "answer": "Natural selection."
+        }
+      ]
+    },
+    {
+      "name": "Evolution Patterns",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What term means a change in a population's inherited characteristics over generations?",
+          "answer": "Evolution."
+        },
+        {
+          "value": 200,
+          "prompt": "What is the formation of a new species called?",
+          "answer": "Speciation."
+        },
+        {
+          "value": 300,
+          "prompt": "What type of evolution occurs when related populations become increasingly different?",
+          "answer": "Divergent evolution."
+        },
+        {
+          "value": 400,
+          "prompt": "What type of evolution occurs when unrelated species independently evolve similar features?",
+          "answer": "Convergent evolution."
+        },
+        {
+          "value": 500,
+          "prompt": "What term describes small-scale evolutionary change within a population?",
+          "answer": "Microevolution."
+        }
+      ]
+    },
+    {
+      "name": "Evidence for Evolution",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What preserved remains or traces of past organisms provide evidence for evolution?",
+          "answer": "Fossils."
+        },
+        {
+          "value": 200,
+          "prompt": "What field studies the geographic distribution of species as evidence for evolution?",
+          "answer": "Biogeography."
+        },
+        {
+          "value": 300,
+          "prompt": "What evidence compares body structures in different species?",
+          "answer": "Comparative anatomy."
+        },
+        {
+          "value": 400,
+          "prompt": "What evidence compares early developmental stages of different organisms?",
+          "answer": "Comparative embryology."
+        },
+        {
+          "value": 500,
+          "prompt": "Comparing DNA or protein sequences provides what broad type of evidence for evolution?",
+          "answer": "Biochemical evidence. Accept: molecular evidence."
+        }
+      ]
+    }
+  ],
+  "finalRound": {
+    "category": "Evolutionary Change",
+    "prompt": "What model describes long periods of little evolutionary change interrupted by relatively rapid bursts of change?",
+    "answer": "Punctuated equilibrium.",
+    "timerSeconds": 60
+  }
+}

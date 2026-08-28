@@ -1,0 +1,177 @@
+{
+  "id": "year-11-earth-and-environmental-science-module-1-earths-resources",
+  "title": "Year 11 Earth and Environmental Science Module 1 – Earth’s Resources",
+  "description": "A fast-recall review of NSW Year 11 Earth and Environmental Science Module 1. Questions use short answers and avoid multi-step calculations or extended writing.",
+  "course": "NSW Earth and Environmental Science Stage 6",
+  "recommendedLevel": "Year 11",
+  "author": "Generated with Classroom Jeopardy Quiz Maker",
+  "estimatedDuration": "35–45 minutes",
+  "settings": {
+    "questionTimerSeconds": 25,
+    "finalTimerSeconds": 60
+  },
+  "rules": {
+    "mode": "append",
+    "general": [],
+    "scoring": [],
+    "final": []
+  },
+  "categories": [
+    {
+      "name": "Earth’s Layers",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What is Earth’s thin, outermost compositional layer called?",
+          "answer": "The crust."
+        },
+        {
+          "value": 200,
+          "prompt": "What thick compositional layer lies beneath the crust?",
+          "answer": "The mantle."
+        },
+        {
+          "value": 300,
+          "prompt": "Which compositional layer is mainly made of iron and nickel?",
+          "answer": "The core."
+        },
+        {
+          "value": 400,
+          "prompt": "What process separated materials in the early Earth according to density?",
+          "answer": "Differentiation. Accept: planetary differentiation."
+        },
+        {
+          "value": 500,
+          "prompt": "Which early Earth sphere formed as water vapour cooled and condensed?",
+          "answer": "The hydrosphere."
+        }
+      ]
+    },
+    {
+      "name": "Mineral ID",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What scale ranks minerals from 1 to 10 by hardness?",
+          "answer": "The Mohs scale."
+        },
+        {
+          "value": 200,
+          "prompt": "What mineral property describes how light reflects from its surface?",
+          "answer": "Lustre."
+        },
+        {
+          "value": 300,
+          "prompt": "What mineral test records the colour of its powdered form?",
+          "answer": "The streak test. Accept: streak."
+        },
+        {
+          "value": 400,
+          "prompt": "What mineral property describes breaking along smooth, flat planes?",
+          "answer": "Cleavage."
+        },
+        {
+          "value": 500,
+          "prompt": "What common mineral is made of silicon and oxygen with the formula SiO₂?",
+          "answer": "Quartz."
+        }
+      ]
+    },
+    {
+      "name": "Rock Cycle",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What rock type forms when magma or lava cools and solidifies?",
+          "answer": "Igneous rock."
+        },
+        {
+          "value": 200,
+          "prompt": "What rock type commonly forms from compacted and cemented sediments?",
+          "answer": "Sedimentary rock."
+        },
+        {
+          "value": 300,
+          "prompt": "What rock type forms when existing rock is changed by heat and pressure?",
+          "answer": "Metamorphic rock."
+        },
+        {
+          "value": 400,
+          "prompt": "What process breaks exposed rock into smaller pieces without moving it?",
+          "answer": "Weathering."
+        },
+        {
+          "value": 500,
+          "prompt": "What process turns loose sediments into sedimentary rock by compaction and cementation?",
+          "answer": "Lithification."
+        }
+      ]
+    },
+    {
+      "name": "Soils",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What dark organic material in soil forms from decomposed organisms?",
+          "answer": "Humus."
+        },
+        {
+          "value": 200,
+          "prompt": "Which soil particle is largest: sand, silt or clay?",
+          "answer": "Sand."
+        },
+        {
+          "value": 300,
+          "prompt": "Which soil particle is smallest: sand, silt or clay?",
+          "answer": "Clay."
+        },
+        {
+          "value": 400,
+          "prompt": "What name is given to a vertical section showing the layers of soil?",
+          "answer": "A soil profile."
+        },
+        {
+          "value": 500,
+          "prompt": "What term describes the ability of water to pass through soil or rock?",
+          "answer": "Permeability."
+        }
+      ]
+    },
+    {
+      "name": "Dating & Resources",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What type of dating places rocks or events in order without giving a numerical age?",
+          "answer": "Relative dating."
+        },
+        {
+          "value": 200,
+          "prompt": "What principle states that, in an undisturbed sequence, older sedimentary layers lie below younger ones?",
+          "answer": "The principle of superposition. Accept: superposition."
+        },
+        {
+          "value": 300,
+          "prompt": "What method uses radioactive decay to determine a numerical age for rocks or minerals?",
+          "answer": "Radiometric dating."
+        },
+        {
+          "value": 400,
+          "prompt": "What term describes a rock containing enough valuable mineral to be mined economically?",
+          "answer": "Ore."
+        },
+        {
+          "value": 500,
+          "prompt": "What exploration method sends energy waves into the ground and analyses their reflections?",
+          "answer": "A seismic survey. Accept: seismic surveying."
+        }
+      ]
+    }
+  ],
+  "finalRound": {
+    "category": "Geological Time",
+    "prompt": "What term describes the measured numerical age of a rock or geological event, usually given in years?",
+    "answer": "Absolute age. Accept: numerical age.",
+    "timerSeconds": 60
+  }
+}

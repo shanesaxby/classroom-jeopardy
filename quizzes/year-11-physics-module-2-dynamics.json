@@ -1,0 +1,177 @@
+{
+  "id": "year-11-physics-module-2-dynamics",
+  "title": "Year 11 Physics Module 2 – Dynamics",
+  "description": "A fast-recall review of NSW Year 11 Physics Module 2. Questions use short answers and avoid multi-step calculations or extended writing.",
+  "course": "NSW Physics Stage 6",
+  "recommendedLevel": "Year 11",
+  "author": "Generated with Classroom Jeopardy Quiz Maker",
+  "estimatedDuration": "35–45 minutes",
+  "settings": {
+    "questionTimerSeconds": 25,
+    "finalTimerSeconds": 60
+  },
+  "rules": {
+    "mode": "append",
+    "general": [],
+    "scoring": [],
+    "final": []
+  },
+  "categories": [
+    {
+      "name": "Forces",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What SI unit is used for force?",
+          "answer": "The newton. Accept: N."
+        },
+        {
+          "value": 200,
+          "prompt": "What term means the overall force after all forces on an object are combined?",
+          "answer": "Net force. Accept: resultant force."
+        },
+        {
+          "value": 300,
+          "prompt": "What contact force opposes relative motion between surfaces?",
+          "answer": "Friction."
+        },
+        {
+          "value": 400,
+          "prompt": "What support force acts perpendicular to a surface?",
+          "answer": "The normal force."
+        },
+        {
+          "value": 500,
+          "prompt": "What name is given to the gravitational force acting on an object?",
+          "answer": "Weight."
+        }
+      ]
+    },
+    {
+      "name": "Newton’s Laws",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "Which Newton’s Law is also called the law of inertia?",
+          "answer": "Newton’s First Law."
+        },
+        {
+          "value": 200,
+          "prompt": "Which Newton’s Law is summarised by Fnet = ma?",
+          "answer": "Newton’s Second Law."
+        },
+        {
+          "value": 300,
+          "prompt": "Which Newton’s Law describes equal and opposite force pairs?",
+          "answer": "Newton’s Third Law."
+        },
+        {
+          "value": 400,
+          "prompt": "If the net force on an object is zero, what can its velocity be?",
+          "answer": "Constant. Accept: zero or constant velocity."
+        },
+        {
+          "value": 500,
+          "prompt": "Do the two forces in a Newton’s Third Law pair act on the same object or different objects?",
+          "answer": "Different objects."
+        }
+      ]
+    },
+    {
+      "name": "Momentum & Impulse",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What quantity is calculated using mass multiplied by velocity?",
+          "answer": "Momentum."
+        },
+        {
+          "value": 200,
+          "prompt": "What is the SI unit for momentum?",
+          "answer": "kg m/s. Accept: kg m s⁻¹."
+        },
+        {
+          "value": 300,
+          "prompt": "What quantity equals the change in momentum of an object?",
+          "answer": "Impulse."
+        },
+        {
+          "value": 400,
+          "prompt": "On a force–time graph, what does the area under the graph represent?",
+          "answer": "Impulse."
+        },
+        {
+          "value": 500,
+          "prompt": "In a closed system, what quantity is conserved during an interaction?",
+          "answer": "Total momentum."
+        }
+      ]
+    },
+    {
+      "name": "Work & Energy",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What type of energy does a moving object have?",
+          "answer": "Kinetic energy."
+        },
+        {
+          "value": 200,
+          "prompt": "What type of energy can an object have because of its position in a gravitational field?",
+          "answer": "Gravitational potential energy."
+        },
+        {
+          "value": 300,
+          "prompt": "What term describes energy transferred when a force causes displacement?",
+          "answer": "Work."
+        },
+        {
+          "value": 400,
+          "prompt": "What quantity measures the rate of doing work or transferring energy?",
+          "answer": "Power."
+        },
+        {
+          "value": 500,
+          "prompt": "What is the sum of an object’s kinetic and potential energy called?",
+          "answer": "Mechanical energy."
+        }
+      ]
+    },
+    {
+      "name": "Collisions & Safety",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "In what type of collision is kinetic energy conserved?",
+          "answer": "An elastic collision."
+        },
+        {
+          "value": 200,
+          "prompt": "In what type of collision is kinetic energy not conserved?",
+          "answer": "An inelastic collision."
+        },
+        {
+          "value": 300,
+          "prompt": "What type of collision occurs when objects stick together after impact?",
+          "answer": "A perfectly inelastic collision."
+        },
+        {
+          "value": 400,
+          "prompt": "For the same change in momentum, increasing collision time has what effect on average force?",
+          "answer": "It decreases the average force. Accept: decreases."
+        },
+        {
+          "value": 500,
+          "prompt": "What vehicle safety device increases stopping time by inflating during a collision?",
+          "answer": "An airbag."
+        }
+      ]
+    }
+  ],
+  "finalRound": {
+    "category": "Conservation Laws",
+    "prompt": "During a collision in a closed system, what total quantity remains constant even if kinetic energy changes?",
+    "answer": "Total momentum.",
+    "timerSeconds": 60
+  }
+}

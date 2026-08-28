@@ -1,0 +1,167 @@
+{
+  "id": "year-12-earth-and-environmental-science-module-5-earths-processes",
+  "title": "Year 12 Earth and Environmental Science Module 5 – Earth’s Processes",
+  "description": "A fast-recall review of NSW Year 12 Earth and Environmental Science Module 5, organised by its four Inquiry Questions. Questions use short answers and avoid multi-step calculations or extended writing.",
+  "course": "NSW Earth and Environmental Science Stage 6",
+  "recommendedLevel": "Year 12",
+  "author": "Generated with Classroom Jeopardy Quiz Maker",
+  "estimatedDuration": "35–45 minutes",
+  "settings": {
+    "questionTimerSeconds": 25,
+    "finalTimerSeconds": 60
+  },
+  "rules": {
+    "mode": "append",
+    "general": [],
+    "scoring": [],
+    "final": []
+  },
+  "categories": [
+    {
+      "name": "How did today’s biosphere originate and develop?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What experiment produced organic molecules from gases thought to resemble early Earth’s atmosphere?",
+          "answer": "The Miller–Urey experiment."
+        },
+        {
+          "value": 200,
+          "prompt": "What simple organic molecules were produced in the Miller–Urey experiment?",
+          "answer": "Amino acids."
+        },
+        {
+          "value": 300,
+          "prompt": "What deep-ocean hydrothermal features are proposed as possible sites for early life?",
+          "answer": "Black smokers. Accept: hydrothermal vents."
+        },
+        {
+          "value": 400,
+          "prompt": "What hypothesis proposes that life or its building blocks arrived on Earth from space?",
+          "answer": "Panspermia."
+        },
+        {
+          "value": 500,
+          "prompt": "What photosynthetic microorganisms formed ancient stromatolites?",
+          "answer": "Cyanobacteria."
+        },
+        {
+          "value": 600,
+          "prompt": "What event marks a rapid diversification of animal life early in the Phanerozoic?",
+          "answer": "The Cambrian explosion."
+        }
+      ]
+    },
+    {
+      "name": "How did the biosphere change Earth’s other spheres?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What gas released by early photosynthetic organisms accumulated in Earth’s atmosphere?",
+          "answer": "Oxygen."
+        },
+        {
+          "value": 200,
+          "prompt": "What layered iron-rich rocks formed when oxygen reacted with dissolved iron in ancient oceans?",
+          "answer": "Banded iron formations. Accept: BIFs."
+        },
+        {
+          "value": 300,
+          "prompt": "What atmospheric layer formed from oxygen and helped shield life from ultraviolet radiation?",
+          "answer": "The ozone layer."
+        },
+        {
+          "value": 400,
+          "prompt": "Which sphere contains Earth’s liquid water and oceans?",
+          "answer": "The hydrosphere."
+        },
+        {
+          "value": 500,
+          "prompt": "Which sphere includes rocks, minerals and the solid Earth?",
+          "answer": "The geosphere."
+        },
+        {
+          "value": 600,
+          "prompt": "The spread of photosynthesis caused atmospheric carbon dioxide to generally increase or decrease over long timescales?",
+          "answer": "Decrease."
+        }
+      ]
+    },
+    {
+      "name": "What effect does the plate tectonic supercycle have?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What term describes a huge landmass formed when most continents join together?",
+          "answer": "A supercontinent."
+        },
+        {
+          "value": 200,
+          "prompt": "What supercontinent existed late in the Palaeozoic and early Mesozoic?",
+          "answer": "Pangaea."
+        },
+        {
+          "value": 300,
+          "prompt": "What process begins the breakup of a supercontinent as continental crust pulls apart?",
+          "answer": "Rifting."
+        },
+        {
+          "value": 400,
+          "prompt": "What mountain-building process commonly occurs when continents collide?",
+          "answer": "Orogeny. Accept: mountain building."
+        },
+        {
+          "value": 500,
+          "prompt": "What broad cycle describes repeated assembly and breakup of supercontinents?",
+          "answer": "The plate tectonic supercycle. Accept: supercontinent cycle."
+        },
+        {
+          "value": 600,
+          "prompt": "Changes in continental positions can alter ocean circulation and therefore affect what major Earth system?",
+          "answer": "Climate."
+        }
+      ]
+    },
+    {
+      "name": "What do fossils reveal about geological time and past life?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What preserved remains or traces of past organisms are called?",
+          "answer": "Fossils."
+        },
+        {
+          "value": 200,
+          "prompt": "What fossil forms when an organism leaves an impression in sediment that later hardens?",
+          "answer": "A mould fossil. Accept: mould."
+        },
+        {
+          "value": 300,
+          "prompt": "What fossil forms when a mould is later filled with minerals or sediment?",
+          "answer": "A cast fossil. Accept: cast."
+        },
+        {
+          "value": 400,
+          "prompt": "What fossils such as footprints or burrows record the activity of organisms?",
+          "answer": "Trace fossils."
+        },
+        {
+          "value": 500,
+          "prompt": "What type of fossil is especially useful for correlating and dating rock layers over large areas?",
+          "answer": "An index fossil."
+        },
+        {
+          "value": 600,
+          "prompt": "What principle states that in an undisturbed sequence, older sedimentary layers lie below younger layers?",
+          "answer": "The principle of superposition. Accept: superposition."
+        }
+      ]
+    }
+  ],
+  "finalRound": {
+    "category": "Earth’s History",
+    "prompt": "What principle assumes that geological processes operating today also operated in the past?",
+    "answer": "Uniformitarianism.",
+    "timerSeconds": 60
+  }
+}

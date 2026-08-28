@@ -1,0 +1,177 @@
+{
+  "id": "year-11-investigating-science-module-4-theories-and-laws",
+  "title": "Year 11 Investigating Science Module 4 – Theories and Laws",
+  "description": "A fast-recall review of NSW Year 11 Investigating Science Module 4. Questions use short answers and avoid multi-step calculations or extended writing.",
+  "course": "NSW Investigating Science Stage 6",
+  "recommendedLevel": "Year 11",
+  "author": "Generated with Classroom Jeopardy Quiz Maker",
+  "estimatedDuration": "35–45 minutes",
+  "settings": {
+    "questionTimerSeconds": 25,
+    "finalTimerSeconds": 60
+  },
+  "rules": {
+    "mode": "append",
+    "general": [],
+    "scoring": [],
+    "final": []
+  },
+  "categories": [
+    {
+      "name": "Theory or Law?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What type of scientific explanation gives a broad account of how or why phenomena occur?",
+          "answer": "A scientific theory."
+        },
+        {
+          "value": 200,
+          "prompt": "What type of scientific statement describes a consistent relationship in nature?",
+          "answer": "A scientific law."
+        },
+        {
+          "value": 300,
+          "prompt": "What kind of data must support scientific theories and laws?",
+          "answer": "Reproducible data."
+        },
+        {
+          "value": 400,
+          "prompt": "Which usually explains phenomena: a theory or a law?",
+          "answer": "A theory."
+        },
+        {
+          "value": 500,
+          "prompt": "Which is often expressed as a mathematical relationship: a theory or a law?",
+          "answer": "A law."
+        }
+      ]
+    },
+    {
+      "name": "Theory Development",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What theory explains disease as being caused by microorganisms?",
+          "answer": "Germ theory."
+        },
+        {
+          "value": 200,
+          "prompt": "What theory explains combustion using oxygen rather than phlogiston?",
+          "answer": "The oxygen theory of combustion."
+        },
+        {
+          "value": 300,
+          "prompt": "What old solar-system theory placed Earth at the centre?",
+          "answer": "The geocentric theory."
+        },
+        {
+          "value": 400,
+          "prompt": "What rejected theory proposed that acquired characteristics could be inherited?",
+          "answer": "The inheritance of acquired characteristics. Accept: Lamarckism."
+        },
+        {
+          "value": 500,
+          "prompt": "What cosmological theory proposed that the Universe stays broadly the same as it expands?",
+          "answer": "The Steady State theory."
+        }
+      ]
+    },
+    {
+      "name": "Scientific Laws",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What law states that mass is conserved in a closed system during ordinary chemical reactions?",
+          "answer": "The law of conservation of mass."
+        },
+        {
+          "value": 200,
+          "prompt": "What law relates force, mass and acceleration?",
+          "answer": "Newton’s Second Law of Motion."
+        },
+        {
+          "value": 300,
+          "prompt": "What law states that equal volumes of gases at the same temperature and pressure contain equal numbers of particles?",
+          "answer": "Avogadro’s Law."
+        },
+        {
+          "value": 400,
+          "prompt": "What geological law says younger sedimentary layers usually lie above older layers?",
+          "answer": "The law of superposition."
+        },
+        {
+          "value": 500,
+          "prompt": "What electrical law relates voltage, current and resistance?",
+          "answer": "Ohm’s Law."
+        }
+      ]
+    },
+    {
+      "name": "Big Theories",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What theory explains the movement of Earth’s lithospheric plates?",
+          "answer": "Plate tectonic theory. Accept: plate tectonics."
+        },
+        {
+          "value": 200,
+          "prompt": "What theory explains changes in populations over generations?",
+          "answer": "The theory of evolution."
+        },
+        {
+          "value": 300,
+          "prompt": "What theory explains the origin and expansion of the Universe from an early hot, dense state?",
+          "answer": "The Big Bang theory."
+        },
+        {
+          "value": 400,
+          "prompt": "What theory describes matter as being made of atoms?",
+          "answer": "Atomic theory."
+        },
+        {
+          "value": 500,
+          "prompt": "What can happen to a scientific theory when strong new evidence contradicts part of it?",
+          "answer": "It can be revised or rejected. Accept: modified, refined or disproved in part."
+        }
+      ]
+    },
+    {
+      "name": "Laws in Action",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What law states that energy cannot be created or destroyed, only transferred or transformed?",
+          "answer": "The law of conservation of energy."
+        },
+        {
+          "value": 200,
+          "prompt": "Which science discipline studies conservation of energy in motion, forces and physical systems?",
+          "answer": "Physics."
+        },
+        {
+          "value": 300,
+          "prompt": "Which science discipline applies conservation of energy to chemical reactions?",
+          "answer": "Chemistry."
+        },
+        {
+          "value": 400,
+          "prompt": "Which science discipline applies energy conservation to processes such as metabolism?",
+          "answer": "Human biology. Accept: biology."
+        },
+        {
+          "value": 500,
+          "prompt": "What type of nuclear process helped change how scientists interpret conservation of mass and energy?",
+          "answer": "Nuclear reactions and decay. Accept: nuclear reactions or radioactive decay."
+        }
+      ]
+    }
+  ],
+  "finalRound": {
+    "category": "Science and Evidence",
+    "prompt": "What key feature of scientific data allows other scientists to obtain consistent results and build confidence in theories and laws?",
+    "answer": "Reproducibility. Accept: reproducible data or reproducible results.",
+    "timerSeconds": 60
+  }
+}

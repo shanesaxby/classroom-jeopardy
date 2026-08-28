@@ -1,0 +1,167 @@
+{
+  "id": "year-12-physics-module-6-electromagnetism",
+  "title": "Year 12 Physics Module 6 – Electromagnetism",
+  "description": "A fast-recall review of NSW Year 12 Physics Module 6, organised by its four Inquiry Questions. Questions use short answers and avoid multi-step calculations or extended writing.",
+  "course": "NSW Physics Stage 6",
+  "recommendedLevel": "Year 12",
+  "author": "Generated with Classroom Jeopardy Quiz Maker",
+  "estimatedDuration": "35–45 minutes",
+  "settings": {
+    "questionTimerSeconds": 25,
+    "finalTimerSeconds": 60
+  },
+  "rules": {
+    "mode": "append",
+    "general": [],
+    "scoring": [],
+    "final": []
+  },
+  "categories": [
+    {
+      "name": "How do charges interact with electric or magnetic fields?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What force acts on a charged particle placed in an electric field?",
+          "answer": "Electric force."
+        },
+        {
+          "value": 200,
+          "prompt": "For a positive charge, is electric force in the same or opposite direction to the electric field?",
+          "answer": "The same direction."
+        },
+        {
+          "value": 300,
+          "prompt": "For a negative charge, is electric force in the same or opposite direction to the electric field?",
+          "answer": "The opposite direction."
+        },
+        {
+          "value": 400,
+          "prompt": "Must a charged particle be moving to experience a magnetic force?",
+          "answer": "Yes."
+        },
+        {
+          "value": 500,
+          "prompt": "When a charged particle moves perpendicular to a uniform magnetic field, what path can it follow?",
+          "answer": "A circular path."
+        },
+        {
+          "value": 600,
+          "prompt": "Does a magnetic force on a moving charge change its speed when the force remains perpendicular to its motion?",
+          "answer": "No."
+        }
+      ]
+    },
+    {
+      "name": "When is force produced on a current in a magnetic field?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What effect describes the force on a current-carrying conductor in a magnetic field?",
+          "answer": "The motor effect."
+        },
+        {
+          "value": 200,
+          "prompt": "When is the magnetic force on a straight current-carrying conductor greatest?",
+          "answer": "When the conductor/current is perpendicular to the magnetic field."
+        },
+        {
+          "value": 300,
+          "prompt": "When is the magnetic force on a straight current-carrying conductor zero?",
+          "answer": "When the conductor/current is parallel to the magnetic field."
+        },
+        {
+          "value": 400,
+          "prompt": "Do parallel wires carrying current in the same direction attract or repel?",
+          "answer": "Attract."
+        },
+        {
+          "value": 500,
+          "prompt": "Do parallel wires carrying current in opposite directions attract or repel?",
+          "answer": "Repel."
+        },
+        {
+          "value": 600,
+          "prompt": "What rotational effect can a magnetic field produce on a current-carrying coil?",
+          "answer": "Torque."
+        }
+      ]
+    },
+    {
+      "name": "How are electric and magnetic fields related?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What quantity describes how much magnetic field passes through an area?",
+          "answer": "Magnetic flux."
+        },
+        {
+          "value": 200,
+          "prompt": "What law states that a changing magnetic flux induces an emf?",
+          "answer": "Faraday’s Law."
+        },
+        {
+          "value": 300,
+          "prompt": "What law gives the direction of an induced current so that it opposes the change that produced it?",
+          "answer": "Lenz’s Law."
+        },
+        {
+          "value": 400,
+          "prompt": "What device uses electromagnetic induction to change AC voltage?",
+          "answer": "A transformer."
+        },
+        {
+          "value": 500,
+          "prompt": "Does a step-up transformer increase or decrease voltage?",
+          "answer": "Increase."
+        },
+        {
+          "value": 600,
+          "prompt": "Why is electrical energy transmitted at high voltage over long distances?",
+          "answer": "To reduce current and energy losses. Accept: reduce resistive losses."
+        }
+      ]
+    },
+    {
+      "name": "How is the Motor Effect applied to technology?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What device converts electrical energy into mechanical rotational energy?",
+          "answer": "An electric motor."
+        },
+        {
+          "value": 200,
+          "prompt": "What component in a simple DC motor reverses the current every half-turn?",
+          "answer": "The split-ring commutator."
+        },
+        {
+          "value": 300,
+          "prompt": "What stationary contacts supply current to the rotating commutator in a DC motor?",
+          "answer": "Brushes."
+        },
+        {
+          "value": 400,
+          "prompt": "What device converts mechanical energy into electrical energy?",
+          "answer": "A generator."
+        },
+        {
+          "value": 500,
+          "prompt": "What induced voltage in a motor opposes the supplied voltage?",
+          "answer": "Back emf."
+        },
+        {
+          "value": 600,
+          "prompt": "What braking method uses induced currents and magnetic fields without direct frictional contact?",
+          "answer": "Magnetic braking. Accept: electromagnetic braking."
+        }
+      ]
+    }
+  ],
+  "finalRound": {
+    "category": "Electromagnetic Induction",
+    "prompt": "What law states that an induced current acts to oppose the change in magnetic flux that produced it?",
+    "answer": "Lenz’s Law.",
+    "timerSeconds": 60
+  }
+}

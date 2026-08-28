@@ -1,0 +1,167 @@
+{
+  "id": "year-12-biology-module-7-infectious-disease",
+  "title": "Year 12 Biology Module 7 – Infectious Disease",
+  "description": "A fast-recall review of NSW Year 12 Biology Module 7, organised by its four Inquiry Questions. Questions use short answers and avoid multi-step calculations or extended writing.",
+  "course": "NSW Biology Stage 6",
+  "recommendedLevel": "Year 12",
+  "author": "Generated with Classroom Jeopardy Quiz Maker",
+  "estimatedDuration": "35–45 minutes",
+  "settings": {
+    "questionTimerSeconds": 25,
+    "finalTimerSeconds": 60
+  },
+  "rules": {
+    "mode": "append",
+    "general": [],
+    "scoring": [],
+    "final": []
+  },
+  "categories": [
+    {
+      "name": "How are diseases transmitted?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What disease-causing agent is called a pathogen?",
+          "answer": "A pathogen."
+        },
+        {
+          "value": 200,
+          "prompt": "What transmission occurs through direct physical contact between hosts?",
+          "answer": "Direct transmission. Accept: direct contact."
+        },
+        {
+          "value": 300,
+          "prompt": "What transmission occurs through contaminated objects, food or water?",
+          "answer": "Indirect transmission."
+        },
+        {
+          "value": 400,
+          "prompt": "What organism carries a pathogen between hosts, such as a mosquito carrying malaria?",
+          "answer": "A vector."
+        },
+        {
+          "value": 500,
+          "prompt": "Which scientist developed postulates linking specific microorganisms to specific diseases?",
+          "answer": "Robert Koch. Accept: Koch."
+        },
+        {
+          "value": 600,
+          "prompt": "Which scientist’s experiments helped disprove spontaneous generation and support germ theory?",
+          "answer": "Louis Pasteur. Accept: Pasteur."
+        }
+      ]
+    },
+    {
+      "name": "How does a plant or animal respond to infection?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What waxy plant surface can act as a physical barrier to pathogens?",
+          "answer": "The cuticle."
+        },
+        {
+          "value": 200,
+          "prompt": "What plant pores can close to reduce pathogen entry?",
+          "answer": "Stomata."
+        },
+        {
+          "value": 300,
+          "prompt": "What local animal response causes redness, heat, swelling and increased blood flow?",
+          "answer": "Inflammation. Accept: inflammatory response."
+        },
+        {
+          "value": 400,
+          "prompt": "What process allows a white blood cell to engulf a pathogen?",
+          "answer": "Phagocytosis."
+        },
+        {
+          "value": 500,
+          "prompt": "What rise in body temperature can form part of an animal’s response to infection?",
+          "answer": "Fever."
+        },
+        {
+          "value": 600,
+          "prompt": "What term means the death of infected plant tissue around a pathogen to restrict its spread?",
+          "answer": "Hypersensitive response. Accept: localised cell death."
+        }
+      ]
+    },
+    {
+      "name": "How does the immune system respond to a pathogen?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What non-specific defence system acts rapidly against many pathogens?",
+          "answer": "Innate immunity."
+        },
+        {
+          "value": 200,
+          "prompt": "What specific defence system develops targeted responses and immune memory?",
+          "answer": "Adaptive immunity. Accept: acquired immunity."
+        },
+        {
+          "value": 300,
+          "prompt": "What foreign molecule is recognised by the immune system and can trigger a response?",
+          "answer": "An antigen."
+        },
+        {
+          "value": 400,
+          "prompt": "What protein binds specifically to an antigen?",
+          "answer": "An antibody."
+        },
+        {
+          "value": 500,
+          "prompt": "Which lymphocytes can differentiate into plasma cells that secrete antibodies?",
+          "answer": "B cells. Accept: B lymphocytes."
+        },
+        {
+          "value": 600,
+          "prompt": "Which long-lived immune cells allow a faster response after later exposure to the same pathogen?",
+          "answer": "Memory cells."
+        }
+      ]
+    },
+    {
+      "name": "How can infectious disease spread be controlled?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What everyday practice such as handwashing helps prevent disease transmission?",
+          "answer": "Hygiene."
+        },
+        {
+          "value": 200,
+          "prompt": "What procedure separates potentially infected individuals to limit disease spread?",
+          "answer": "Quarantine."
+        },
+        {
+          "value": 300,
+          "prompt": "What preventive treatment exposes the immune system to antigens to produce immune memory?",
+          "answer": "Vaccination."
+        },
+        {
+          "value": 400,
+          "prompt": "What medicines are used to treat bacterial infections?",
+          "answer": "Antibiotics."
+        },
+        {
+          "value": 500,
+          "prompt": "What medicines act against viruses?",
+          "answer": "Antivirals."
+        },
+        {
+          "value": 600,
+          "prompt": "What population-level protection occurs when enough people are immune to reduce transmission?",
+          "answer": "Herd immunity."
+        }
+      ]
+    }
+  ],
+  "finalRound": {
+    "category": "Immunity",
+    "prompt": "What cells remain after an adaptive immune response and allow a faster response to later exposure to the same pathogen?",
+    "answer": "Memory cells.",
+    "timerSeconds": 60
+  }
+}

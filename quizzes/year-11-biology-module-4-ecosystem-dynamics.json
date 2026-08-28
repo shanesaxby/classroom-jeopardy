@@ -1,0 +1,177 @@
+{
+  "id": "year-11-biology-module-4-ecosystem-dynamics",
+  "title": "Year 11 Biology Module 4 – Ecosystem Dynamics",
+  "description": "A fast-recall review of NSW Year 11 Biology Module 4. Questions use short answers and avoid multi-step calculations or extended writing.",
+  "course": "NSW Biology Stage 6",
+  "recommendedLevel": "Year 11",
+  "author": "Generated with Classroom Jeopardy Quiz Maker",
+  "estimatedDuration": "35–45 minutes",
+  "settings": {
+    "questionTimerSeconds": 25,
+    "finalTimerSeconds": 60
+  },
+  "rules": {
+    "mode": "append",
+    "general": [],
+    "scoring": [],
+    "final": []
+  },
+  "categories": [
+    {
+      "name": "Population Dynamics",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What term means all members of one species living in the same area?",
+          "answer": "A population."
+        },
+        {
+          "value": 200,
+          "prompt": "What term describes the role of a species in its ecosystem?",
+          "answer": "Its ecological niche. Accept: niche."
+        },
+        {
+          "value": 300,
+          "prompt": "Which type of factor is rainfall: biotic or abiotic?",
+          "answer": "Abiotic."
+        },
+        {
+          "value": 400,
+          "prompt": "Which type of factor is disease: biotic or abiotic?",
+          "answer": "Biotic."
+        },
+        {
+          "value": 500,
+          "prompt": "What term describes the number of individuals of a species in a given area?",
+          "answer": "Population size. Accept: abundance."
+        }
+      ]
+    },
+    {
+      "name": "Species Interactions",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What interaction occurs when one organism hunts and eats another?",
+          "answer": "Predation."
+        },
+        {
+          "value": 200,
+          "prompt": "What interaction occurs when organisms require the same limited resource?",
+          "answer": "Competition."
+        },
+        {
+          "value": 300,
+          "prompt": "What broad term describes a close relationship between two different species?",
+          "answer": "Symbiosis."
+        },
+        {
+          "value": 400,
+          "prompt": "What type of symbiosis benefits both species?",
+          "answer": "Mutualism."
+        },
+        {
+          "value": 500,
+          "prompt": "What type of symbiosis benefits one species while harming the other?",
+          "answer": "Parasitism."
+        }
+      ]
+    },
+    {
+      "name": "Sampling Ecosystems",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What square frame is commonly used to sample organisms in a fixed area?",
+          "answer": "A quadrat."
+        },
+        {
+          "value": 200,
+          "prompt": "What sampling method records organisms along a line through a habitat?",
+          "answer": "A transect."
+        },
+        {
+          "value": 300,
+          "prompt": "Why are quadrats placed randomly when estimating a population?",
+          "answer": "To reduce sampling bias. Accept: reduce bias."
+        },
+        {
+          "value": 400,
+          "prompt": "What sampling technique can be used to estimate the population size of mobile animals by capturing, marking and releasing them?",
+          "answer": "Capture–mark–recapture. Accept: mark–recapture."
+        },
+        {
+          "value": 500,
+          "prompt": "What term describes how organisms are spread across an area?",
+          "answer": "Distribution."
+        }
+      ]
+    },
+    {
+      "name": "Past Ecosystems",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What preserved remains or traces of organisms provide evidence about past ecosystems?",
+          "answer": "Fossils."
+        },
+        {
+          "value": 200,
+          "prompt": "What frozen environmental record can trap ancient gases and particles?",
+          "answer": "Ice cores."
+        },
+        {
+          "value": 300,
+          "prompt": "What technique estimates the age of material using radioactive isotopes?",
+          "answer": "Radiometric dating."
+        },
+        {
+          "value": 400,
+          "prompt": "What geological feature can reveal changes in environments over time through layers of sediment?",
+          "answer": "Rock strata. Accept: rock layers."
+        },
+        {
+          "value": 500,
+          "prompt": "What Australian cultural evidence can provide clues about organisms present in past ecosystems?",
+          "answer": "Aboriginal rock paintings. Accept: Aboriginal rock art."
+        }
+      ]
+    },
+    {
+      "name": "Future Ecosystems",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What term means the complete loss of a species?",
+          "answer": "Extinction."
+        },
+        {
+          "value": 200,
+          "prompt": "What term describes the variety of living organisms in an area?",
+          "answer": "Biodiversity."
+        },
+        {
+          "value": 300,
+          "prompt": "What long-term shift in climate conditions can alter ecosystems and species distributions?",
+          "answer": "Climate change."
+        },
+        {
+          "value": 400,
+          "prompt": "What term describes repairing a damaged ecosystem so ecological function can recover?",
+          "answer": "Ecosystem restoration. Accept: ecological restoration."
+        },
+        {
+          "value": 500,
+          "prompt": "What tools use data and assumptions to predict possible future changes in ecosystems?",
+          "answer": "Models. Accept: ecosystem models."
+        }
+      ]
+    }
+  ],
+  "finalRound": {
+    "category": "Ecosystem Relationships",
+    "prompt": "What term describes the living and non-living components of an environment interacting as a system?",
+    "answer": "An ecosystem.",
+    "timerSeconds": 60
+  }
+}

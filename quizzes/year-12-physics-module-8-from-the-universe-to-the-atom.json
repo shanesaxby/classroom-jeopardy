@@ -1,0 +1,177 @@
+{
+  "id": "year-12-physics-module-8-from-the-universe-to-the-atom",
+  "title": "Year 12 Physics Module 8 – From the Universe to the Atom",
+  "description": "A fast-recall review of NSW Year 12 Physics Module 8, organised by its five Inquiry Questions. Questions use short answers and avoid multi-step calculations or extended writing.",
+  "course": "NSW Physics Stage 6",
+  "recommendedLevel": "Year 12",
+  "author": "Generated with Classroom Jeopardy Quiz Maker",
+  "estimatedDuration": "35–45 minutes",
+  "settings": {
+    "questionTimerSeconds": 25,
+    "finalTimerSeconds": 60
+  },
+  "rules": {
+    "mode": "append",
+    "general": [],
+    "scoring": [],
+    "final": []
+  },
+  "categories": [
+    {
+      "name": "What evidence reveals the origins of the elements?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What theory describes the Universe expanding from an early hot, dense state?",
+          "answer": "The Big Bang theory."
+        },
+        {
+          "value": 200,
+          "prompt": "Which astronomer’s observations provided evidence that the Universe is expanding?",
+          "answer": "Edwin Hubble. Accept: Hubble."
+        },
+        {
+          "value": 300,
+          "prompt": "What shift in galaxy spectra is associated with galaxies moving away from us?",
+          "answer": "Redshift."
+        },
+        {
+          "value": 400,
+          "prompt": "What diagram plots stellar luminosity against surface temperature or spectral class?",
+          "answer": "The Hertzsprung–Russell diagram. Accept: H–R diagram."
+        },
+        {
+          "value": 500,
+          "prompt": "What process forms new atomic nuclei inside stars?",
+          "answer": "Stellar nucleosynthesis. Accept: nucleosynthesis."
+        }
+      ]
+    },
+    {
+      "name": "How do we know atoms contain protons, neutrons and electrons?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What negatively charged particle was identified through cathode-ray experiments?",
+          "answer": "The electron."
+        },
+        {
+          "value": 200,
+          "prompt": "Which scientist measured the electron’s charge-to-mass ratio?",
+          "answer": "J. J. Thomson. Accept: Thomson."
+        },
+        {
+          "value": 300,
+          "prompt": "Which experiment measured the elementary electric charge using charged oil droplets?",
+          "answer": "Millikan’s oil-drop experiment."
+        },
+        {
+          "value": 400,
+          "prompt": "Which scattering experiment provided evidence for a small, dense atomic nucleus?",
+          "answer": "The Geiger–Marsden experiment. Accept: Rutherford scattering or gold-foil experiment."
+        },
+        {
+          "value": 500,
+          "prompt": "Which scientist discovered the neutron?",
+          "answer": "James Chadwick. Accept: Chadwick."
+        }
+      ]
+    },
+    {
+      "name": "Why can’t classical physics explain the atom?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What atomic model placed electrons in fixed, quantised energy levels?",
+          "answer": "The Bohr model."
+        },
+        {
+          "value": 200,
+          "prompt": "What kind of spectrum from hydrogen shows discrete wavelengths rather than a continuous range?",
+          "answer": "A line emission spectrum. Accept: line spectrum."
+        },
+        {
+          "value": 300,
+          "prompt": "What visible hydrogen spectral series is described by the Balmer relationship?",
+          "answer": "The Balmer series."
+        },
+        {
+          "value": 400,
+          "prompt": "Which scientist proposed that moving particles such as electrons have a wavelength?",
+          "answer": "Louis de Broglie. Accept: de Broglie."
+        },
+        {
+          "value": 500,
+          "prompt": "Which scientist developed the wave-mechanical description central to the modern quantum model of the atom?",
+          "answer": "Erwin Schrödinger. Accept: Schrödinger."
+        }
+      ]
+    },
+    {
+      "name": "How can nuclear energy be harnessed?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "Which type of radiation consists of helium nuclei?",
+          "answer": "Alpha radiation. Accept: alpha particles."
+        },
+        {
+          "value": 200,
+          "prompt": "What term is the time taken for half the radioactive nuclei in a sample to decay?",
+          "answer": "Half-life."
+        },
+        {
+          "value": 300,
+          "prompt": "What nuclear process splits a heavy nucleus into smaller nuclei?",
+          "answer": "Nuclear fission."
+        },
+        {
+          "value": 400,
+          "prompt": "What nuclear process joins light nuclei to form a heavier nucleus?",
+          "answer": "Nuclear fusion."
+        },
+        {
+          "value": 500,
+          "prompt": "What difference between the mass of a nucleus and the total mass of its separate nucleons is linked to binding energy?",
+          "answer": "Mass defect."
+        }
+      ]
+    },
+    {
+      "name": "How do we know our understanding of matter is incomplete?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What fundamental particles combine to form protons and neutrons?",
+          "answer": "Quarks."
+        },
+        {
+          "value": 200,
+          "prompt": "What family of particles includes the electron?",
+          "answer": "Leptons."
+        },
+        {
+          "value": 300,
+          "prompt": "What is the quark composition of a proton?",
+          "answer": "Two up quarks and one down quark. Accept: uud."
+        },
+        {
+          "value": 400,
+          "prompt": "What theory classifies fundamental particles and three of the fundamental interactions?",
+          "answer": "The Standard Model."
+        },
+        {
+          "value": 500,
+          "prompt": "What machines accelerate charged particles to high energies to test particle-physics theories?",
+          "answer": "Particle accelerators."
+        }
+      ]
+    }
+  ],
+  "finalRound": {
+    "category": "Matter and the Universe",
+    "prompt": "What equation links mass and energy and helps explain the enormous energy released in nuclear reactions and stars?",
+    "answer": "E = mc².",
+    "timerSeconds": 60
+  }
+}

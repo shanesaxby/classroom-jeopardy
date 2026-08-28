@@ -1,0 +1,177 @@
+{
+  "id": "year-11-earth-and-environmental-science-module-2-plate-tectonics",
+  "title": "Year 11 Earth and Environmental Science Module 2 – Plate Tectonics",
+  "description": "A fast-recall review of NSW Year 11 Earth and Environmental Science Module 2. Questions use short answers and avoid multi-step calculations or extended writing.",
+  "course": "NSW Earth and Environmental Science Stage 6",
+  "recommendedLevel": "Year 11",
+  "author": "Generated with Classroom Jeopardy Quiz Maker",
+  "estimatedDuration": "35–45 minutes",
+  "settings": {
+    "questionTimerSeconds": 25,
+    "finalTimerSeconds": 60
+  },
+  "rules": {
+    "mode": "append",
+    "general": [],
+    "scoring": [],
+    "final": []
+  },
+  "categories": [
+    {
+      "name": "Plate Basics",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What theory explains the movement of Earth’s large lithospheric plates?",
+          "answer": "Plate tectonics."
+        },
+        {
+          "value": 200,
+          "prompt": "What rigid outer layer is broken into tectonic plates?",
+          "answer": "The lithosphere."
+        },
+        {
+          "value": 300,
+          "prompt": "What softer layer beneath the lithosphere allows tectonic plates to move?",
+          "answer": "The asthenosphere."
+        },
+        {
+          "value": 400,
+          "prompt": "What process occurs when one tectonic plate sinks beneath another?",
+          "answer": "Subduction."
+        },
+        {
+          "value": 500,
+          "prompt": "What name is given to the boundary between two tectonic plates?",
+          "answer": "A plate boundary."
+        }
+      ]
+    },
+    {
+      "name": "Evidence",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What observation about South America and Africa helped support continental drift?",
+          "answer": "Their coastlines appear to fit together."
+        },
+        {
+          "value": 200,
+          "prompt": "Matching fossils on continents now separated by oceans support what idea?",
+          "answer": "Continental drift."
+        },
+        {
+          "value": 300,
+          "prompt": "What symmetrical pattern on the ocean floor records reversals of Earth’s magnetic field?",
+          "answer": "Magnetic striping. Accept: magnetic stripes."
+        },
+        {
+          "value": 400,
+          "prompt": "What happens to the age of oceanic crust as distance from a mid-ocean ridge increases?",
+          "answer": "It becomes older."
+        },
+        {
+          "value": 500,
+          "prompt": "What process creates new oceanic crust at mid-ocean ridges?",
+          "answer": "Seafloor spreading."
+        }
+      ]
+    },
+    {
+      "name": "People & Technology",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "Which scientist proposed continental drift in the early 1900s?",
+          "answer": "Alfred Wegener."
+        },
+        {
+          "value": 200,
+          "prompt": "Which scientist proposed mantle convection as a mechanism for continental movement?",
+          "answer": "Arthur Holmes."
+        },
+        {
+          "value": 300,
+          "prompt": "Which scientist is strongly associated with the idea of seafloor spreading?",
+          "answer": "Harry Hess."
+        },
+        {
+          "value": 400,
+          "prompt": "Which two scientists linked magnetic striping to seafloor spreading?",
+          "answer": "Fred Vine and Drummond Matthews. Accept: Vine and Matthews."
+        },
+        {
+          "value": 500,
+          "prompt": "What research vessel drilled ocean-floor cores that helped test seafloor-spreading predictions?",
+          "answer": "The Glomar Challenger."
+        }
+      ]
+    },
+    {
+      "name": "Plate Boundaries",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What type of plate boundary occurs where two plates move apart?",
+          "answer": "A divergent boundary."
+        },
+        {
+          "value": 200,
+          "prompt": "What type of plate boundary occurs where two plates move towards each other?",
+          "answer": "A convergent boundary."
+        },
+        {
+          "value": 300,
+          "prompt": "What type of plate boundary occurs where two plates slide past each other?",
+          "answer": "A transform boundary."
+        },
+        {
+          "value": 400,
+          "prompt": "At what type of boundary is new oceanic crust commonly formed?",
+          "answer": "A divergent boundary."
+        },
+        {
+          "value": 500,
+          "prompt": "At what type of boundary is oceanic crust commonly destroyed by subduction?",
+          "answer": "A convergent boundary."
+        }
+      ]
+    },
+    {
+      "name": "Tectonic Features",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What long underwater mountain chain forms at many divergent plate boundaries?",
+          "answer": "A mid-ocean ridge."
+        },
+        {
+          "value": 200,
+          "prompt": "What deep ocean-floor feature commonly forms at a subduction zone?",
+          "answer": "An ocean trench. Accept: deep-sea trench."
+        },
+        {
+          "value": 300,
+          "prompt": "What geological event is especially common along transform boundaries?",
+          "answer": "Earthquakes."
+        },
+        {
+          "value": 400,
+          "prompt": "What volcanic landform can form where one oceanic plate subducts beneath another?",
+          "answer": "A volcanic island arc. Accept: island arc."
+        },
+        {
+          "value": 500,
+          "prompt": "What major landform can form when two continental plates collide?",
+          "answer": "A mountain range. Accept: fold mountains."
+        }
+      ]
+    }
+  ],
+  "finalRound": {
+    "category": "Plate Tectonic Evidence",
+    "prompt": "What ocean-floor evidence shows new crust forms at ridges and moves outward on both sides?",
+    "answer": "Symmetrical magnetic striping. Accept: matching magnetic stripes on either side of mid-ocean ridges.",
+    "timerSeconds": 60
+  }
+}

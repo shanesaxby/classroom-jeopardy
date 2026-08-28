@@ -1,0 +1,177 @@
+{
+  "id": "year-11-investigating-science-module-1-cause-and-effect-observing",
+  "title": "Year 11 Investigating Science Module 1 – Cause and Effect – Observing",
+  "description": "A fast-recall review of NSW Year 11 Investigating Science Module 1. Questions use short answers and avoid multi-step calculations or extended writing.",
+  "course": "NSW Investigating Science Stage 6",
+  "recommendedLevel": "Year 11",
+  "author": "Generated with Classroom Jeopardy Quiz Maker",
+  "estimatedDuration": "35–45 minutes",
+  "settings": {
+    "questionTimerSeconds": 25,
+    "finalTimerSeconds": 60
+  },
+  "rules": {
+    "mode": "append",
+    "general": [],
+    "scoring": [],
+    "final": []
+  },
+  "categories": [
+    {
+      "name": "Observation Basics",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What is information gathered directly using the senses or measuring instruments called?",
+          "answer": "An observation."
+        },
+        {
+          "value": 200,
+          "prompt": "What term describes an explanation or interpretation made from observations?",
+          "answer": "An inference."
+        },
+        {
+          "value": 300,
+          "prompt": "What usually comes first in a scientific investigation: observation or conclusion?",
+          "answer": "Observation."
+        },
+        {
+          "value": 400,
+          "prompt": "What type of question can be investigated using observations or measurements?",
+          "answer": "A testable question."
+        },
+        {
+          "value": 500,
+          "prompt": "What tentative, testable explanation predicts a relationship between variables?",
+          "answer": "A hypothesis."
+        }
+      ]
+    },
+    {
+      "name": "Qual or Quant?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "Data describing colour, texture or smell are what type of data?",
+          "answer": "Qualitative data."
+        },
+        {
+          "value": 200,
+          "prompt": "Data recorded as numbers and measurements are what type of data?",
+          "answer": "Quantitative data."
+        },
+        {
+          "value": 300,
+          "prompt": "“The solution is blue” is what type of observation?",
+          "answer": "Qualitative."
+        },
+        {
+          "value": 400,
+          "prompt": "“The temperature is 24 °C” is what type of observation?",
+          "answer": "Quantitative."
+        },
+        {
+          "value": 500,
+          "prompt": "Which type of data is usually easier to compare statistically: qualitative or quantitative?",
+          "answer": "Quantitative data."
+        }
+      ]
+    },
+    {
+      "name": "Variables",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What variable is deliberately changed by the investigator?",
+          "answer": "The independent variable."
+        },
+        {
+          "value": 200,
+          "prompt": "What variable is measured or observed as the outcome?",
+          "answer": "The dependent variable."
+        },
+        {
+          "value": 300,
+          "prompt": "What variables are kept the same to make a fair test?",
+          "answer": "Controlled variables. Accept: control variables."
+        },
+        {
+          "value": 400,
+          "prompt": "A hypothesis should link which two main variables?",
+          "answer": "The independent and dependent variables."
+        },
+        {
+          "value": 500,
+          "prompt": "Keeping other factors constant mainly improves what aspect of an investigation?",
+          "answer": "Validity."
+        }
+      ]
+    },
+    {
+      "name": "Data & Evidence",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What is data collected first-hand by the investigator called?",
+          "answer": "Primary data."
+        },
+        {
+          "value": 200,
+          "prompt": "What is data obtained from sources collected by other people called?",
+          "answer": "Secondary data."
+        },
+        {
+          "value": 300,
+          "prompt": "Repeating measurements helps improve what quality of data?",
+          "answer": "Reliability."
+        },
+        {
+          "value": 400,
+          "prompt": "What term describes how close a measurement is to the true or accepted value?",
+          "answer": "Accuracy."
+        },
+        {
+          "value": 500,
+          "prompt": "What term describes how close repeated measurements are to one another?",
+          "answer": "Precision."
+        }
+      ]
+    },
+    {
+      "name": "Science from Observing",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "Which scientist is linked to observations of water displacement while bathing?",
+          "answer": "Archimedes."
+        },
+        {
+          "value": 200,
+          "prompt": "Which scientist observed mould inhibiting bacterial growth, leading to penicillin research?",
+          "answer": "Alexander Fleming. Accept: Fleming."
+        },
+        {
+          "value": 300,
+          "prompt": "What should be included with a numerical measurement so its meaning is clear?",
+          "answer": "A unit."
+        },
+        {
+          "value": 400,
+          "prompt": "What simple data display uses separate rectangular bars to compare categories?",
+          "answer": "A bar graph. Accept: bar chart."
+        },
+        {
+          "value": 500,
+          "prompt": "What graph is commonly used to show the relationship between two continuous numerical variables?",
+          "answer": "A scatter plot. Accept: scatter graph."
+        }
+      ]
+    }
+  ],
+  "finalRound": {
+    "category": "Observation to Investigation",
+    "prompt": "What term describes a conclusion or explanation drawn from observations rather than directly observed itself?",
+    "answer": "An inference.",
+    "timerSeconds": 60
+  }
+}

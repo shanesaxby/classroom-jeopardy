@@ -1,0 +1,167 @@
+{
+  "id": "year-12-earth-and-environmental-science-module-7-climate-science",
+  "title": "Year 12 Earth and Environmental Science Module 7 – Climate Science",
+  "description": "A fast-recall review of NSW Year 12 Earth and Environmental Science Module 7, organised by its four Inquiry Questions. Questions use short answers and avoid multi-step calculations or extended writing.",
+  "course": "NSW Earth and Environmental Science Stage 6",
+  "recommendedLevel": "Year 12",
+  "author": "Generated with Classroom Jeopardy Quiz Maker",
+  "estimatedDuration": "35–45 minutes",
+  "settings": {
+    "questionTimerSeconds": 25,
+    "finalTimerSeconds": 60
+  },
+  "rules": {
+    "mode": "append",
+    "general": [],
+    "scoring": [],
+    "final": []
+  },
+  "categories": [
+    {
+      "name": "How & why does climate change naturally?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What natural process warms Earth because atmospheric gases absorb outgoing infrared radiation?",
+          "answer": "The greenhouse effect."
+        },
+        {
+          "value": 200,
+          "prompt": "What long-term tectonic cycle can change continent positions and global climate?",
+          "answer": "The plate tectonic supercycle."
+        },
+        {
+          "value": 300,
+          "prompt": "What large igneous province in India formed through massive volcanic eruptions near the end of the Cretaceous?",
+          "answer": "The Deccan Traps."
+        },
+        {
+          "value": 400,
+          "prompt": "What large igneous province in Russia formed through enormous eruptions near the end of the Permian?",
+          "answer": "The Siberian Traps."
+        },
+        {
+          "value": 500,
+          "prompt": "What collective term describes cyclic changes in Earth’s orbit, tilt and precession?",
+          "answer": "Milankovitch cycles."
+        },
+        {
+          "value": 600,
+          "prompt": "What movement of seawater redistributes heat and can drive natural climate variation?",
+          "answer": "Ocean circulation. Accept: ocean currents."
+        }
+      ]
+    },
+    {
+      "name": "What evidence shows past climate variation?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What plant remains preserved in sediments can indicate past vegetation and climate?",
+          "answer": "Pollen grains."
+        },
+        {
+          "value": 200,
+          "prompt": "What frozen cores preserve trapped ancient air bubbles?",
+          "answer": "Ice cores."
+        },
+        {
+          "value": 300,
+          "prompt": "What tree-ring dating method can reveal past growing conditions?",
+          "answer": "Dendrochronology."
+        },
+        {
+          "value": 400,
+          "prompt": "What tiny preserved organisms in sediments can provide evidence of past environments?",
+          "answer": "Microfossils."
+        },
+        {
+          "value": 500,
+          "prompt": "What cave deposits can preserve isotope evidence of past climate?",
+          "answer": "Stalagmites and stalactites. Accept: speleothems."
+        },
+        {
+          "value": 600,
+          "prompt": "What ratios measured in ice, rocks, corals or sediments can act as climate proxies?",
+          "answer": "Isotope ratios."
+        }
+      ]
+    },
+    {
+      "name": "Has human activity changed climate since industrialisation?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What gas released heavily by fossil-fuel combustion is a major anthropogenic greenhouse gas?",
+          "answer": "Carbon dioxide. Accept: CO₂."
+        },
+        {
+          "value": 200,
+          "prompt": "What term describes the human-caused strengthening of the natural greenhouse effect?",
+          "answer": "The enhanced greenhouse effect."
+        },
+        {
+          "value": 300,
+          "prompt": "What major historical period saw rapid expansion of fossil-fuel use and industrial emissions?",
+          "answer": "The Industrial Revolution."
+        },
+        {
+          "value": 400,
+          "prompt": "What ocean chemistry change occurs as seawater absorbs additional carbon dioxide?",
+          "answer": "Ocean acidification."
+        },
+        {
+          "value": 500,
+          "prompt": "What frozen land masses are losing mass as global temperatures rise?",
+          "answer": "Glaciers and ice sheets."
+        },
+        {
+          "value": 600,
+          "prompt": "What happens to global mean sea level as land ice melts and seawater warms?",
+          "answer": "It rises. Accept: sea-level rise."
+        }
+      ]
+    },
+    {
+      "name": "How can humans minimise & respond to warming?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What term describes actions that reduce the causes of climate change?",
+          "answer": "Mitigation."
+        },
+        {
+          "value": 200,
+          "prompt": "What term describes adjusting systems or communities to cope with climate impacts?",
+          "answer": "Adaptation."
+        },
+        {
+          "value": 300,
+          "prompt": "Replacing coal-fired electricity with solar or wind is an example of what broad strategy?",
+          "answer": "Mitigation."
+        },
+        {
+          "value": 400,
+          "prompt": "Building sea walls to protect vulnerable coastlines is an example of what broad strategy?",
+          "answer": "Adaptation."
+        },
+        {
+          "value": 500,
+          "prompt": "What land-use action increases carbon storage by re-establishing forests?",
+          "answer": "Reforestation."
+        },
+        {
+          "value": 600,
+          "prompt": "What broad term describes deliberate large-scale intervention in Earth systems to counter climate change?",
+          "answer": "Geoengineering. Accept: geo-engineering."
+        }
+      ]
+    }
+  ],
+  "finalRound": {
+    "category": "Climate Action",
+    "prompt": "What term describes reducing greenhouse gas emissions or increasing carbon sinks to limit future climate change?",
+    "answer": "Mitigation.",
+    "timerSeconds": 60
+  }
+}

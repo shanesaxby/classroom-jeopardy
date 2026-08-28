@@ -1,0 +1,162 @@
+{
+  "id": "year-12-earth-and-environmental-science-module-8-resource-management",
+  "title": "Year 12 Earth and Environmental Science Module 8 – Resource Management",
+  "description": "A fast-recall review of NSW Year 12 Earth and Environmental Science Module 8, organised by its three Inquiry Questions. Questions use short answers and avoid multi-step calculations or extended writing.",
+  "course": "NSW Earth and Environmental Science Stage 6",
+  "recommendedLevel": "Year 12",
+  "author": "Generated with Classroom Jeopardy Quiz Maker",
+  "estimatedDuration": "35–45 minutes",
+  "settings": {
+    "questionTimerSeconds": 25,
+    "finalTimerSeconds": 60
+  },
+  "rules": {
+    "mode": "append",
+    "general": [],
+    "scoring": [],
+    "final": []
+  },
+  "categories": [
+    {
+      "name": "How are Australia’s resources extracted, used & managed?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What type of resource can be naturally replenished on a human timescale?",
+          "answer": "A renewable resource."
+        },
+        {
+          "value": 200,
+          "prompt": "What type of resource exists in finite amounts or forms too slowly to replace quickly?",
+          "answer": "A non-renewable resource."
+        },
+        {
+          "value": 300,
+          "prompt": "What large Australian groundwater resource underlies much of inland eastern Australia?",
+          "answer": "The Great Artesian Basin."
+        },
+        {
+          "value": 400,
+          "prompt": "What mining method removes a large surface pit to access near-surface ore?",
+          "answer": "Open-pit mining. Accept: open-cut mining."
+        },
+        {
+          "value": 500,
+          "prompt": "What mining method accesses deep resources through shafts and tunnels?",
+          "answer": "Underground mining."
+        },
+        {
+          "value": 600,
+          "prompt": "What process repairs land after mining to restore environmental function?",
+          "answer": "Rehabilitation. Accept: reclamation."
+        },
+        {
+          "value": 700,
+          "prompt": "What group should be involved when mining or rehabilitation may affect Aboriginal cultural sites and Country?",
+          "answer": "Traditional Owners. Accept: Aboriginal Traditional Owners."
+        },
+        {
+          "value": 800,
+          "prompt": "What industry farms aquatic organisms such as fish, oysters or prawns?",
+          "answer": "Aquaculture."
+        }
+      ]
+    },
+    {
+      "name": "How is waste managed?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What waste strategy means avoiding the creation of waste in the first place?",
+          "answer": "Reduce. Accept: avoidance or waste reduction."
+        },
+        {
+          "value": 200,
+          "prompt": "What strategy uses an item again without turning it into a new material?",
+          "answer": "Reuse."
+        },
+        {
+          "value": 300,
+          "prompt": "What strategy processes waste materials into new products?",
+          "answer": "Recycling."
+        },
+        {
+          "value": 400,
+          "prompt": "What process turns organic waste into a nutrient-rich soil-like material?",
+          "answer": "Composting."
+        },
+        {
+          "value": 500,
+          "prompt": "What engineered site is used for the disposal of solid waste in the ground?",
+          "answer": "A landfill."
+        },
+        {
+          "value": 600,
+          "prompt": "What gas produced by decomposing organic waste in landfills can be captured for energy?",
+          "answer": "Methane."
+        },
+        {
+          "value": 700,
+          "prompt": "What liquid formed when water passes through waste and carries dissolved contaminants is called?",
+          "answer": "Leachate."
+        },
+        {
+          "value": 800,
+          "prompt": "What approach ranks waste options from most to least preferred, beginning with avoidance and reduction?",
+          "answer": "The waste hierarchy."
+        }
+      ]
+    },
+    {
+      "name": "How can natural resources be managed sustainably?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What term means meeting present needs without compromising future generations?",
+          "answer": "Sustainability."
+        },
+        {
+          "value": 200,
+          "prompt": "What activity removes organisms or resources faster than they can be naturally replaced?",
+          "answer": "Overharvesting."
+        },
+        {
+          "value": 300,
+          "prompt": "What environmental impact results when vegetation or ecosystems are cleared for human use?",
+          "answer": "Habitat loss. Accept: habitat destruction."
+        },
+        {
+          "value": 400,
+          "prompt": "What type of pollution can reduce the sustainability of rivers, lakes and groundwater?",
+          "answer": "Water pollution."
+        },
+        {
+          "value": 500,
+          "prompt": "What Aboriginal land-management practice uses carefully controlled fire to care for Country?",
+          "answer": "Cultural burning."
+        },
+        {
+          "value": 600,
+          "prompt": "What broad area of responsibility involves caring for Country through cultural knowledge and practices?",
+          "answer": "Caring for Country. Accept: Indigenous land management."
+        },
+        {
+          "value": 700,
+          "prompt": "What three broad dimensions are commonly balanced in sustainability decisions?",
+          "answer": "Environmental, social and economic."
+        },
+        {
+          "value": 800,
+          "prompt": "What term describes the benefits people obtain from healthy ecosystems, such as clean water and pollination?",
+          "answer": "Ecosystem services."
+        }
+      ]
+    }
+  ],
+  "finalRound": {
+    "category": "Sustainable Management",
+    "prompt": "What management principle aims to meet current needs while preserving resources and environmental function for future generations?",
+    "answer": "Sustainability.",
+    "timerSeconds": 60
+  }
+}

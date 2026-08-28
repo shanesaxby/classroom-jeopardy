@@ -1,0 +1,177 @@
+{
+  "id": "year-11-investigating-science-module-2-inferences-and-generalisations",
+  "title": "Year 11 Investigating Science Module 2 – Cause and Effect – Inferences and Generalisations",
+  "description": "A fast-recall review of NSW Year 11 Investigating Science Module 2. Questions use short answers and avoid multi-step calculations or extended writing.",
+  "course": "NSW Investigating Science Stage 6",
+  "recommendedLevel": "Year 11",
+  "author": "Generated with Classroom Jeopardy Quiz Maker",
+  "estimatedDuration": "35–45 minutes",
+  "settings": {
+    "questionTimerSeconds": 25,
+    "finalTimerSeconds": 60
+  },
+  "rules": {
+    "mode": "append",
+    "general": [],
+    "scoring": [],
+    "final": []
+  },
+  "categories": [
+    {
+      "name": "Inference Basics",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What term describes an explanation drawn from observations?",
+          "answer": "An inference."
+        },
+        {
+          "value": 200,
+          "prompt": "What term describes a statement that applies a pattern in data more broadly?",
+          "answer": "A generalisation."
+        },
+        {
+          "value": 300,
+          "prompt": "What type of data is collected directly by the investigator?",
+          "answer": "Primary data."
+        },
+        {
+          "value": 400,
+          "prompt": "What type of data comes from research or observations collected by others?",
+          "answer": "Secondary-sourced data. Accept: secondary data."
+        },
+        {
+          "value": 500,
+          "prompt": "What should an inference be based on to be scientifically useful?",
+          "answer": "Evidence. Accept: data."
+        }
+      ]
+    },
+    {
+      "name": "Patterns in Data",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What term describes a repeated or consistent feature in data?",
+          "answer": "A pattern."
+        },
+        {
+          "value": 200,
+          "prompt": "What term describes the overall direction shown by a set of data?",
+          "answer": "A trend."
+        },
+        {
+          "value": 300,
+          "prompt": "What is a data point that lies noticeably away from the overall pattern called?",
+          "answer": "An outlier."
+        },
+        {
+          "value": 400,
+          "prompt": "What term describes seeing a meaningful image or pattern where none was intended?",
+          "answer": "Pareidolia."
+        },
+        {
+          "value": 500,
+          "prompt": "What can happen when humans see patterns that are not actually present in data?",
+          "answer": "Misinterpretation. Accept: data misinterpretation."
+        }
+      ]
+    },
+    {
+      "name": "Testing Ideas",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What testable prediction links variables in an investigation?",
+          "answer": "A hypothesis."
+        },
+        {
+          "value": 200,
+          "prompt": "What type of question can be answered through scientific investigation?",
+          "answer": "An inquiry question. Accept: testable question."
+        },
+        {
+          "value": 300,
+          "prompt": "What long-held idea claimed that living things could arise from non-living matter?",
+          "answer": "Spontaneous generation."
+        },
+        {
+          "value": 400,
+          "prompt": "What theory replaced spontaneous generation as evidence about microorganisms developed?",
+          "answer": "Germ theory."
+        },
+        {
+          "value": 500,
+          "prompt": "Which scientist is named in the syllabus alongside Marie Curie in the study of radioactivity?",
+          "answer": "Henri Becquerel. Accept: Becquerel."
+        }
+      ]
+    },
+    {
+      "name": "Using Other Research",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What kind of source can be checked before collecting your own primary data?",
+          "answer": "A secondary source."
+        },
+        {
+          "value": 200,
+          "prompt": "Secondary-sourced data can be used to check or support what drawn from primary data?",
+          "answer": "Inferences. Accept: conclusions."
+        },
+        {
+          "value": 300,
+          "prompt": "Looking at existing research first can help avoid what type of investigation?",
+          "answer": "Unnecessary investigation."
+        },
+        {
+          "value": 400,
+          "prompt": "Existing research can help an investigator construct a suitable what before testing?",
+          "answer": "Hypothesis."
+        },
+        {
+          "value": 500,
+          "prompt": "Existing research can help an investigator plan a suitable what?",
+          "answer": "Investigation."
+        }
+      ]
+    },
+    {
+      "name": "Science Together",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What process involves other scientists evaluating scientific work?",
+          "answer": "Peer review."
+        },
+        {
+          "value": 200,
+          "prompt": "What term describes scientists working together on an investigation?",
+          "answer": "Collaboration."
+        },
+        {
+          "value": 300,
+          "prompt": "Different viewpoints in a scientific team provide alternative what?",
+          "answer": "Perspectives."
+        },
+        {
+          "value": 400,
+          "prompt": "What table of elements is listed in the syllabus as an example influenced by collaborative scientific work?",
+          "answer": "The periodic table."
+        },
+        {
+          "value": 500,
+          "prompt": "What scientific principle about geological processes is listed as another example shaped by collaboration and alternative perspectives?",
+          "answer": "Uniformitarianism. Accept: geological uniformitarianism."
+        }
+      ]
+    }
+  ],
+  "finalRound": {
+    "category": "From Data to Knowledge",
+    "prompt": "What term describes a broader statement made from trends found in observed data?",
+    "answer": "A generalisation.",
+    "timerSeconds": 60
+  }
+}

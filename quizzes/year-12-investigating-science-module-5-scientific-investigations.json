@@ -1,0 +1,167 @@
+{
+  "id": "year-12-investigating-science-module-5-scientific-investigations",
+  "title": "Year 12 Investigating Science Module 5 – Scientific Investigations",
+  "description": "A fast-recall review of NSW Year 12 Investigating Science Module 5, organised by its four Inquiry Questions. Questions use short answers and avoid multi-step calculations or extended writing.",
+  "course": "NSW Investigating Science Stage 6",
+  "recommendedLevel": "Year 12",
+  "author": "Generated with Classroom Jeopardy Quiz Maker",
+  "estimatedDuration": "35–45 minutes",
+  "settings": {
+    "questionTimerSeconds": 25,
+    "finalTimerSeconds": 60
+  },
+  "rules": {
+    "mode": "append",
+    "general": [],
+    "scoring": [],
+    "final": []
+  },
+  "categories": [
+    {
+      "name": "What initiates an investigation?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What often begins a scientific investigation by revealing something worth explaining?",
+          "answer": "An observation."
+        },
+        {
+          "value": 200,
+          "prompt": "What testable statement gives a possible explanation for an observation?",
+          "answer": "A hypothesis."
+        },
+        {
+          "value": 300,
+          "prompt": "Which scientists investigated the bacterial cause of peptic ulcers?",
+          "answer": "Marshall and Warren. Accept: Barry Marshall and Robin Warren."
+        },
+        {
+          "value": 400,
+          "prompt": "Which scientist investigated plant growth using a willow tree experiment?",
+          "answer": "Jan Baptista van Helmont. Accept: van Helmont."
+        },
+        {
+          "value": 500,
+          "prompt": "Which engineer’s observation of a melted chocolate bar contributed to the development of microwave cooking?",
+          "answer": "Percy Spencer. Accept: Spencer."
+        },
+        {
+          "value": 600,
+          "prompt": "What may unexpected results cause scientists to do to an original hypothesis?",
+          "answer": "Modify it. Accept: revise it."
+        }
+      ]
+    },
+    {
+      "name": "What methodology best suits an investigation?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What investigation type involves deliberately changing a variable under controlled conditions?",
+          "answer": "An experiment. Accept: experimental testing."
+        },
+        {
+          "value": 200,
+          "prompt": "What investigation type collects observations directly in a natural environment?",
+          "answer": "Fieldwork."
+        },
+        {
+          "value": 300,
+          "prompt": "What investigation type gathers responses from a selected group of people?",
+          "answer": "A survey."
+        },
+        {
+          "value": 400,
+          "prompt": "What investigation type uses a simplified representation of a real system?",
+          "answer": "Modelling. Accept: a model or simulation."
+        },
+        {
+          "value": 500,
+          "prompt": "Which scientist estimated Earth’s circumference using shadows and geometry?",
+          "answer": "Eratosthenes."
+        },
+        {
+          "value": 600,
+          "prompt": "What type of published literature should be checked when judging whether an investigation is relevant to existing science?",
+          "answer": "Peer-reviewed literature."
+        }
+      ]
+    },
+    {
+      "name": "How is investigation integrity judged?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What term describes whether an investigation measures what it was intended to measure?",
+          "answer": "Validity."
+        },
+        {
+          "value": 200,
+          "prompt": "What term describes the consistency of results when measurements or investigations are repeated?",
+          "answer": "Reliability."
+        },
+        {
+          "value": 300,
+          "prompt": "What variable is deliberately changed by the investigator?",
+          "answer": "The independent variable."
+        },
+        {
+          "value": 400,
+          "prompt": "What variable is measured as the outcome?",
+          "answer": "The dependent variable."
+        },
+        {
+          "value": 500,
+          "prompt": "What variables are kept constant to help make a fair test?",
+          "answer": "Controlled variables."
+        },
+        {
+          "value": 600,
+          "prompt": "Increasing a representative sample size generally improves what aspect of confidence in the results?",
+          "answer": "Reliability."
+        }
+      ]
+    },
+    {
+      "name": "What is the structure of an investigative report?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "Which report section states what the investigation was designed to find out?",
+          "answer": "The aim. Accept: purpose."
+        },
+        {
+          "value": 200,
+          "prompt": "Which report section explains how the investigation was carried out?",
+          "answer": "The method. Accept: methodology."
+        },
+        {
+          "value": 300,
+          "prompt": "Which report section presents the collected observations and measurements?",
+          "answer": "Results."
+        },
+        {
+          "value": 400,
+          "prompt": "Which report section interprets results and explains their meaning?",
+          "answer": "Discussion."
+        },
+        {
+          "value": 500,
+          "prompt": "Which report section states whether the findings support the hypothesis?",
+          "answer": "Conclusion."
+        },
+        {
+          "value": 600,
+          "prompt": "What formal process evaluates scientific work before publication in many journals?",
+          "answer": "Peer review."
+        }
+      ]
+    }
+  ],
+  "finalRound": {
+    "category": "Scientific Investigation",
+    "prompt": "What two qualities are checked by asking whether an investigation measures what it should and whether its results are consistent?",
+    "answer": "Validity and reliability.",
+    "timerSeconds": 60
+  }
+}

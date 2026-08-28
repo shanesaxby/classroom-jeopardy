@@ -1,0 +1,177 @@
+{
+  "id": "year-11-investigating-science-module-3-scientific-models",
+  "title": "Year 11 Investigating Science Module 3 – Scientific Models",
+  "description": "A fast-recall review of NSW Year 11 Investigating Science Module 3. Questions use short answers and avoid multi-step calculations or extended writing.",
+  "course": "NSW Investigating Science Stage 6",
+  "recommendedLevel": "Year 11",
+  "author": "Generated with Classroom Jeopardy Quiz Maker",
+  "estimatedDuration": "35–45 minutes",
+  "settings": {
+    "questionTimerSeconds": 25,
+    "finalTimerSeconds": 60
+  },
+  "rules": {
+    "mode": "append",
+    "general": [],
+    "scoring": [],
+    "final": []
+  },
+  "categories": [
+    {
+      "name": "Model Basics",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What is a simplified representation of a scientific object, system or process called?",
+          "answer": "A scientific model. Accept: model."
+        },
+        {
+          "value": 200,
+          "prompt": "What type of model uses a labelled visual representation?",
+          "answer": "A diagram."
+        },
+        {
+          "value": 300,
+          "prompt": "What type of model is a tangible three-dimensional copy or representation?",
+          "answer": "A physical replica. Accept: physical model."
+        },
+        {
+          "value": 400,
+          "prompt": "What type of model represents a system using numbers, equations or formulas?",
+          "answer": "A mathematical representation. Accept: mathematical model."
+        },
+        {
+          "value": 500,
+          "prompt": "What type of digital model imitates the behaviour of a real system?",
+          "answer": "A computer simulation."
+        }
+      ]
+    },
+    {
+      "name": "What Models Do",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "Models often make complex scientific ideas easier to do what?",
+          "answer": "Understand."
+        },
+        {
+          "value": 200,
+          "prompt": "What can a model make about an outcome that has not yet been observed?",
+          "answer": "A prediction."
+        },
+        {
+          "value": 300,
+          "prompt": "Models can be useful when a real process takes too long because of its what?",
+          "answer": "Time frame."
+        },
+        {
+          "value": 400,
+          "prompt": "Models can replace some real-world testing when an investigation would be too expensive because of what factor?",
+          "answer": "Cost."
+        },
+        {
+          "value": 500,
+          "prompt": "Models can help scientists test new what before direct evidence is available?",
+          "answer": "Hypotheses."
+        }
+      ]
+    },
+    {
+      "name": "Model Examples",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What type of model can predict the spread of an infectious disease?",
+          "answer": "An epidemic model."
+        },
+        {
+          "value": 200,
+          "prompt": "What type of model represents the structure of atoms?",
+          "answer": "An atomic model."
+        },
+        {
+          "value": 300,
+          "prompt": "What type of model is used to investigate changes in Earth’s climate?",
+          "answer": "A climate model."
+        },
+        {
+          "value": 400,
+          "prompt": "What broad model type is used to represent the structure or development of the cosmos?",
+          "answer": "A model of the Universe."
+        },
+        {
+          "value": 500,
+          "prompt": "What type of model explains an unfamiliar idea by comparing it with something familiar?",
+          "answer": "An analogy."
+        }
+      ]
+    },
+    {
+      "name": "Limits & Change",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What do all scientific models have because they cannot perfectly represent reality?",
+          "answer": "Limitations."
+        },
+        {
+          "value": 200,
+          "prompt": "What can scientists do to a model when new evidence improves it without discarding it?",
+          "answer": "Refine it. Accept: modify it."
+        },
+        {
+          "value": 300,
+          "prompt": "What may happen to a model if strong new evidence shows it is no longer suitable?",
+          "answer": "It may be replaced. Accept: contested or replaced."
+        },
+        {
+          "value": 400,
+          "prompt": "Which is generally easier to understand quickly: a simple model or a complex model?",
+          "answer": "A simple model."
+        },
+        {
+          "value": 500,
+          "prompt": "Which type of model can usually represent more variables and detail: simple or complex?",
+          "answer": "A complex model."
+        }
+      ]
+    },
+    {
+      "name": "Building Models",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What published scientific information should be consulted when planning a model?",
+          "answer": "Scientific literature."
+        },
+        {
+          "value": 200,
+          "prompt": "A model should use resources that are what for the concept being represented?",
+          "answer": "Appropriate."
+        },
+        {
+          "value": 300,
+          "prompt": "After constructing a model, students should demonstrate how it can make what?",
+          "answer": "A prediction."
+        },
+        {
+          "value": 400,
+          "prompt": "Whose feedback should be used when presenting and evaluating a constructed scientific model?",
+          "answer": "Peers. Accept: peer feedback."
+        },
+        {
+          "value": 500,
+          "prompt": "What formal process allows the scientific community to evaluate the accuracy and applicability of models?",
+          "answer": "Peer review."
+        }
+      ]
+    }
+  ],
+  "finalRound": {
+    "category": "Changing Scientific Models",
+    "prompt": "What is the main reason a scientific model may be refined or replaced over time?",
+    "answer": "New evidence. Accept: new scientific evidence or data.",
+    "timerSeconds": 60
+  }
+}

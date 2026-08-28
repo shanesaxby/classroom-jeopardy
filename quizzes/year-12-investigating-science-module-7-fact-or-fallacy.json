@@ -1,0 +1,177 @@
+{
+  "id": "year-12-investigating-science-module-7-fact-or-fallacy",
+  "title": "Year 12 Investigating Science Module 7 – Fact or Fallacy?",
+  "description": "A fast-recall review of NSW Year 12 Investigating Science Module 7, organised by its five Inquiry Questions. Questions use short answers and avoid multi-step calculations or extended writing.",
+  "course": "NSW Investigating Science Stage 6",
+  "recommendedLevel": "Year 12",
+  "author": "Generated with Classroom Jeopardy Quiz Maker",
+  "estimatedDuration": "35–45 minutes",
+  "settings": {
+    "questionTimerSeconds": 25,
+    "finalTimerSeconds": 60
+  },
+  "rules": {
+    "mode": "append",
+    "general": [],
+    "scoring": [],
+    "final": []
+  },
+  "categories": [
+    {
+      "name": "How can a claim be tested?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What quality asks whether an investigation actually tests the claim it is meant to test?",
+          "answer": "Validity."
+        },
+        {
+          "value": 200,
+          "prompt": "What quality asks whether repeated results are consistent?",
+          "answer": "Reliability."
+        },
+        {
+          "value": 300,
+          "prompt": "What quality asks how close measurements are to an accepted value?",
+          "answer": "Accuracy."
+        },
+        {
+          "value": 400,
+          "prompt": "What type of error varies unpredictably between repeated measurements?",
+          "answer": "Random error."
+        },
+        {
+          "value": 500,
+          "prompt": "What type of error consistently biases measurements in one direction?",
+          "answer": "Systematic error."
+        }
+      ]
+    },
+    {
+      "name": "What affects how data are interpreted?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What inactive treatment is used as a comparison in many clinical trials?",
+          "answer": "A placebo."
+        },
+        {
+          "value": 200,
+          "prompt": "What trial design keeps both participants and researchers unaware of treatment allocation?",
+          "answer": "A double-blind trial."
+        },
+        {
+          "value": 300,
+          "prompt": "What comparison group does not receive the experimental treatment?",
+          "answer": "The control group."
+        },
+        {
+          "value": 400,
+          "prompt": "What factor can distort data when financial interests influence research?",
+          "answer": "Economic influence. Accept: financial interest."
+        },
+        {
+          "value": 500,
+          "prompt": "What term describes deliberately presenting statistics in a misleading way?",
+          "answer": "Statistical manipulation. Accept: manipulation of statistics."
+        }
+      ]
+    },
+    {
+      "name": "What evidence is needed for valid conclusions?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What term describes a relationship between two variables that change together?",
+          "answer": "Correlation."
+        },
+        {
+          "value": 200,
+          "prompt": "What term means that one factor produces a change in another?",
+          "answer": "Causation."
+        },
+        {
+          "value": 300,
+          "prompt": "Does correlation by itself prove causation?",
+          "answer": "No."
+        },
+        {
+          "value": 400,
+          "prompt": "What effect occurs when people change their behaviour because they know they are being observed?",
+          "answer": "The Hawthorne effect."
+        },
+        {
+          "value": 500,
+          "prompt": "What term describes evidence that can be repeatedly obtained with consistent results?",
+          "answer": "Reproducible evidence. Accept: reproducible data."
+        }
+      ]
+    },
+    {
+      "name": "How does science reporting shape public understanding?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What type of journal article has been evaluated by other experts before publication?",
+          "answer": "A peer-reviewed article."
+        },
+        {
+          "value": 200,
+          "prompt": "What term describes a financial or personal interest that may bias scientific reporting?",
+          "answer": "A conflict of interest."
+        },
+        {
+          "value": 300,
+          "prompt": "What effect occurs when a positive impression of a person or brand influences judgement of unrelated claims?",
+          "answer": "The halo effect."
+        },
+        {
+          "value": 400,
+          "prompt": "What term describes a claim presented as scientific but lacking reliable scientific methods or evidence?",
+          "answer": "Pseudoscience."
+        },
+        {
+          "value": 500,
+          "prompt": "Astrology, numerology and iridology are syllabus examples of what?",
+          "answer": "Pseudoscience."
+        }
+      ]
+    },
+    {
+      "name": "Can peer review help science find the truth?",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What process has other experts evaluate scientific work before or after publication?",
+          "answer": "Peer review."
+        },
+        {
+          "value": 200,
+          "prompt": "What process repeats a study to check whether its findings can be obtained again?",
+          "answer": "Replication."
+        },
+        {
+          "value": 300,
+          "prompt": "What term describes intentionally inventing or altering research results?",
+          "answer": "Scientific fraud. Accept: falsification."
+        },
+        {
+          "value": 400,
+          "prompt": "What phrase describes pressure on researchers to produce frequent publications?",
+          "answer": "Publish or perish."
+        },
+        {
+          "value": 500,
+          "prompt": "What type of journal may imitate legitimate scholarly publishing while providing little or no genuine peer review?",
+          "answer": "A predatory journal. Accept: fake science journal."
+        }
+      ]
+    }
+  ],
+  "finalRound": {
+    "category": "Fact or Fallacy?",
+    "prompt": "What key distinction must be demonstrated before a correlation can be claimed as a cause-and-effect relationship?",
+    "answer": "Causation. Accept: evidence of causation.",
+    "timerSeconds": 60
+  }
+}

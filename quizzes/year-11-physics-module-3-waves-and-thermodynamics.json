@@ -1,0 +1,177 @@
+{
+  "id": "year-11-physics-module-3-waves-and-thermodynamics",
+  "title": "Year 11 Physics Module 3 – Waves and Thermodynamics",
+  "description": "A fast-recall review of NSW Year 11 Physics Module 3. Questions use short answers and avoid multi-step calculations or extended writing.",
+  "course": "NSW Physics Stage 6",
+  "recommendedLevel": "Year 11",
+  "author": "Generated with Classroom Jeopardy Quiz Maker",
+  "estimatedDuration": "35–45 minutes",
+  "settings": {
+    "questionTimerSeconds": 25,
+    "finalTimerSeconds": 60
+  },
+  "rules": {
+    "mode": "append",
+    "general": [],
+    "scoring": [],
+    "final": []
+  },
+  "categories": [
+    {
+      "name": "Wave Basics",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What do waves transfer from one place to another without transferring matter overall?",
+          "answer": "Energy."
+        },
+        {
+          "value": 200,
+          "prompt": "What is the maximum displacement of a wave from its equilibrium position called?",
+          "answer": "Amplitude."
+        },
+        {
+          "value": 300,
+          "prompt": "What is the distance between two consecutive points in phase, such as crest to crest?",
+          "answer": "Wavelength."
+        },
+        {
+          "value": 400,
+          "prompt": "What quantity measures the number of wave cycles passing a point each second?",
+          "answer": "Frequency."
+        },
+        {
+          "value": 500,
+          "prompt": "What is the time taken for one complete wave cycle called?",
+          "answer": "Period."
+        }
+      ]
+    },
+    {
+      "name": "Wave Behaviour",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What wave behaviour occurs when a wave bounces from a surface?",
+          "answer": "Reflection."
+        },
+        {
+          "value": 200,
+          "prompt": "What wave behaviour occurs when a wave changes direction as its speed changes between media?",
+          "answer": "Refraction."
+        },
+        {
+          "value": 300,
+          "prompt": "What wave behaviour causes waves to spread around obstacles or through gaps?",
+          "answer": "Diffraction."
+        },
+        {
+          "value": 400,
+          "prompt": "What principle describes waves combining when they overlap?",
+          "answer": "Superposition."
+        },
+        {
+          "value": 500,
+          "prompt": "What phenomenon occurs when overlapping waves combine to produce a new pattern?",
+          "answer": "Interference."
+        }
+      ]
+    },
+    {
+      "name": "Sound & Light",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "Is sound a mechanical wave or an electromagnetic wave?",
+          "answer": "A mechanical wave."
+        },
+        {
+          "value": 200,
+          "prompt": "Does light require a material medium to travel?",
+          "answer": "No."
+        },
+        {
+          "value": 300,
+          "prompt": "In air, is sound mainly longitudinal or transverse?",
+          "answer": "Longitudinal."
+        },
+        {
+          "value": 400,
+          "prompt": "What property of a sound wave mainly determines its pitch?",
+          "answer": "Frequency."
+        },
+        {
+          "value": 500,
+          "prompt": "What property of a sound wave is related to its loudness?",
+          "answer": "Amplitude."
+        }
+      ]
+    },
+    {
+      "name": "Heat Transfer",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What type of heat transfer occurs through direct particle interactions within a material?",
+          "answer": "Conduction."
+        },
+        {
+          "value": 200,
+          "prompt": "What type of heat transfer occurs through the bulk movement of a fluid?",
+          "answer": "Convection."
+        },
+        {
+          "value": 300,
+          "prompt": "What type of heat transfer can occur through a vacuum?",
+          "answer": "Radiation."
+        },
+        {
+          "value": 400,
+          "prompt": "Thermal energy naturally transfers from a hotter object to an object at what relative temperature?",
+          "answer": "A lower temperature. Accept: colder."
+        },
+        {
+          "value": 500,
+          "prompt": "What state is reached when two objects in contact have the same temperature and no net heat transfer occurs?",
+          "answer": "Thermal equilibrium."
+        }
+      ]
+    },
+    {
+      "name": "Thermodynamics",
+      "questions": [
+        {
+          "value": 100,
+          "prompt": "What quantity describes how hot or cold an object is?",
+          "answer": "Temperature."
+        },
+        {
+          "value": 200,
+          "prompt": "What term describes energy transferred because of a temperature difference?",
+          "answer": "Heat."
+        },
+        {
+          "value": 300,
+          "prompt": "What microscopic motion generally increases when the temperature of a substance rises?",
+          "answer": "Particle motion. Accept: average kinetic energy of particles."
+        },
+        {
+          "value": 400,
+          "prompt": "What property describes the energy needed to raise the temperature of one kilogram of a substance by one degree Celsius?",
+          "answer": "Specific heat capacity."
+        },
+        {
+          "value": 500,
+          "prompt": "What form of energy changes during melting or boiling without changing temperature?",
+          "answer": "Latent heat. Accept: latent energy."
+        }
+      ]
+    }
+  ],
+  "finalRound": {
+    "category": "Waves and Energy",
+    "prompt": "What key idea links all waves: they transfer energy without an overall transfer of what?",
+    "answer": "Matter.",
+    "timerSeconds": 60
+  }
+}
