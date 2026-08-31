@@ -1,8 +1,59 @@
-# Classroom Jeopardy — Version 2
+# Classroom Jeopardy — Version 3.1
 
-A teacher-hosted Jeopardy-style classroom quiz game. Version 2 is designed for GitHub Pages and can also run locally on Windows.
+A teacher-hosted Jeopardy-style classroom quiz game designed for projection, team whiteboards and GitHub Pages. Version 3.1 keeps the Version 2 quiz library/import system and adds a structured classroom whiteboard workflow, fair rebound selection and manual score correction.
 
-## Version 2 additions
+## Version 3.1 additions
+
+### Whiteboard reveal workflow
+
+Version 3.1 is designed around a simple classroom protocol:
+
+1. The team in control chooses a category and value.
+2. **All teams solve the question** on their whiteboards.
+3. Boards stay down while teams work.
+4. The host calls **“Pens down — boards up.”**
+5. All teams reveal simultaneously and must not change or erase their answer until the host says **“Clear.”**
+6. The team in control is judged first.
+7. If that team is wrong, the host marks every correct rebound board in the game.
+8. The game randomly selects control from the correct rebound teams.
+
+This removes the need for the teacher to judge which of several boards was raised first.
+
+### Rebound scoring selector
+
+On the team setup screen, choose one of four rebound systems:
+
+- **One correct team gets full points + control** — recommended default.
+- **All correct teams get full points**; one is randomly selected for control.
+- **Correct teams share the clue value**; one is randomly selected for control and receives any indivisible remainder.
+- **All correct teams get a fixed bonus**; one is randomly selected for control.
+
+### Incorrect-answer scoring
+
+Choose:
+
+- **No points deducted** — recommended default for classroom whiteboards.
+- **Deduct the clue value** from the team in control.
+
+### Control
+
+- Starting control can be randomly selected or assigned to a nominated team.
+- The team in control is highlighted on the scoreboard.
+- A correct first answer keeps control.
+- A successful rebound transfers control to a randomly selected correct rebound team.
+- If nobody has a correct rebound, the original team keeps control.
+- The host can manually change control at any time using the control selector above the board.
+
+### Manual score correction
+
+Every team scoreboard panel now has an **Edit** button.
+
+The host can:
+- set the score to any value;
+- quickly adjust by −500, −100, +100 or +500;
+- correct an accidental award or deduction without restarting the game.
+
+## Version 2 features retained
 
 - Built-in quizzes loaded from `quizzes/quiz-list.json`
 - **Import quiz** button for private, browser-only quizzes
@@ -12,21 +63,23 @@ A teacher-hosted Jeopardy-style classroom quiz game. Version 2 is designed for G
 - Direct link to the **Classroom Jeopardy Quiz Maker GPT**
 - Relative file paths suitable for GitHub Pages project sites
 - `.nojekyll` included for straightforward static hosting
+- Local Windows launcher
 
 Imported quizzes are stored only in the browser on the device where they are imported. They are not uploaded to GitHub.
 
 ## Publish on GitHub Pages
 
-1. Create a GitHub repository, for example `classroom-jeopardy`.
-2. Upload the **contents of this folder** to the repository root. `index.html` must be at the root.
-3. Open **Settings → Pages**.
-4. Under **Build and deployment**, choose:
+1. Upload the **contents of this folder** to the repository root. `index.html` must be at the root.
+2. Open **Settings → Pages**.
+3. Under **Build and deployment**, choose:
    - Source: **Deploy from a branch**
    - Branch: **main**
    - Folder: **/(root)**
-5. Save. The site will normally appear at:
+4. Save.
 
-   `https://YOUR-USERNAME.github.io/classroom-jeopardy/`
+For the current repository, the published address is normally:
+
+`https://shanesaxby.github.io/classroom-jeopardy/`
 
 The game uses relative paths, so it works from a GitHub project-site subdirectory.
 
@@ -34,7 +87,7 @@ The game uses relative paths, so it works from a GitHub project-site subdirector
 
 1. Place the quiz JSON file in `quizzes/`.
 2. Place any image assets under `quizzes/images/` or another subfolder referenced by the JSON.
-3. Edit `quizzes/quiz-list.json` and add an entry:
+3. Edit `quizzes/quiz-list.json` and add an entry such as:
 
 ```json
 {
@@ -59,7 +112,7 @@ Choose **Choose JSON file**, then select the quiz `.json` file.
 2. Choose **Choose quiz folder**.
 3. Select the extracted folder containing the quiz JSON and its `images` subfolder.
 
-The game converts the selected images into browser-stored data and keeps them with the imported quiz.
+The game converts selected images into browser-stored data and keeps them with the imported quiz.
 
 ## Quiz Maker GPT
 
@@ -74,14 +127,23 @@ The game links directly to:
 3. Keep the server window open while playing.
 4. Close the server window when finished.
 
-## Important browser-storage note
+## Browser storage
 
-Imported quizzes are tied to the browser profile and website address. For example, an imported quiz stored while using the local version will not automatically appear on the GitHub Pages version. Clearing site data or using a private/incognito window can remove or isolate the imported library.
+Version 3.1 uses a new saved-game key so Version 2 in-progress games are not restored into the new scoring workflow. The existing Version 2 IndexedDB quiz library is deliberately retained, so previously imported quizzes remain available in the same browser/site.
+
+Imported quizzes are tied to the browser profile and website address. An imported quiz stored while using the local version will not automatically appear on the GitHub Pages version.
 
 ## Core quiz format
+
+The quiz JSON format is unchanged from Version 2.
 
 See:
 
 - `quizzes/QUIZ-FORMAT.md`
 - `quizzes/quiz-template.json`
 - `quizzes/sample-science.json`
+
+
+## Version 3.1 additions
+
+See `VERSION-3.1-NOTES.md` for the classroom-trial changes: visible team count controls, printable answer key, hidden answer during rebound entry, and tri-state rebound marking for deduction mode.
