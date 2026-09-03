@@ -1,0 +1,425 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#071a34">
+  <title>Classroom Jeopardy — Version 3.2</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="ambient ambient-one" aria-hidden="true"></div>
+  <div class="ambient ambient-two" aria-hidden="true"></div>
+
+  <header class="app-header">
+    <button id="homeButton" class="brand-button" type="button" aria-label="Return to quiz selection">
+      <span class="brand-mark">J!</span>
+      <span>
+        <strong>Classroom Jeopardy</strong>
+        <small>Teacher-hosted quiz game · Version 3.2</small>
+      </span>
+    </button>
+    <div class="header-actions">
+      <a class="secondary-button header-gpt-link" href="https://chatgpt.com/g/g-6a6aaee36fe4819199c7e5ba83a6a6a4-classroom-jeopardy-quiz-maker" target="_blank" rel="noopener noreferrer">Quiz Maker GPT ↗</a>
+      <button id="rulesButton" class="secondary-button" type="button">Rules</button>
+      <button id="muteButton" class="icon-button" type="button" aria-pressed="false" title="Mute all sounds">
+        <span aria-hidden="true">🔊</span><span class="sr-only">Mute sounds</span>
+      </button>
+    </div>
+  </header>
+
+  <main id="app" class="app-shell">
+    <section id="quizScreen" class="screen active" aria-labelledby="quizHeading">
+      <div class="setup-card wide-card">
+        <div class="eyebrow">Step 1 of 2</div>
+        <h1 id="quizHeading">Choose a quiz</h1>
+        <p class="lead">Choose a built-in quiz from the website, or import a quiz that will be saved privately in this browser.</p>
+
+        <div class="quiz-source-toolbar" aria-label="Quiz tools">
+          <button id="importQuizButton" class="primary-button" type="button">Import quiz</button>
+          <a class="gold-button gpt-link" href="https://chatgpt.com/g/g-6a6aaee36fe4819199c7e5ba83a6a6a4-classroom-jeopardy-quiz-maker" target="_blank" rel="noopener noreferrer">Create a quiz with the GPT ↗</a>
+        </div>
+
+        <label class="field-label" for="quizSelect">Available quizzes</label>
+        <div class="select-row">
+          <select id="quizSelect">
+            <option value="">Loading quizzes…</option>
+          </select>
+          <button id="reloadQuizzesButton" class="secondary-button" type="button">Reload list</button>
+        </div>
+
+        <div id="quizLoadMessage" class="status-message" role="status"></div>
+
+        <div id="importedQuizActions" class="imported-actions hidden">
+          <span class="source-pill imported">Imported quiz</span>
+          <button id="removeImportedQuizButton" class="secondary-button danger-outline" type="button">Remove selected imported quiz</button>
+          <button id="clearImportedQuizzesButton" class="text-button" type="button">Clear all imported quizzes</button>
+        </div>
+
+        <article id="quizInfo" class="quiz-info hidden" aria-live="polite">
+          <div>
+            <div class="quiz-info-kicker">
+              <span class="eyebrow">Selected quiz</span>
+              <span id="quizSourceBadge" class="source-pill built-in">Built-in</span>
+            </div>
+            <h2 id="quizTitle"></h2>
+            <p id="quizDescription"></p>
+          </div>
+          <dl class="quiz-meta">
+            <div><dt>Course</dt><dd id="quizCourse"></dd></div>
+            <div><dt>Recommended level</dt><dd id="quizLevel"></dd></div>
+            <div><dt>Author</dt><dd id="quizAuthor"></dd></div>
+            <div><dt>Estimated time</dt><dd id="quizDuration"></dd></div>
+          </dl>
+          <div>
+            <h3>Categories</h3>
+            <div id="categoryPreview" class="category-chips"></div>
+          </div>
+        </article>
+
+        <div class="button-row">
+          <button id="quizAnswerKeyButton" class="secondary-button" type="button" disabled>View / print answer key</button>
+          <button id="restoreGameButton" class="secondary-button hidden" type="button">Restore saved game</button>
+          <button id="continueButton" class="primary-button" type="button" disabled>Continue to teams</button>
+        </div>
+      </div>
+    </section>
+
+    <section id="teamScreen" class="screen" aria-labelledby="teamHeading">
+      <div class="setup-card wide-card">
+        <div class="eyebrow">Step 2 of 2</div>
+        <h1 id="teamHeading">Set up teams</h1>
+        <p class="lead">Add two to eight teams. Colours are assigned automatically and can be changed.</p>
+
+        <div class="team-setup-toolbar">
+          <div class="team-count-controls" aria-label="Team count controls">
+            <button id="topRemoveTeamButton" class="secondary-button" type="button">Remove team</button>
+            <button id="topAddTeamButton" class="secondary-button" type="button">Add team</button>
+          </div>
+          <button id="teamAnswerKeyButton" class="secondary-button" type="button">View / print answer key</button>
+        </div>
+
+        <div id="teamSetupList" class="team-setup-list"></div>
+
+        <div class="team-count-controls team-count-controls-bottom" aria-label="Team count controls">
+          <button id="removeTeamButton" class="secondary-button" type="button">Remove team</button>
+          <button id="addTeamButton" class="secondary-button" type="button">Add team</button>
+        </div>
+
+        <section class="play-rules-setup" aria-labelledby="playRulesSetupHeading">
+          <div>
+            <span class="eyebrow">Classroom play</span>
+            <h2 id="playRulesSetupHeading">Whiteboard, rebound & control rules</h2>
+            <p class="lead compact-lead">Version 3 is designed for simultaneous whiteboard reveals: all teams solve, boards stay down, then the host calls <strong>“Pens down — boards up.”</strong></p>
+          </div>
+
+          <div class="play-rules-grid">
+            <fieldset class="rule-fieldset">
+              <legend>Incorrect-answer scoring</legend>
+              <label class="rule-choice recommended-choice">
+                <input type="radio" name="incorrectScoring" value="none" checked>
+                <span><strong>No points deducted</strong><small>Recommended for classroom whiteboards. Incorrect and unanswered rebound boards do not lose points.</small></span>
+              </label>
+              <label class="rule-choice">
+                <input type="radio" name="incorrectScoring" value="deduct">
+                <span><strong>Deduct the clue value for incorrect responses</strong><small>The control team loses points if wrong; rebound teams lose points only when explicitly marked Incorrect. No Answer is not penalised.</small></span>
+              </label>
+            </fieldset>
+
+            <fieldset class="rule-fieldset rebound-fieldset">
+              <legend>Correct rebound scoring</legend>
+              <label class="rule-choice recommended-choice">
+                <input type="radio" name="reboundScoring" value="single" checked>
+                <span><strong>One correct team gets full points</strong><small>Randomly selected from all correct rebound boards. Recommended.</small></span>
+              </label>
+              <label class="rule-choice">
+                <input type="radio" name="reboundScoring" value="all-full">
+                <span><strong>All correct teams get full points</strong><small>Every rebound board marked correct receives the full clue value.</small></span>
+              </label>
+              <label class="rule-choice">
+                <input type="radio" name="reboundScoring" value="shared">
+                <span><strong>Correct teams share the clue value</strong><small>A randomly selected correct team receives any indivisible remainder.</small></span>
+              </label>
+              <label class="rule-choice">
+                <input type="radio" name="reboundScoring" value="fixed">
+                <span><strong>All correct teams get a fixed bonus</strong><small>Every rebound board marked correct receives the selected bonus.</small></span>
+              </label>
+              <div id="fixedBonusRow" class="fixed-bonus-row hidden">
+                <label for="fixedBonusInput">Fixed rebound bonus</label>
+                <input id="fixedBonusInput" type="number" min="0" step="50" value="100" inputmode="numeric">
+              </div>
+            </fieldset>
+
+            <fieldset class="rule-fieldset control-mode-fieldset">
+              <legend>Control after each question</legend>
+              <label class="rule-choice recommended-choice">
+                <input type="radio" name="controlMode" value="rotation" checked>
+                <span><strong>Take turns in team order</strong><small>Control moves to the next team after every question and wraps around. Best for equal participation.</small></span>
+              </label>
+              <label class="rule-choice">
+                <input type="radio" name="controlMode" value="winner">
+                <span><strong>Correct team controls next</strong><small>A correct control team keeps control; a successful rebound winner takes control.</small></span>
+              </label>
+              <label class="rule-choice">
+                <input type="radio" name="controlMode" value="random">
+                <span><strong>Random control each question</strong><small>After each question, control is randomly assigned to any team. The same team may occasionally be selected again.</small></span>
+              </label>
+            </fieldset>
+
+            <fieldset class="rule-fieldset starting-control-fieldset">
+              <legend>Starting control</legend>
+              <label for="startingTeamSelect" class="field-label compact-label">Who chooses the first question?</label>
+              <select id="startingTeamSelect">
+                <option value="random">Random team (recommended)</option>
+              </select>
+              <p class="rule-help">This chooses only the first team. The control mode above determines who chooses later questions.</p>
+            </fieldset>
+          </div>
+
+          <div class="protocol-strip">
+            <strong>Whiteboard protocol:</strong>
+            Boards down while solving → <strong>Pens down — boards up</strong> → no changing or erasing until the host says <strong>Clear</strong>.
+          </div>
+        </section>
+
+        <div class="button-row">
+          <button id="backToQuizButton" class="secondary-button" type="button">Back</button>
+          <button id="startGameButton" class="primary-button" type="button">Start game</button>
+        </div>
+      </div>
+    </section>
+
+    <section id="gameScreen" class="screen game-screen" aria-labelledby="gameQuizTitle">
+      <div class="game-topbar">
+        <div>
+          <span class="eyebrow">Current quiz</span>
+          <h1 id="gameQuizTitle"></h1>
+        </div>
+        <div class="game-actions">
+          <div class="control-toolbar" aria-label="Question control">
+            <span class="control-label">Assign control</span>
+            <select id="controlTeamSelect" aria-label="Team in control"></select>
+            <button id="randomControlButton" class="secondary-button compact-button" type="button">Randomise</button>
+          </div>
+          <button id="finalRoundButton" class="gold-button" type="button">Final Round</button>
+        </div>
+      </div>
+
+      <div id="board" class="board" aria-label="Question board"></div>
+      <div id="scoreboard" class="scoreboard" aria-label="Team scores"></div>
+    </section>
+
+    <section id="resultsScreen" class="screen" aria-labelledby="resultsHeading">
+      <div class="results-card">
+        <div class="eyebrow">Game complete</div>
+        <h1 id="resultsHeading">Final standings</h1>
+        <div id="winnerBanner" class="winner-banner"></div>
+        <ol id="rankings" class="rankings"></ol>
+        <div class="button-row centred-row">
+          <button id="playAgainButton" class="primary-button" type="button">Play again</button>
+          <button id="chooseAnotherButton" class="secondary-button" type="button">Choose another quiz</button>
+        </div>
+      </div>
+      <div id="confettiLayer" class="confetti-layer" aria-hidden="true"></div>
+    </section>
+  </main>
+
+  <div id="rulesModal" class="modal hidden" role="dialog" aria-modal="true" aria-labelledby="rulesTitle">
+    <div class="modal-backdrop" data-close-modal="rules"></div>
+    <section class="modal-card rules-card">
+      <header class="modal-header">
+        <div>
+          <span class="eyebrow">How to play</span>
+          <h2 id="rulesTitle">Rules</h2>
+        </div>
+        <button class="close-button" type="button" data-close-modal="rules" aria-label="Close rules">×</button>
+      </header>
+      <div class="tab-list" role="tablist" aria-label="Rules sections">
+        <button class="tab-button active" type="button" role="tab" data-rule-tab="general">General rules</button>
+        <button class="tab-button" type="button" role="tab" data-rule-tab="scoring">Scoring</button>
+        <button class="tab-button" type="button" role="tab" data-rule-tab="final">Final Round</button>
+      </div>
+      <div id="rulesContent" class="rules-content"></div>
+    </section>
+  </div>
+
+  <div id="answerKeyModal" class="modal hidden answer-key-modal" role="dialog" aria-modal="true" aria-labelledby="answerKeyTitle">
+    <div class="modal-backdrop" data-close-modal="answer-key"></div>
+    <section class="modal-card answer-key-card">
+      <header class="modal-header answer-key-header">
+        <div>
+          <span class="eyebrow">Teacher reference</span>
+          <h2 id="answerKeyTitle">Quiz answer key</h2>
+          <p id="answerKeyMeta" class="answer-key-meta"></p>
+        </div>
+        <div class="answer-key-actions">
+          <button id="printAnswerKeyButton" class="gold-button" type="button">Print answer key</button>
+          <button class="close-button" type="button" data-close-modal="answer-key" aria-label="Close answer key">×</button>
+        </div>
+      </header>
+      <div id="answerKeyContent" class="answer-key-content"></div>
+    </section>
+  </div>
+
+  <div id="importModal" class="modal hidden" role="dialog" aria-modal="true" aria-labelledby="importTitle">
+    <div class="modal-backdrop" data-close-modal="import"></div>
+    <section class="modal-card import-card">
+      <header class="modal-header">
+        <div>
+          <span class="eyebrow">Private browser library</span>
+          <h2 id="importTitle">Import a quiz</h2>
+        </div>
+        <button class="close-button" type="button" data-close-modal="import" aria-label="Close import window">×</button>
+      </header>
+
+      <div class="import-options">
+        <article class="import-option-card">
+          <div class="import-option-icon" aria-hidden="true">JSON</div>
+          <div>
+            <h3>Import a quiz file</h3>
+            <p>Choose a single <code>.json</code> quiz. Best for text-only quizzes.</p>
+            <button id="chooseJsonButton" class="primary-button" type="button">Choose JSON file</button>
+          </div>
+        </article>
+
+        <article class="import-option-card">
+          <div class="import-option-icon" aria-hidden="true">IMG</div>
+          <div>
+            <h3>Import an extracted quiz folder</h3>
+            <p>Select the folder containing the quiz JSON and its <code>images</code> subfolder. This is the recommended option for image questions.</p>
+            <button id="chooseFolderButton" class="secondary-button" type="button">Choose quiz folder</button>
+          </div>
+        </article>
+      </div>
+
+      <input id="quizFileInput" type="file" accept=".json,application/json" hidden>
+      <input id="quizFolderInput" type="file" webkitdirectory directory multiple hidden>
+      <div id="importStatus" class="status-message" role="status"></div>
+      <p class="privacy-note">Imported quizzes are stored only in this browser using IndexedDB. They are not uploaded to GitHub or shared with anyone.</p>
+    </section>
+  </div>
+
+  <div id="questionModal" class="modal hidden" role="dialog" aria-modal="true" aria-labelledby="questionPrompt">
+    <div class="modal-backdrop"></div>
+    <section class="modal-card question-card">
+      <header class="question-header">
+        <div>
+          <span id="questionCategory" class="question-category"></span>
+          <span id="questionValue" class="question-value"></span>
+        </div>
+        <div class="timer-panel">
+          <div id="timerDisplay" class="timer-display" aria-live="polite">—</div>
+          <div id="timerControls" class="timer-controls">
+            <button id="timerStartButton" class="mini-button" type="button">Start</button>
+            <button id="timerPauseButton" class="mini-button" type="button">Pause</button>
+            <button id="timerResetButton" class="mini-button" type="button">Reset</button>
+          </div>
+        </div>
+      </header>
+
+      <div id="whiteboardCue" class="whiteboard-cue">
+        <div class="whiteboard-cue-main">
+          <span class="cue-badge">WHITEBOARDS</span>
+          <strong>All teams solve. Keep boards down.</strong>
+          <span>When ready: <strong>Pens down — boards up.</strong></span>
+        </div>
+        <div class="first-answer-badge">
+          <span>First answer</span>
+          <strong id="firstAnswerTeam">—</strong>
+        </div>
+      </div>
+
+      <div class="question-stage">
+        <img id="questionImage" class="question-image hidden" alt="">
+        <div id="questionPrompt" class="question-prompt"></div>
+        <div id="answerPanel" class="answer-panel hidden">
+          <span class="eyebrow">Answer</span>
+          <div id="questionAnswer" class="question-answer"></div>
+        </div>
+      </div>
+
+      <footer class="question-controls">
+        <div class="question-primary-actions">
+          <button id="revealAnswerButton" class="gold-button" type="button">Reveal answer</button>
+          <button id="returnToBoardButton" class="primary-button hidden" type="button">Return to board</button>
+        </div>
+
+        <section id="firstAttemptPanel" class="first-attempt-panel">
+          <div>
+            <span class="host-scoring-title">Judge the team in control first</span>
+            <strong id="firstAttemptTeamName" class="first-attempt-team-name">—</strong>
+          </div>
+          <div class="global-score-buttons">
+            <button id="firstCorrectButton" class="correct-button" type="button">✓ Correct</button>
+            <button id="firstIncorrectButton" class="incorrect-button" type="button">✕ Incorrect → rebound</button>
+          </div>
+        </section>
+
+        <section id="reboundPanel" class="rebound-panel hidden" aria-labelledby="reboundHeading">
+          <div class="rebound-heading-row">
+            <div>
+              <span class="eyebrow">Rebound</span>
+              <h3 id="reboundHeading">Mark each rebound board</h3>
+              <p>Use ✓ for correct and ✕ for incorrect. Leave both unselected for no answer. In deduction mode, only teams explicitly marked ✕ lose points.</p>
+            </div>
+            <span id="reboundRuleSummary" class="source-pill imported"></span>
+          </div>
+          <div id="reboundTeamGrid" class="rebound-team-grid"></div>
+          <div class="rebound-actions">
+            <button id="selectReboundWinnerButton" class="gold-button" type="button" disabled>Randomly select rebound</button>
+            <button id="noCorrectReboundButton" class="secondary-button" type="button">No correct rebound</button>
+          </div>
+        </section>
+
+        <div id="questionOutcome" class="question-outcome hidden" role="status" aria-live="polite"></div>
+      </footer>
+    </section>
+  </div>
+
+  <div id="scoreEditModal" class="modal hidden" role="dialog" aria-modal="true" aria-labelledby="scoreEditTitle">
+    <div class="modal-backdrop" data-close-modal="score-edit"></div>
+    <section class="modal-card score-edit-card">
+      <header class="modal-header">
+        <div>
+          <span class="eyebrow">Host correction</span>
+          <h2 id="scoreEditTitle">Edit team score</h2>
+        </div>
+        <button class="close-button" type="button" data-close-modal="score-edit" aria-label="Close score editor">×</button>
+      </header>
+      <div class="score-edit-body">
+        <div id="scoreEditTeamName" class="score-edit-team-name"></div>
+        <label for="scoreEditInput" class="field-label compact-label">Set score to</label>
+        <input id="scoreEditInput" class="score-edit-input" type="number" step="1" inputmode="numeric">
+        <div class="score-adjust-row" aria-label="Quick score adjustments">
+          <button class="secondary-button score-adjust-button" type="button" data-score-adjust="-500">−500</button>
+          <button class="secondary-button score-adjust-button" type="button" data-score-adjust="-100">−100</button>
+          <button class="secondary-button score-adjust-button" type="button" data-score-adjust="100">+100</button>
+          <button class="secondary-button score-adjust-button" type="button" data-score-adjust="500">+500</button>
+        </div>
+      </div>
+      <footer class="score-edit-footer">
+        <button class="secondary-button" type="button" data-close-modal="score-edit">Cancel</button>
+        <button id="saveScoreEditButton" class="primary-button" type="button">Save score</button>
+      </footer>
+    </section>
+  </div>
+
+  <div id="finalModal" class="modal hidden" role="dialog" aria-modal="true" aria-labelledby="finalTitle">
+    <div class="modal-backdrop"></div>
+    <section class="modal-card final-card">
+      <header class="modal-header">
+        <div>
+          <span class="eyebrow">Final Round</span>
+          <h2 id="finalTitle">Final Jeopardy</h2>
+        </div>
+      </header>
+      <div id="finalStepContent" class="final-step-content"></div>
+      <footer id="finalFooter" class="final-footer"></footer>
+    </section>
+  </div>
+
+  <div id="toast" class="toast hidden" role="status" aria-live="polite"></div>
+
+  <script src="game.js"></script>
+</body>
+</html>
