@@ -1,2 +1,2 @@
-Classroom Jeopardy Version 3.1
-Whiteboard workflow usability and scoring revision
+Classroom Jeopardy Version 3.2
+Control-mode, rebound timer and compact marking revision
